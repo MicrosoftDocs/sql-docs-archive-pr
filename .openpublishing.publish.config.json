@@ -7,6 +7,11 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
+      "xref_query_tags": [
+        "/sql",
+        "/uwp/api",
+        "/dotnet"
+      ],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
@@ -27,6 +32,32 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "samples",
+      "url": "https://github.com/dotnet/samples",
+      "branch": "master",
+      "branch_mapping": {
+        "live": "live"
+      }
+    },
+    {
+      "path_to_root": "sqlclient",
+      "url": "https://github.com/dotnet/sqlclient",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "sql-server-samples",
+      "url": "https://github.com/Microsoft/sql-server-samples",
       "branch": "master",
       "branch_mapping": {}
     }
