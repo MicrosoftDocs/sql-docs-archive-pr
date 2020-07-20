@@ -110,7 +110,7 @@ The following steps explain how to load offline content for SQL Server 2012
 
 ## View offline documentation
 
-You can view SQL Server help content using the **HELP** menu in the latest version of [SQL Server Management Studio (SSMS)](../ssms/download-sql-server-management-studio-ssms.md).
+You can view SQL Server help content using the **HELP** menu in the latest version of SQL Server Management Studio (SSMS).
 
 ### View offline help content in SSMS
 

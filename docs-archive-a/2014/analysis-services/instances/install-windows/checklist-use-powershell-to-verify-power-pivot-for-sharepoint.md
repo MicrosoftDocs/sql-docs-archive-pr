@@ -1,7 +1,7 @@
 ---
 title: "CheckList: Use PowerShell to Verify PowerPivot for SharePoint | Microsoft Docs"
 ms.custom: ""
-ms.date: "06/13/2017"
+ms.date: 07/20/2020
 ms.prod: "sql-server-2014"
 ms.reviewer: ""
 ms.technology: "database-engine"
@@ -523,3 +523,4 @@ Get-SPSolution | Select name, status, deployed, DeploymentState, DeployedServers
 $time = Get-Date
 Write-Host -ForegroundColor DarkGray StartTime $starttime
 Write-Host -ForegroundColor DarkGray EndTime $time
+```
