@@ -20,7 +20,6 @@
           href: create-an-availability-group-transact-sql.md
         - name: PowerShell
           href: create-an-availability-group-sql-server-powershell.md
-        - name: Azure virtual machines
 - name: How-to 
   items: 
     - name: Configuration
