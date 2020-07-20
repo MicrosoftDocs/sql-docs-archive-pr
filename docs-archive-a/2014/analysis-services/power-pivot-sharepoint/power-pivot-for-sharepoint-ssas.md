@@ -59,7 +59,7 @@ ms.author: owend
   
  [PowerPivot Management Dashboard and Usage Data](power-pivot-management-dashboard-and-usage-data.md)  
   
- [PowerPivot Gallery](../../2014-toc/index.yml)  
+ [PowerPivot Gallery](../../index.yml)  
   
  [PowerPivot Data Access](power-pivot-data-access.md)  
   

@@ -1,5 +1,5 @@
 - name: SQL Server 2014 docs
-  href: index.yml
+  href: ../index.yml
 - name: Analysis Services +
   href: ../analysis-services/analysis-services.md
 - name: Data Quality Services +

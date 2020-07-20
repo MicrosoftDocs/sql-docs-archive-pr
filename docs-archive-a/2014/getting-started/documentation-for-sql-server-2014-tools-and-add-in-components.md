@@ -29,4 +29,4 @@ ms.author: jroth
 |[Power Pivot for SharePoint](https://go.microsoft.com/fwlink/?LinkId=299184)|Power Pivot for SharePoint is an Analysis Services server running in SharePoint mode.|  
   
 ## See Also  
- [SQL Server 2014 Documentation](../2014-toc/index.yml)  
+ [SQL Server 2014 Documentation](../index.yml)  

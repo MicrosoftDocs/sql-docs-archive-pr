@@ -57,9 +57,9 @@ ms.author: jroth
   
  Books Online can be accessed in the following ways:  
   
--   A copy of [!INCLUDE[ssCurrent](../includes/sscurrent-md.md)] Books Online is published in both the MSDN Library and the TechNet Library on the Internet. The topics in these copies of the [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] Books Online include comments from the community, such as additional information and code examples from other customers. You can view the MSDN Library copy at the [SQL Server 2014 Books Online](../2014-toc/index.yml).  
+-   A copy of [!INCLUDE[ssCurrent](../includes/sscurrent-md.md)] Books Online is published in both the MSDN Library and the TechNet Library on the Internet. The topics in these copies of the [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] Books Online include comments from the community, such as additional information and code examples from other customers. You can view the MSDN Library copy at the [SQL Server 2014 Books Online](../index.yml).  
   
--   You can use the Help Library Manager to install [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] Books Online on a local computer. For more information, see [Add or Remove Product Documentation for SQL Server](../2014-toc/index.yml).  
+-   You can use the Help Library Manager to install [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] Books Online on a local computer. For more information, see [Add or Remove Product Documentation for SQL Server](../index.yml).  
   
  Both the copy of [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] Books Online in the MSDN Library and the Books Online files available through Help Library Manager are refreshed when [!INCLUDE[msCoName](../includes/msconame-md.md)] publishes an update to [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] Books Online.  
   
@@ -87,6 +87,6 @@ ms.author: jroth
  [!INCLUDE[msCoName](../includes/msconame-md.md)] products have a support lifecycle that defines how long support is available for each release. [!INCLUDE[msCoName](../includes/msconame-md.md)] support maintains a page that defines the [!INCLUDE[msCoName](../includes/msconame-md.md)] support lifecycle. The page contains links to other pages that specify the availability of support for [!INCLUDE[msCoName](../includes/msconame-md.md)] products. For more information, see [Microsoft Support Lifecycle](https://go.microsoft.com/fwlink/?LinkId=98306).  
   
 ## See Also  
- [Use Product Documentation for SQL Server](../2014-toc/index.yml)  
+ [Use Product Documentation for SQL Server](../index.yml)  
   
   

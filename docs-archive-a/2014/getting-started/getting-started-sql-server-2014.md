@@ -21,7 +21,7 @@ ms.author: jroth
   
  [Quick-Start Installation of SQL Server 2014](quick-start-installation-of-sql-server-2014.md)  
   
- [Get Started with Product Documentation for SQL Server](../2014-toc/index.yml)  
+ [Get Started with Product Documentation for SQL Server](../index.yml)  
   
  [Getting Assistance &#40;SQL Server 2014&#41;](getting-assistance-sql-server-2014.md)  
   

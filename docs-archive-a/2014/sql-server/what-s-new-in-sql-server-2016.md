@@ -24,7 +24,7 @@ This topic summarizes detailed links to new features in [!INCLUDE[ssSQL14](../in
 **Try it out:** ![Azure Virtual Machine small](./media/what-s-new-in-sql-server-2016/azure-virtual-machine-small.png)     Have an Azure account?  Go to https://ms.portal.azure.com/?flight=1#create/Microsoft.SQLServer2014sp1EnterpriseWindowsServer2012R2 to spin up a Virtual Machine with SQL Server 2014 Service Pack 1 (SP1) already installed.
 
 > [!TIP]
-> [Click here](../2014-toc/index.yml) for the home documentation page of SQL Server 2014.
+> [Click here](../index.yml) for the home documentation page of SQL Server 2014.
 
 <!--
 Do not let this file's filename fool you.
@@ -87,7 +87,7 @@ This file, at this exact GitHub path, is dedicated to SQL Server version 2014.
 
 
 ## Additional Information  
- [SQL Server 2014 Resources](../2014-toc/index.yml)  
+ [SQL Server 2014 Resources](../index.yml)  
   
  [SQL Server 2014 Release Notes](https://go.microsoft.com/fwlink/p/?linkID=296445)  
   
