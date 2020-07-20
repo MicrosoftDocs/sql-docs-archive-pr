@@ -12,8 +12,6 @@ ms.date: 07/19/2020
 ---
 # Install SQL Server 2014 offline documentation
 
-[!INCLUDE[appliesto-ss-xxxx-xxxx-xxx-md](../includes/applies-to-version/sqlserver.md)]
-
 This article describes how to download and view offline SQL Server 2014 content. Offline content enables you to access the documentation without an internet connection (although an internet connection is initially required to download it).
 
 The technique involves using the **Help** menu of SQL Server Management Studio (SSMS), to access the Help Viewer utility (HlpViewer.exe).

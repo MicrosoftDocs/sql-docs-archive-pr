@@ -43,7 +43,7 @@ landingContent:
     - linkListType: reference
       links:
       - text: T-SQL in SQL 2014 Offline Books
-        url: sql-server/sql-server-offline-documentation
+        url: sql-server/sql-server-offline-documentation.md?view=sql-server-2014
       - text: CREATE DATABASE and other T-SQL
         url: /sql/t-sql/statements/create-database-transact-sql?view=sql-server-2016
       - text: CREATE TABLE and other T-SQL
@@ -144,6 +144,6 @@ landingContent:
       - text: Analysis Services (SSAS)
         url: analysis-services/analysis-services.md?view=sql-server-2014
       - text: Integration Services (SSIS)
-        url: integration-services/sql-server-integration-services?view=sql-server-2014
+        url: integration-services/sql-server-integration-services.md?view=sql-server-2014
       - text: Reporting Services (SSRS)
         url: reporting-services/create-deploy-and-manage-mobile-and-paginated-reports.md?view=sql-server-2014
