@@ -1,0 +1,99 @@
+- name: Database Engine
+  href: sql-server-database-engine-overview.md
+  items:
+  - name: What's New (Database Engine)
+    href: whats-new-in-sql-server-2016.md
+  - name: SQL Server Database Engine Backward Compatibility
+    href: sql-server-database-engine-backward-compatibility.md
+    items:
+    - name: Deprecated Database Engine Features in SQL Server 2014
+      href: deprecated-database-engine-features-in-sql-server-2016.md
+    - name: Discontinued Database Engine Functionality in SQL Server 2014
+      href: discontinued-database-engine-functionality-in-sql-server-2016.md
+    - name: Breaking Changes to Database Engine Features in SQL Server 2014
+      href: breaking-changes-to-database-engine-features-in-sql-server-2016.md
+    - name: Behavior Changes to Database Engine Features in SQL Server 2014
+      href: behavior-changes-to-database-engine-features-in-sql-server-2014.md
+    - name: Full-Text Search Backward Compatibility
+      href: full-text-search-backward-compatibility.md
+      items:
+      - name: Discontinued Full-Text Search Features in SQL Server 2014
+        href: discontinued-full-text-search-features-in-sql-server-2014.md
+      - name: Breaking Changes to Full-Text Search
+        href: breaking-changes-to-full-text-search.md
+      - name: Behavior Changes to Full-Text Search
+        href: behavior-changes-to-full-text-search.md
+  - name: SQL Server Management Tools Backward Compatibility
+    href: sql-server-management-tools-backward-compatibility.md
+    items:
+    - name: Deprecated Management Tools Features in SQL Server 2014
+      href: deprecated-management-tools-features-in-sql-server-2014.md
+    - name: Discontinued Management Tools Features in SQL Server 2014
+      href: discontinued-management-tools-features-in-sql-server-2014.md
+    - name: Breaking Changes to Management Tools Features in SQL Server 2014
+      href: breaking-changes-to-management-tools-features-in-sql-server-2014.md
+    - name: Behavior Changes to Management Tools Features in SQL Server 2014
+      href: behavior-changes-to-management-tools-features-in-sql-server-2014.md
+- name: Database Engine Features and Tasks
+  href: database-engine-features-and-tasks.md
+- name: Database Engine Instances (SQL Server)
+  href: configure-windows/database-engine-instances-sql-server.md
+  items:
+  - name: Linked Servers (Database Engine)
+    href: ../relational-databases/linked-servers/linked-servers-database-engine.md
+    items:
+    - name: Create Linked Servers (SQL Server Database Engine)
+      href: ../relational-databases/linked-servers/create-linked-servers-sql-server-database-engine.md
+  - name: Logon Triggers
+    href: ../relational-databases/triggers/logon-triggers.md
+    items:
+    - name: Capture Logon Trigger Event Data
+      href: ../relational-databases/triggers/capture-logon-trigger-event-data.md
+  - name: Manage the Database Engine Services +
+    href: configure-windows/manage-the-database-engine-services.md
+  - name: Server Network Configuration +
+    href: configure-windows/server-network-configuration.md
+  - name: Client Network Configuration +
+    href: configure-windows/client-network-configuration.md
+  - name: Diagnostic Connection for Database Administrators
+    href: configure-windows/diagnostic-connection-for-database-administrators.md
+  - name: Cloud Adapter for SQL Server
+    href: cloud-adapter-for-sql-server.md
+  - name: SQL Server 2014 Express LocalDB
+    href: configure-windows/sql-server-2016-express-localdb.md
+  - name: Remote Servers
+    href: configure-windows/remote-servers.md
+  - name: SQL Server Monitor Overview
+    href: configure-windows/sql-server-monitor-overview.md
+  - name: Service Broker
+    href: configure-windows/sql-server-service-broker.md
+  - name: Buffer Pool Extension
+    href: configure-windows/buffer-pool-extension.md
+- name: Database Engine Cross-Instance Features
+  href: database-engine-cross-instance-features.md
+  items:
+  - name: Database Lifecycle Management
+    href: ../relational-databases/database-lifecycle-management.md
+  - name: Administer Multiple Servers Using Central Management Servers
+    href: ../relational-databases/administer-multiple-servers-using-central-management-servers.md
+  - name: SQL Server Configuration Manager
+    href: ../relational-databases/sql-server-configuration-manager.md
+  - name: Activity Monitor
+    href: ../relational-databases/performance-monitor/activity-monitor.md
+    items:
+    - name: Open Activity Monitor (SQL Server Management Studio)
+      href: ../relational-databases/performance-monitor/open-activity-monitor-sql-server-management-studio.md
+- name: Technical Reference
+  href: technical-reference-database-engine.md
+  items:
+  - name: Feature Reference
+    href: feature-reference-database-engine.md
+  - name: Database Engine PowerShell Reference
+    href: database-engine-powershell-reference.md
+    items:
+    - name: Invoke-PolicyEvaluation cmdlet
+      href: invoke-policyevaluation-cmdlet.md
+    - name: Invoke-Sqlcmd cmdlet
+      href: invoke-sqlcmd-cmdlet.md
+    - name: Query Expressions and Uniform Resource Names
+      href: ../powershell/query-expressions-and-uniform-resource-names.md
