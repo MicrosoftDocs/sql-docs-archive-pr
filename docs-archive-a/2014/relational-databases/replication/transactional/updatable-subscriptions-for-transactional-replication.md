@@ -18,13 +18,14 @@ author: MashaMSFT
 ms.author: mathoma
 ---
 # Updatable Subscriptions for Transactional Replication
-[!INCLUDE[tsql-appliesto-ss2008-xxxx-xxxx-xxx_md](../../../includes/tsql-appliesto-ss2008-xxxx-xxxx-xxx-md.md)]
+
+**Applies to:** SQL Server 2008 (and later)
 
     
 > [!NOTE]  
 >  [!INCLUDE[ssNoteDepFutureAvoid](../../../includes/ssnotedepfutureavoid-md.md)]  
   
- Transactional replication supports updates at Subscribers through updatable subscriptions and peer-to-peer replication. The following are the two types of updatable subscriptions:  
+In SQL Server 2014, transactional replication supports updates at Subscribers through updatable subscriptions and peer-to-peer replication. The following are the two types of updatable subscriptions:  
   
 -   Immediate updating. The Publisher and Subscriber must be connected to update data at the Subscriber.  
   

@@ -57,13 +57,8 @@
     "fileMetadata": {
       "feedback_system": {
       },
-      "manager": {
-        "**/*.md": "jroth",
-        "machine-learning/**/*.md": "cgronlun",
-        "dmx/**/*.md": "kfollis",
-        "language-extensions/**/*.md": "cgronlun",
-        "mdx/**/*.md": "kfollis",
-        "reporting-services/**/*.md": "kfollis"
+      "ms.author": {
+        "**/*.md": "Archiveddocs"
       },
       "titleSuffix": {
         "2014/analysis-services/**/*.md": "SQL Server 2014 Analysis Services",
@@ -77,7 +72,7 @@
         "2014/database-engine/database-mirroring/**/*.md": "SQL Server 2014 Database Mirroring",
         "2014/database-engine/log-shipping/windows/**/*.md": "SQL Server 2014 Log Shipping",
         "2014/ssms/**/*.md": "SQL Server Management Studio (SSMS)",
-        "2014/data-quality-services/**/*.md": "Data Quality Services (DQS)",
+        "2014/data-quality-services/**/*.md": "Data Quality Services (DQS)"
       },
       "breadcrumb_path": {
         "2014/**/*.md": "~/2014/breadcrumb/toc.yml"

@@ -1,5 +1,5 @@
 ---
-title: "SQL Server Transaction Log Architecture and Management | Microsoft Docs"
+title: "SQL Server 2014 Transaction Log Architecture and Management | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"
 ms.prod: "sql-server-2014"
@@ -10,9 +10,9 @@ ms.assetid: 4d1a4f97-3fe4-44af-9d4f-f884a6eaa457
 author: rothja
 ms.author: jroth
 ---
-# SQL Server Transaction Log Architecture and Management
+# SQL Server 2014 Transaction Log Architecture and Management
 
-[!INCLUDE[appliesto-ss2008-xxxx-xxxx-xxx_md](../includes/appliesto-ss2008-xxxx-xxxx-xxx-md.md)]
+**Applies to:** SQL Server (starting with 2008)
 
   Every [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] database has a transaction log that records all transactions and the database modifications that are made by each transaction. The transaction log is a critical component of the database and, if there is a system failure, the transaction log might be required to bring your database back to a consistent state. This guide provides information about the physical and logical architecture of the transaction log. Understanding the architecture can improve your effectiveness in managing transaction logs.  
 
