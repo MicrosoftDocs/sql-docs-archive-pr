@@ -27,7 +27,7 @@ ms.author: owend
 Documentation is separated by version. You are currently in SQL Server 2014 Analysis Services documentation.
 
 - To learn more about SQL Server 2012 and earlier, see [SQL Server previous versions documentation](https://docs.microsoft.com/previous-versions/sql/).
-- To learn more about SQL Server 2014, see [Books Online for SQL Server 2014](../2014-toc/index.yml)
+- To learn more about SQL Server 2014, see [Books Online for SQL Server 2014](../index.yml)
 - To learn more about SQL Server 2016 and later, see [Analysis Services documentation](https://docs.microsoft.com/analysis-services/).
 - To learn more about Azure Analysis Services, see [Azure Analysis Services Documentation](https://docs.microsoft.com/azure/analysis-services/).
 

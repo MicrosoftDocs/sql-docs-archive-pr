@@ -43,6 +43,6 @@ ms.author: owend
 5.  Under Permissions and Management, click **Delete this library**.
 
 ## See Also
- [PowerPivot Gallery](../../2014-toc/index.yml)
+ [PowerPivot Gallery](../../index.yml)
 
 

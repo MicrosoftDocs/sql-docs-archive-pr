@@ -145,7 +145,7 @@ ms.author: jroth
   
 ## See Also  
  [Product Specifications for SQL Server 2014](sql-server-2014-product-specifications.md)   
- [Get Started with Product Documentation for SQL Server](../2014-toc/index.yml) 
+ [Get Started with Product Documentation for SQL Server](../index.yml) 
  [Backward Compatibility](backward-compatibility.md)  
   
   

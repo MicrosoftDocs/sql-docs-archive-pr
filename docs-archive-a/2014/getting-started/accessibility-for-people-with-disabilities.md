@@ -69,7 +69,7 @@ ms.author: jroth
  [!INCLUDE[msCoName](../includes/msconame-md.md)] product documentation is available in alternative formats to help our customers with accessibility needs.  
   
 ### Obtaining Documentation for [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)]  
- The documentation for [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] is available online. For more information, see [Use Product Documentation for SQL Server](../2014-toc/index.yml).  
+ The documentation for [!INCLUDE[ssNoVersion](../includes/ssnoversion-md.md)] is available online. For more information, see [Use Product Documentation for SQL Server](../index.yml).  
   
 ## Obtaining Documentation for Additional [!INCLUDE[msCoName](../includes/msconame-md.md)] Products  
  You can obtain accessible documentation for [!INCLUDE[msCoName](../includes/msconame-md.md)] products from the [Microsoft Accessibility Web Site](https://go.microsoft.com/fwlink/?LinkID=67164).  
@@ -104,7 +104,7 @@ ms.author: jroth
  A free monthly electronic newsletter is available to help you keep up to date with accessibility topics about [!INCLUDE[msCoName](../includes/msconame-md.md)] products. To subscribe, see the [Microsoft Accessibility Web Site](https://go.microsoft.com/fwlink/?LinkID=8287).  
   
 ## See Also  
- [Get Started with Product Documentation for SQL Server](../2014-toc/index.yml)   
+ [Get Started with Product Documentation for SQL Server](../index.yml)   
  [Getting SQL Server Assistance](getting-sql-server-assistance.md)  
   
   

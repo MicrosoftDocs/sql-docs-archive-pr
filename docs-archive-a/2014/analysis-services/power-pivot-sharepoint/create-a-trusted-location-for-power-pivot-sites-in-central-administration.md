@@ -55,7 +55,7 @@ ms.author: owend
 11. Click **OK**.  
   
 ## See Also  
- [PowerPivot Gallery](../../2014-toc/index.yml)  
+ [PowerPivot Gallery](../../index.yml)  
  [Create and Customize PowerPivot Gallery](create-and-customize-power-pivot-gallery.md)   
  [Use PowerPivot Gallery](use-power-pivot-gallery.md)  
   
