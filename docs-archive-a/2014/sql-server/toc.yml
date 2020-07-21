@@ -1,5 +1,9 @@
 - name: What's New in SQL Server 2014
   href: what-s-new-in-sql-server-2016.md
+  
+- name: Offline docs for SQL Server 2014
+  href: sql-server-offline-documentation.md
+
 - name: High Availability Solutions +
   href: failover-clusters/high-availability-solutions-sql-server.md
 - name: Compute Capacity Limits by Edition of SQL Server 2014
