@@ -152,7 +152,7 @@
       href: invoke-sqlcmd-cmdlet.md
     - name: Query Expressions and Uniform Resource Names
       href: ../powershell/query-expressions-and-uniform-resource-names.md
-  - name: Guides
-    href: ../2014-toc/toc.yml
+  - name: Guides and reference
+    href: ../2014-toc/developer-reference-for-sql-server-2014.md
 - name: Errors and Events Reference +
   href: ../relational-databases/errors-events/errors-and-events-reference-database-engine.md
