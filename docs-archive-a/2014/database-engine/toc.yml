@@ -1,7 +1,7 @@
 - name: Database Engine
   href: sql-server-database-engine-overview.md
   items:
-  - name: What's New (Database Engine)
+  - name: What's New in 2014 (Database Engine)
     href: whats-new-in-sql-server-2016.md
   - name: SQL Server Database Engine Backward Compatibility
     href: sql-server-database-engine-backward-compatibility.md
@@ -34,11 +34,26 @@
       href: breaking-changes-to-management-tools-features-in-sql-server-2014.md
     - name: Behavior Changes to Management Tools Features in SQL Server 2014
       href: behavior-changes-to-management-tools-features-in-sql-server-2014.md
+- name: Business continuity
+  href: ../sql-server/failover-clusters/high-availability-solutions-sql-server.md
+  items:
+    - name: Always On Availability Groups 
+      href: availability-groups/windows/toc.yml
+    - name: Failover Cluster Instance
+      href: ../sql-server/failover-clusters/toc.yml
+    - name: Database Mirroring
+      href: database-mirroring/toc.yml
+    - name: Log Shipping 
+      href: log-shipping/toc.yml
 - name: Database Engine Features and Tasks
   href: database-engine-features-and-tasks.md
 - name: Database Engine Instances (SQL Server)
   href: configure-windows/database-engine-instances-sql-server.md
   items:
+  - name: Configure Database Engine Instances +
+    href: configure-windows/toc.yml
+  - name: Collation and Unicode Support +
+    href: ../relational-databases/collations/collation-and-unicode-support.md
   - name: Linked Servers (Database Engine)
     href: ../relational-databases/linked-servers/linked-servers-database-engine.md
     items:
@@ -55,6 +70,26 @@
     href: configure-windows/server-network-configuration.md
   - name: Client Network Configuration +
     href: configure-windows/client-network-configuration.md
+  - name: Database Engine Scripting +
+    href: ../relational-databases/scripting/database-engine-scripting.md
+  - name: Maintenance Plans +
+    href: ../relational-databases/maintenance-plans/maintenance-plans.md
+  - name: Resource Governor +
+    href: ../relational-databases/resource-governor/resource-governor.md
+  - name: Database Mail +
+    href: ../relational-databases/database-mail/database-mail.md
+  - name: Extended Events +
+    href: ../relational-databases/extended-events/extended-events.md
+  - name: SQL Trace +
+    href: ../relational-databases/sql-trace/sql-trace.md
+  - name: SQL Server Profiler +
+    href: ../tools/sql-server-profiler/sql-server-profiler.md
+  - name: Track Data Changes +
+    href: ../relational-databases/track-changes/track-data-changes-sql-server.md
+  - name: Log File Viewer +
+    href: ../relational-databases/logs/log-file-viewer.md
+  - name: Database Engine Tuning Advisor +
+    href: ../relational-databases/performance/database-engine-tuning-advisor.md
   - name: Diagnostic Connection for Database Administrators
     href: configure-windows/diagnostic-connection-for-database-administrators.md
   - name: Cloud Adapter for SQL Server
@@ -69,11 +104,27 @@
     href: configure-windows/sql-server-service-broker.md
   - name: Buffer Pool Extension
     href: configure-windows/buffer-pool-extension.md
+- name: Database Features +
+  href: ../relational-databases/database-features.md
 - name: Database Engine Cross-Instance Features
   href: database-engine-cross-instance-features.md
   items:
+  - name: SQL Server Management Studio +
+    href: ../ssms/sql-server-management-studio-ssms.md
   - name: Database Lifecycle Management
     href: ../relational-databases/database-lifecycle-management.md
+  - name: SQL Server Utility Features and Tasks +
+    href: ../relational-databases/manage/sql-server-utility-features-and-tasks.md
+  - name: Administer Servers by Using Policy-Based Management +
+    href: ../relational-databases/policy-based-management/administer-servers-by-using-policy-based-management.md
+  - name: Register Servers +
+    href: ../ssms/register-servers/register-servers.md
+  - name: SQL Server Distributed Replay +
+    href: ../tools/distributed-replay/sql-server-distributed-replay.md
+  - name: Data Collection +
+    href: ../relational-databases/data-collection/data-collection.md
+  - name: Monitor Resource Usage (System Monitor) +
+    href: ../relational-databases/performance-monitor/monitor-resource-usage-system-monitor.md
   - name: Administer Multiple Servers Using Central Management Servers
     href: ../relational-databases/administer-multiple-servers-using-central-management-servers.md
   - name: SQL Server Configuration Manager
@@ -83,11 +134,15 @@
     items:
     - name: Open Activity Monitor (SQL Server Management Studio)
       href: ../relational-databases/performance-monitor/open-activity-monitor-sql-server-management-studio.md
+- name: Security Center for SQL Server Database Engine and Azure SQL Database +
+  href: ../relational-databases/security/security-center-for-sql-server-database-engine-and-azure-sql-database.md
 - name: Technical Reference
   href: technical-reference-database-engine.md
   items:
   - name: Feature Reference
     href: feature-reference-database-engine.md
+  - name: Command Prompt Utility Reference (Database Engine) +
+    href: ../tools/command-prompt-utility-reference-database-engine.md
   - name: Database Engine PowerShell Reference
     href: database-engine-powershell-reference.md
     items:
@@ -97,3 +152,7 @@
       href: invoke-sqlcmd-cmdlet.md
     - name: Query Expressions and Uniform Resource Names
       href: ../powershell/query-expressions-and-uniform-resource-names.md
+  - name: Guides and reference
+    href: ../2014-toc/developer-reference-for-sql-server-2014.md
+- name: Errors and Events Reference +
+  href: ../relational-databases/errors-events/errors-and-events-reference-database-engine.md
