@@ -46,8 +46,6 @@ ms.author: jroth
   
  ![Small File Folder Icon](../integration-services/media/filefolder-small.gif "Small File Folder Icon") [Developing with Analysis Services Scripting Language &#40;ASSL&#41;](https://docs.microsoft.com/analysis-services/multidimensional-models/scripting-language-assl/developing-with-analysis-services-scripting-language-assl)  
   
- ![Small File Folder Icon](../integration-services/media/filefolder-small.gif "Small File Folder Icon") [OLE DB for Data Mining](../analysis-services/dev-guide/ole-db-for-data-mining?view=sql-server-2014)  
-  
  ![Small File Folder Icon](../integration-services/media/filefolder-small.gif "Small File Folder Icon") [Integration Services Developer's Guide](../integration-services/integration-services-developer-documentation.md)  
   
  ![Small File Folder Icon](../integration-services/media/filefolder-small.gif "Small File Folder Icon") [Replication Developer's Guide](../relational-databases/replication/concepts/replication-developer-documentation.md)  
