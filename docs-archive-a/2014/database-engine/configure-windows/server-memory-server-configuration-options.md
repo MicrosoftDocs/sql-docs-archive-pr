@@ -1,7 +1,7 @@
 ---
 title: "Server Memory Configuration Options | Microsoft Docs"
 ms.custom: ""
-ms.date: "03/06/2017"
+ms.date: 07/22/2020
 ms.prod: "sql-server-2014"
 ms.reviewer: ""
 ms.technology: configuration
@@ -56,7 +56,7 @@ The server options **min server memory** and **max server memory** can be set to
 
 <sup>2</sup> Refer to the documentation page on how to [Configure the max worker threads Server Configuration Option](../../database-engine/configure-windows/configure-the-max-worker-threads-server-configuration-option.md), for information on the calculated default worker threads for a given number of affinitized CPUs in the current host.
 
-<sup>3</sup> Refer to the documentation page on [Database Engine Service Startup Options](https://docs.microsoft.com/sql/database-engine/configure-windows/database-engine-service-startup-options?view=sql-server-2014) for information on the *-g* startup parameter. Aplicable only to 32-bit [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] ([!INCLUDE[ssVersion2005](../../includes/ssversion2005-md.md)] through [!INCLUDE[ssSQL14](../../includes/sssql14-md.md)]).
+<sup>3</sup> Refer to the documentation page on [Database Engine Service Startup Options](database-engine-service-startup-options.md?view=sql-server-2014) for information on the *-g* startup parameter. Aplicable only to 32-bit [!INCLUDE[ssNoVersion](../../includes/ssnoversion-md.md)] ([!INCLUDE[ssVersion2005](../../includes/ssversion2005-md.md)] through [!INCLUDE[ssSQL14](../../includes/sssql14-md.md)]).
 
 |OS Type|Minimum Memory Amounts Allowable for **max server memory**|  
 |-------------|----------------------------------------------------------------|  

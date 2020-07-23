@@ -1,7 +1,7 @@
 ---
 title: "Interoperability and Coexistence (Integration Services) | Microsoft Docs"
 ms.custom: ""
-ms.date: "06/13/2017"
+ms.date: 07/22/2020
 ms.prod: "sql-server-2014"
 ms.reviewer: ""
 ms.technology: integration-services
@@ -21,7 +21,7 @@ ms.author: chugu
   
 |Feature|[!INCLUDE[ssISCurrent](../../includes/ssiscurrent-md.md)]|[!INCLUDE[ssISversion11](../../includes/ssisversion11-md.md)]|[!INCLUDE[ssISversion10](../../includes/ssisversion10-md.md)]|  
 |-------------|-------------------------------|---------------------------------|---------------------------------|  
-|Development environment|[Previous releases of SQL Server Data Tools (SSDT and SSDT-BI)](https://docs.microsoft.com/sql/ssdt/previous-releases-of-sql-server-data-tools-ssdt-and-ssdt-bi?view=sql-server-2014)<br /><br /> [SQL Server 2014 Data Tools - Business Intelligence for Visual Studio 2013](https://www.microsoft.com/download/details.aspx?id=42313)|[SQL Server Data Tools for Visual Studio 2010](https://msdn.microsoft.com/library/hh500335\(v=vs.103\).aspx)<br /><br /> [SQL Server Data Tools - Business Intelligence for Visual Studio 2012](https://www.microsoft.com/download/details.aspx?id=36843)|Business Intelligence Development Studio ([!INCLUDE[msCoName](../../includes/msconame-md.md)] [!INCLUDE[vsOrcas](../../includes/vsorcas-md.md)])|  
+|Development environment|[Previous releases of SQL Server Data Tools (SSDT and SSDT-BI)](../../ssdt/previous-releases-of-sql-server-data-tools-ssdt-and-ssdt-bi.md?view=sql-server-2014)<br /><br /> [SQL Server 2014 Data Tools - Business Intelligence for Visual Studio 2013](https://www.microsoft.com/download/details.aspx?id=42313)|[SQL Server Data Tools for Visual Studio 2010](https://msdn.microsoft.com/library/hh500335\(v=vs.103\).aspx)<br /><br /> [SQL Server Data Tools - Business Intelligence for Visual Studio 2012](https://www.microsoft.com/download/details.aspx?id=36843)|Business Intelligence Development Studio ([!INCLUDE[msCoName](../../includes/msconame-md.md)] [!INCLUDE[vsOrcas](../../includes/vsorcas-md.md)])|  
 |Management environment|[!INCLUDE[ssManStudioFull](../../includes/ssmanstudiofull-md.md)]|[!INCLUDE[ssManStudioFull](../../includes/ssmanstudiofull-md.md)]|[!INCLUDE[ssManStudioFull](../../includes/ssmanstudiofull-md.md)]|  
 |Main system table in msdb for storing packages|sysssispackages|sysssispackages|sysssispackages|  
 |Main command prompt utility for running packages|**dtexec** (dtexec.exe), 2014 version|**dtexec** (dtexec.exe), 2012 version|**dtexec** (dtexec.exe), 2008 version|  
