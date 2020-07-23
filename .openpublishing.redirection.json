@@ -1,0 +1,44 @@
+{
+  "redirections": [
+    {
+      "source_path": "docs-archive-a/2014/sql-server/install/example-license-topologies-costs-self-service-business-intelligence.md",
+      "redirect_url": "/sql/sql-server/install/example-license-topologies-costs-self-service-business-intelligence"
+    },
+    {
+      "source_path": "docs-archive-a/2014/relational-databases/replication/transfer-snapshots-through-ftp.md",
+      "redirect_url": "/sql/relational-databases/replication/transfer-snapshots-through-ftp"
+    },
+    {
+      "source_path": "docs-archive-a/2014/relational-databases/replication/snapshots-for-merge-publications-with-parameterized-filters.md",
+      "redirect_url": "/sql/relational-databases/replication/snapshots-for-merge-publications-with-parameterized-filters"
+    },
+    {
+      "source_path": "docs-archive-a/2014/relational-databases/replication/create-and-apply-the-snapshot.md",
+      "redirect_url": "/sql/relational-databases/replication/create-and-apply-the-snapshot"
+    },
+    {
+      "source_path": "docs-archive-a/2014/relational-databases/replication/alternate-snapshot-folder-locations.md",
+      "redirect_url": "/sql/relational-databases/replication/alternate-snapshot-folder-locations"
+    },
+    {
+      "source_path": "docs-archive-a/2014/relational-databases/replication/compressed-snapshots.md",
+      "redirect_url": "/sql/relational-databases/replication/compressed-snapshots"
+    },
+    {
+      "source_path": "docs-archive-a/2014/relational-databases/replication/view-conflict-information-for-merge-publications.md",
+      "redirect_url": "/sql/relational-databases/replication/view-conflict-information-for-merge-publications"
+    },
+    {
+      "source_path": "docs-archive-a/2014/relational-databases/replication/replication-monitor-main-page.md",
+      "redirect_url": "/sql/relational-databases/replication/replication-monitor-main-page"
+    },
+    {
+      "source_path": "docs-archive-a/2014/reporting-services/reports/clickthrough-reports-ssrs.md",
+      "redirect_url": "/sql/reporting-services/reports/clickthrough-reports-ssrs"
+    },
+    {
+      "source_path": "docs-archive-a/2014/reporting-services/report-data/report-model-query-designer-user-interface.md",
+      "redirect_url": "/sql/reporting-services/report-data/report-model-query-designer-user-interface"
+    }
+  ]
+}
