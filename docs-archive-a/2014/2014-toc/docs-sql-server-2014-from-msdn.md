@@ -5,7 +5,7 @@ author: rothja
 ms.prod: "sql-server-2014"
 ms.custom:
 ms.topic: article
-ms.date: 04/26/2018
+ms.date: 07/22/2020
 ms.author: jroth
 ms.reviewer: sudeepk
 ---
@@ -38,7 +38,7 @@ The obsolete MSDN HTTP addresses will continue to work for at least a couple yea
 
 After the move to *Docs*, the address of the root SQL Server 2014 documentation article will be:
 
-- [https://docs.microsoft.com/sql/?view=sql-server-2014](https://docs.microsoft.com/sql/?view=sql-server-2014)
+- [https://docs.microsoft.com/sql/?view=sql-server-2014](../index.yml?view=sqlserver-2014)
 
 
 ## Related links

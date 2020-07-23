@@ -1,7 +1,7 @@
 ---
 title: "Developer Reference for SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
-ms.date: "06/14/2017"
+ms.date: 07/22/2020
 ms.prod: "sql-server-2014"
 ms.reviewer: ""
 ms.technology: 
@@ -45,8 +45,6 @@ ms.author: jroth
  ![Small File Folder Icon](../integration-services/media/filefolder-small.gif "Small File Folder Icon") [Developing with Analysis Management Objects &#40;AMO&#41;](https://docs.microsoft.com/bi-reference/amo/developing-with-analysis-management-objects-amo)  
   
  ![Small File Folder Icon](../integration-services/media/filefolder-small.gif "Small File Folder Icon") [Developing with Analysis Services Scripting Language &#40;ASSL&#41;](https://docs.microsoft.com/analysis-services/multidimensional-models/scripting-language-assl/developing-with-analysis-services-scripting-language-assl)  
-  
- ![Small File Folder Icon](../integration-services/media/filefolder-small.gif "Small File Folder Icon") [OLE DB for Data Mining](https://docs.microsoft.com/sql/analysis-services/dev-guide/ole-db-for-data-mining?view=sql-server-2014)  
   
  ![Small File Folder Icon](../integration-services/media/filefolder-small.gif "Small File Folder Icon") [Integration Services Developer's Guide](../integration-services/integration-services-developer-documentation.md)  
   
