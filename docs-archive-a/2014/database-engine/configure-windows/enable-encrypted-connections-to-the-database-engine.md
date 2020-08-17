@@ -1,4 +1,5 @@
 ---
+description: "Enable Encrypted Connections to the Database Engine (SQL Server Configuration Manager)"
 title: "Enable Encrypted Connections to the Database Engine (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

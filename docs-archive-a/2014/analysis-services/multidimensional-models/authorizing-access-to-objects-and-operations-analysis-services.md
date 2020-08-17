@@ -1,4 +1,5 @@
 ---
+description: "Authorizing access to objects and operations (Analysis Services)"
 title: "Authorizing access to objects and operations (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

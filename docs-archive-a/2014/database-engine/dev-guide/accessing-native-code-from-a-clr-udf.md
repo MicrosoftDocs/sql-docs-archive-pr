@@ -1,4 +1,5 @@
 ---
+description: "Accessing Native Code from a CLR UDF"
 title: "Accessing Native Code from a CLR UDF | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

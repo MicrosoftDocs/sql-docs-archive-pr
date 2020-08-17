@@ -1,4 +1,5 @@
 ---
+description: "Exclude a Column from a Mining Model"
 title: "Exclude a Column from a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "The Basic MDX Script (MDX)"
 title: "The Basic MDX Script (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

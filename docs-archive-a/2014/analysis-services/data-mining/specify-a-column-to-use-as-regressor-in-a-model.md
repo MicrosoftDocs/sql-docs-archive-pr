@@ -1,4 +1,5 @@
 ---
+description: "Specify a Column to Use as Regressor in a Model"
 title: "Specify a Column to Use as Regressor in a Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

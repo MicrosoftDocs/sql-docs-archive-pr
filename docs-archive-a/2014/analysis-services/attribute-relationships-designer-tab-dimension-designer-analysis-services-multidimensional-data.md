@@ -1,4 +1,5 @@
 ---
+description: "Attribute Relationships (Attribute Relationship Designer Tab, Dimension Designer) (Analysis Services - Multidimensional Data)"
 title: "Attribute Relationships (Attribute Relationship Designer Tab, Dimension Designer) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Use SQL Server Extended Events (XEvents) to Monitor Analysis Services"
 title: "Use SQL Server Extended Events (XEvents) to Monitor Analysis Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/07/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Options (Text Editor - XML - Formatting Page)"
 title: "Options (Text Editor - XML - Formatting Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

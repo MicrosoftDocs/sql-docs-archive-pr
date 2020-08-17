@@ -1,4 +1,5 @@
 ---
+description: "Schedule a Data Refresh (PowerPivot for SharePoint)"
 title: "Schedule a Data Refresh (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

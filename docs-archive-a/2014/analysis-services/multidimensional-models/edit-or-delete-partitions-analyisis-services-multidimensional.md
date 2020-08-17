@@ -1,4 +1,5 @@
 ---
+description: "Edit or Delete Partitions (Analyisis Services - Multidimensional)"
 title: "Edit or Delete Partitions (Analyisis Services - Multidimensional) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

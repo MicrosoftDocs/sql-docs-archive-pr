@@ -1,4 +1,5 @@
 ---
+description: "Model Filter Syntax and Examples (Analysis Services - Data Mining)"
 title: "Model Filter Syntax and Examples (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

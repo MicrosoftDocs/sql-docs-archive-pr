@@ -1,4 +1,5 @@
 ---
+description: "Event Pairing Target"
 title: "Event Pairing Target | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

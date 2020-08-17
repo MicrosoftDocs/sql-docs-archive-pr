@@ -1,4 +1,5 @@
 ---
+description: "Measures and Measure Groups"
 title: "Measures and Measure Groups | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

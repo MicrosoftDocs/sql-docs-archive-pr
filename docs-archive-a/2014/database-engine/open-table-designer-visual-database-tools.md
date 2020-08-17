@@ -1,4 +1,5 @@
 ---
+description: "Open Table Designer (Visual Database Tools)"
 title: "Open Table Designer (Visual Database Tools) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

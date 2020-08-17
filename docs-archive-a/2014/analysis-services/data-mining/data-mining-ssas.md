@@ -1,4 +1,5 @@
 ---
+description: "Data Mining (SSAS)"
 title: "Data Mining (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Add or Remove an Integration Services Project in a Solution"
 title: "Add or Remove an Integration Services Project in a Solution | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

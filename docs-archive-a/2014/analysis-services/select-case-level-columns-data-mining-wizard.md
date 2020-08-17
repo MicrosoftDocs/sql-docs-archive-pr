@@ -1,4 +1,5 @@
 ---
+description: "Select Case Level Columns (Data Mining Wizard)"
 title: "Select Case Level Columns (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

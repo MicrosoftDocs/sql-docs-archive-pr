@@ -1,4 +1,5 @@
 ---
+description: "Enable Dimension Writeback (Dimension) (Business Intelligence Wizard)"
 title: "Enable Dimension Writeback (Dimension) (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

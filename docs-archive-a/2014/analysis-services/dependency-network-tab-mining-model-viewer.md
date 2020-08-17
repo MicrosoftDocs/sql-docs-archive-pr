@@ -1,4 +1,5 @@
 ---
+description: "Dependency Network Tab (Mining Model Viewer)"
 title: "Dependency Network Tab (Mining Model Viewer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

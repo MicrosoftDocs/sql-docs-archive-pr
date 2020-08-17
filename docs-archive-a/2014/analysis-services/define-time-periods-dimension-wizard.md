@@ -1,4 +1,5 @@
 ---
+description: "Define Time Periods (Dimension Wizard)"
 title: "Define Time Periods (Dimension Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Assign Aggregation Design Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Assign Aggregation Design Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

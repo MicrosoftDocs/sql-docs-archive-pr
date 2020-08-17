@@ -1,4 +1,5 @@
 ---
+description: "Connect to a Data Source (SSAS)"
 title: "Connect to a Data Source (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

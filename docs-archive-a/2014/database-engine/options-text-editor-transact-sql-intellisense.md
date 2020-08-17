@@ -1,4 +1,5 @@
 ---
+description: "Options (Text Editor-Transact-SQL-IntelliSense)"
 title: "Options (Text Editor-Transact-SQL-IntelliSense) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

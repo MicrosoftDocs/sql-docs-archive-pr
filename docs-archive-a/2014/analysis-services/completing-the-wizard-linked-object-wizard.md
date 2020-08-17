@@ -1,4 +1,5 @@
 ---
+description: "Completing the Wizard (Linked Object Wizard)"
 title: "Completing the Wizard (Linked Object Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

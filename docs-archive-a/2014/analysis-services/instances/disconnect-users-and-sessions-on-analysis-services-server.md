@@ -1,4 +1,5 @@
 ---
+description: "Disconnect Users and Sessions on Analysis Services Server"
 title: "Disconnect Users and Sessions on Analysis Services Server | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

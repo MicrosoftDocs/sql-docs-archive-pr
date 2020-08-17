@@ -1,4 +1,5 @@
 ---
+description: "Automate Analysis Services Administrative Tasks with SSIS"
 title: "Automate Analysis Services Administrative Tasks with SSIS | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

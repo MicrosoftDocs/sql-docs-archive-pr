@@ -1,4 +1,5 @@
 ---
+description: "Database Dimension Properties"
 title: "Database Dimension Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

@@ -1,4 +1,5 @@
 ---
+description: "DAX Formula Compatibility in DirectQuery Mode (SSAS 2014)"
 title: "DAX Formula Compatibility in DirectQuery Mode (SSAS 2014) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

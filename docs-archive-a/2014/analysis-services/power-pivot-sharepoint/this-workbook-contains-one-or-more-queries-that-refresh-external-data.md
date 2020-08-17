@@ -1,4 +1,5 @@
 ---
+description: "This workbook contains one or more queries that refresh external data."
 title: "This workbook contains one or more queries that refresh external data. | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

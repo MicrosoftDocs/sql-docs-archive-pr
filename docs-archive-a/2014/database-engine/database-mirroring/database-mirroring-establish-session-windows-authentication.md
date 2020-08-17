@@ -1,4 +1,5 @@
 ---
+description: "Establish a Database Mirroring Session Using Windows Authentication (Transact-SQL)"
 title: "Establish a Database Mirroring Session Using Windows Authentication (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

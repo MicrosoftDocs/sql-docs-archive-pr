@@ -1,4 +1,5 @@
 ---
+description: "Add or Replace a Database Mirroring Witness (SQL Server Management Studio)"
 title: "Add or Replace a Database Mirroring Witness (SQL Server Management Studio) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

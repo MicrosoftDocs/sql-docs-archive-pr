@@ -1,4 +1,5 @@
 ---
+description: "Configure Default Data Modeling and Deployment Properties (SSAS Tabular)"
 title: "Configure Default Data Modeling and Deployment Properties (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

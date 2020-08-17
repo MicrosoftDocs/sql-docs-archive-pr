@@ -1,4 +1,5 @@
 ---
+description: "ADO NET Source Editor (Connection Manager Page)"
 title: "ADO NET Source Editor (Connection Manager Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

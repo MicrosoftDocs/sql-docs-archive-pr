@@ -1,4 +1,5 @@
 ---
+description: "Designing Aggregations (Analysis Services - Multidimensional)"
 title: "Designing Aggregations (Analysis Services - Multidimensional) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

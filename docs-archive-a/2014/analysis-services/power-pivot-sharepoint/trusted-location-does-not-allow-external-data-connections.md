@@ -1,4 +1,5 @@
 ---
+description: "The trusted location where the workbook is stored does not allow external data connections. The following connections failed to refresh: PowerPivot Data"
 title: "The trusted location where the workbook is stored does not allow external data connections. The following connections failed to refresh: PowerPivot Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

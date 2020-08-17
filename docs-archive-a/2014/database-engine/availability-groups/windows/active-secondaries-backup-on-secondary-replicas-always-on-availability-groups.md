@@ -1,4 +1,5 @@
 ---
+description: "Active Secondaries: Backup on Secondary Replicas (Always On Availability Groups)"
 title: "Active Secondaries: Backup on Secondary Replicas (Always On Availability Groups) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

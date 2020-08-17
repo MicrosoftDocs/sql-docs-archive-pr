@@ -1,4 +1,5 @@
 ---
+description: "Determine the Server Mode of an Analysis Services Instance"
 title: "Determine the Server Mode of an Analysis Services Instance | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

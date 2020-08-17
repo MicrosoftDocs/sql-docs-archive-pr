@@ -1,4 +1,5 @@
 ---
+description: "String Storage and Collation in Tabular Models"
 title: "String Storage and Collation in Tabular Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

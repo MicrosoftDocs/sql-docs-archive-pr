@@ -1,4 +1,5 @@
 ---
+description: "Configure a Windows Firewall for Database Engine Access"
 title: "Configure a Windows Firewall for Database Engine Access | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/22/2017"

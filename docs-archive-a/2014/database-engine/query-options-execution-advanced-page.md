@@ -1,4 +1,5 @@
 ---
+description: "Query Options Execution (Advanced Page)"
 title: "Query Options Execution (Advanced Page) | Microsoft Docs"
 ms.prod: "sql-server-2014"
 ms.technology: "database-engine"

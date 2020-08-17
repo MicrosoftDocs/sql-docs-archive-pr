@@ -1,4 +1,5 @@
 ---
+description: "Create and Manage a Local Partition (Analysis Services)"
 title: "Create and Manage a Local Partition (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

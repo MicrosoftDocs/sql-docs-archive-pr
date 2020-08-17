@@ -1,4 +1,5 @@
 ---
+description: "End the Domain Management Activity"
 title: "End the Domain Management Activity | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

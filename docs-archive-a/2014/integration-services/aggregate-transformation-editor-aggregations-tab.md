@@ -1,4 +1,5 @@
 ---
+description: "Aggregate Transformation Editor (Aggregations Tab)"
 title: "Aggregate Transformation Editor (Aggregations Tab) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

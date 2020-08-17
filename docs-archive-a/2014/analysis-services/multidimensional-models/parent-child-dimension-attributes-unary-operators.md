@@ -1,4 +1,5 @@
 ---
+description: "Unary Operators in Parent-Child Dimensions"
 title: "Unary Operators in Parent-Child Dimensions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

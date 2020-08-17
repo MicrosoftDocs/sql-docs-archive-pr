@@ -1,4 +1,5 @@
 ---
+description: "Enable Drillthrough for a Mining Model"
 title: "Enable Drillthrough for a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

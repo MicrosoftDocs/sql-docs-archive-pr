@@ -1,4 +1,5 @@
 ---
+description: "Install SQL Server 2014 Using SysPrep"
 title: "Install SQL Server 2014 Using SysPrep | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

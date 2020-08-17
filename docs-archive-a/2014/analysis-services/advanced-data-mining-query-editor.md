@@ -1,4 +1,5 @@
 ---
+description: "Advanced Data Mining Query Editor"
 title: "Advanced Data Mining Query Editor | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

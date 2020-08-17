@@ -1,4 +1,5 @@
 ---
+description: "common criteria compliance enabled Server Configuration Option"
 title: "common criteria compliance enabled Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Azure Resource Manager Connection Manager"
 title: "Azure Resource Manager Connection Manager | Microsoft Docs"
 ms.custom: ""
 ms.date: "02/28/2017"

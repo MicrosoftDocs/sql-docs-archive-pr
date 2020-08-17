@@ -1,4 +1,5 @@
 ---
+description: "Tabular Model Data Access"
 title: "Tabular Model Data Access | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

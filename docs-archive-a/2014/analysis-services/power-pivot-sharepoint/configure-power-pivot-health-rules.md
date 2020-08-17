@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Health Rules - Configure"
 title: "PowerPivot Health Rules - Configure | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "SQL Server 2014 Express LocalDB"
 title: "SQL Server 2014 Express LocalDB | Microsoft Docs"
 ms.custom: ""
 ms.date: "07/17/2017"

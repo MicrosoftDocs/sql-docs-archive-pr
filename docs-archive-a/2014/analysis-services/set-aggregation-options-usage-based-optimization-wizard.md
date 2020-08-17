@@ -1,4 +1,5 @@
 ---
+description: "Set Aggregation Options (Usage-Based Optimization Wizard)"
 title: "Set Aggregation Options (Usage-Based Optimization Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Choose How to Import the Data (SSAS)"
 title: "Choose How to Import the Data (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Guidelines for Retry Logic for Transactions on Memory-Optimized Tables"
 title: "Guidelines for Retry Logic for Transactions on Memory-Optimized Tables | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Lesson 8: Defining Actions"
 title: "Lesson 8: Defining Actions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

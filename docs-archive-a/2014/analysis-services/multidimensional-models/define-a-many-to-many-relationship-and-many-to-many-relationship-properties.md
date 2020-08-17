@@ -1,4 +1,5 @@
 ---
+description: "Define a Many-to-Many Relationship and Many-to-Many Relationship Properties"
 title: "Define a Many-to-Many Relationship and Many-to-Many Relationship Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

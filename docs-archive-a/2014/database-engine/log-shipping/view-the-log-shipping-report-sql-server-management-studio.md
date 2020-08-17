@@ -1,4 +1,5 @@
 ---
+description: "View the Log Shipping Report (SQL Server Management Studio)"
 title: "View the Log Shipping Report (SQL Server Management Studio) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

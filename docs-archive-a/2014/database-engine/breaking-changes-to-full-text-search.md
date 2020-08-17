@@ -1,4 +1,5 @@
 ---
+description: "Breaking Changes to Full-Text Search"
 title: "Breaking Changes to Full-Text Search | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

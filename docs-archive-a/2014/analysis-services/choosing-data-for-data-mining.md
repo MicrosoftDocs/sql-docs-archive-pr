@@ -1,4 +1,5 @@
 ---
+description: "Choosing Data for Data Mining"
 title: "Choosing Data for Data Mining | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

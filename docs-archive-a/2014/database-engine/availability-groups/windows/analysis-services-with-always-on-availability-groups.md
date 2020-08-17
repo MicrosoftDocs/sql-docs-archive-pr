@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services with Always On Availability Groups"
 title: "Analysis Services with Always On Availability Groups | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

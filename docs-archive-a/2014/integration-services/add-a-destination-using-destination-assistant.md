@@ -1,4 +1,5 @@
 ---
+description: "Add a Destination using Destination Assistant"
 title: "Add a Destination using Destination Assistant | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

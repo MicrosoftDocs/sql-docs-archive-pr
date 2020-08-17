@@ -1,4 +1,5 @@
 ---
+description: "Some availability replicas are not synchronizing data"
 title: "Some availability replicas are not synchronizing data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

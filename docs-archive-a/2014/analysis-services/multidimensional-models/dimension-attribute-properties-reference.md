@@ -1,4 +1,5 @@
 ---
+description: "Dimension Attribute Properties Reference"
 title: "Dimension Attribute Properties Reference | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

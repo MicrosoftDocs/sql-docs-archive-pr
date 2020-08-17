@@ -1,4 +1,5 @@
 ---
+description: "Configure Measure Properties"
 title: "Configure Measure Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

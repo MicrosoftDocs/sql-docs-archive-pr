@@ -1,4 +1,5 @@
 ---
+description: "UI Designers and Dialogs for Multidimensional Analysis"
 title: "UI Designers and Dialogs for Multidimensional Analysis | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/17/2018"

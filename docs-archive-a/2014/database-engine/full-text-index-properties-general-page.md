@@ -1,4 +1,5 @@
 ---
+description: "Full-Text Index Properties (General Page)"
 title: "Full-Text Index Properties (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

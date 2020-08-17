@@ -1,4 +1,5 @@
 ---
+description: "Access to Files Used by Packages"
 title: "Access to Files Used by Packages | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

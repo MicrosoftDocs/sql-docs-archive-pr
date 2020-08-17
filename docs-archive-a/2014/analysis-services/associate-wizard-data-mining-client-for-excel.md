@@ -1,4 +1,5 @@
 ---
+description: "Associate Wizard (Data Mining Client for Excel)"
 title: "Associate Wizard (Data Mining Client for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

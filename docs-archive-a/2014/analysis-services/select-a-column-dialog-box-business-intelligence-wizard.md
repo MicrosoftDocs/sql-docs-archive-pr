@@ -1,4 +1,5 @@
 ---
+description: "Select a Column Dialog Box (Business Intelligence Wizard)"
 title: "Select a Column Dialog Box (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

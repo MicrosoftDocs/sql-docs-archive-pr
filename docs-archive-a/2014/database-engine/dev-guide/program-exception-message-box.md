@@ -1,4 +1,5 @@
 ---
+description: "Program Exception Message Box"
 title: "Program Exception Message Box | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Server Properties (Security Page)"
 title: "Server Properties (Security Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

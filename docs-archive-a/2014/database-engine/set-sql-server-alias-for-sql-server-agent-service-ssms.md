@@ -1,4 +1,5 @@
 ---
+description: "Set a SQL Server Alias for the SQL Server Agent Service (SQL Server Management Studio)"
 title: "Set a SQL Server Alias for the SQL Server Agent Service (SQL Server Management Studio) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

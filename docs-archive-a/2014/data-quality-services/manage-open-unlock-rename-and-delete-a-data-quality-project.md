@@ -1,4 +1,5 @@
 ---
+description: "Manage (Open, Unlock, Rename, and Delete) a Data Quality Project"
 title: "Manage (Open, Unlock, Rename, and Delete) a Data Quality Project | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

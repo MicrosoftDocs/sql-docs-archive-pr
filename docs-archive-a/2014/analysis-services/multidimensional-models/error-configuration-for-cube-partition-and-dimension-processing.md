@@ -1,4 +1,5 @@
 ---
+description: "Error Configuration for Cube, Partition, and Dimension Processing (SSAS - Multidimensional)"
 title: "Error Configuration for Cube, Partition, and Dimension Processing (SSAS - Multidimensional) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

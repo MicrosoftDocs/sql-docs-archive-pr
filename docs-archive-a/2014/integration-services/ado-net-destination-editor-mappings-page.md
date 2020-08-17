@@ -1,4 +1,5 @@
 ---
+description: "ADO NET Destination Editor (Mappings Page)"
 title: "ADO NET Destination Editor (Mappings Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Create and Manage Hierarchies (SSAS Tabular)"
 title: "Create and Manage Hierarchies (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

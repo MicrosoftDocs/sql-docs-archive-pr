@@ -1,4 +1,5 @@
 ---
+description: "Building Cell Calculations in MDX (MDX)"
 title: "Building Cell Calculations in MDX (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

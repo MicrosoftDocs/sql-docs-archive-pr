@@ -1,4 +1,5 @@
 ---
+description: "Building Measures in MDX"
 title: "Building Measures in MDX | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

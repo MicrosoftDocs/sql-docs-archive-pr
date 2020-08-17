@@ -1,4 +1,5 @@
 ---
+description: "LANGUAGE and FORMAT_STRING on FORMATED_VALUE"
 title: "LANGUAGE and FORMAT_STRING on FORMATED_VALUE | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

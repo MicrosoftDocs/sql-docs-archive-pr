@@ -1,4 +1,5 @@
 ---
+description: "Table Import Wizard Reference (SSAS)"
 title: "Table Import Wizard Reference (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Collations and Code Pages"
 title: "Collations and Code Pages | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

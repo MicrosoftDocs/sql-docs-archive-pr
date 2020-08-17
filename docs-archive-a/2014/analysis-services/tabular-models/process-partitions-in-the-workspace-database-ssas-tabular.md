@@ -1,4 +1,5 @@
 ---
+description: "Process Partitions in the Workspace Database (SSAS Tabular)"
 title: "Process Partitions in the Workspace Database (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

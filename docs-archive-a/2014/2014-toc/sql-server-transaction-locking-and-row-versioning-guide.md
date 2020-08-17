@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Transaction Locking and Row Versioning Guide"
 title: "SQL Server Transaction Locking and Row Versioning Guide | Microsoft Docs"
 ms.custom: ""
 ms.date: 01/24/2019

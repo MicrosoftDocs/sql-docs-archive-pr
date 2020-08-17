@@ -1,4 +1,5 @@
 ---
+description: "Suggest Related Columns (Data Mining Wizard)"
 title: "Suggest Related Columns (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

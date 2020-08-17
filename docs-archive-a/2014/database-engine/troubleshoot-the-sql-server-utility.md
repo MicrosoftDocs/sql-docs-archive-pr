@@ -1,4 +1,5 @@
 ---
+description: "Troubleshoot the SQL Server Utility"
 title: "Troubleshoot the SQL Server Utility | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Verify a PowerPivot for SharePoint Installation"
 title: "Verify a PowerPivot for SharePoint Installation | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "ISQLServerErrorInfo (OLE DB)"
 title: "ISQLServerErrorInfo (OLE DB) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

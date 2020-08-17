@@ -1,4 +1,5 @@
 ---
+description: "Configure Dimension Attributes (Business Intelligence Wizard)"
 title: "Configure Dimension Attributes (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

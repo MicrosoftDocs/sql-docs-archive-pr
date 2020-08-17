@@ -1,4 +1,5 @@
 ---
+description: "Query the Parameters Used to Create a Mining Model"
 title: "Query the Parameters Used to Create a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

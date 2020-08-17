@@ -1,4 +1,5 @@
 ---
+description: "Troubleshoot Database Mirroring Configuration (SQL Server)"
 title: "Troubleshoot Database Mirroring Configuration (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

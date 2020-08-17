@@ -1,4 +1,5 @@
 ---
+description: "Advanced Data Source View Options Dialog Box (Data Source View Wizard) (Analysis Services)"
 title: "Advanced Data Source View Options Dialog Box (Data Source View Wizard) (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Multidimensional Model Databases (SSAS)"
 title: "Multidimensional Model Databases (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

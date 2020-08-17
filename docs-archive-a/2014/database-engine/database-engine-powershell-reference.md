@@ -1,4 +1,5 @@
 ---
+description: "Database Engine PowerShell Reference"
 title: "Database Engine PowerShell Reference | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

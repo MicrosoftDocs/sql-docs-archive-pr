@@ -1,4 +1,5 @@
 ---
+description: "Create Drillthrough Queries using DMX"
 title: "Create Drillthrough Queries using DMX | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

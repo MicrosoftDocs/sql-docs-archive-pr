@@ -1,4 +1,5 @@
 ---
+description: "Find a Specific Node in a Dependency Network"
 title: "Find a Specific Node in a Dependency Network | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

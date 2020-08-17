@@ -1,4 +1,5 @@
 ---
+description: "OLE DB for Data Mining"
 title: "OLE DB for Data Mining | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

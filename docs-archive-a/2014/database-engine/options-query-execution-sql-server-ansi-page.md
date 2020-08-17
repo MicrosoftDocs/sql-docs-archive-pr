@@ -1,4 +1,5 @@
 ---
+description: "Options (Query Execution-SQL Server-ANSI Page)"
 title: "Options (Query Execution-SQL Server-ANSI Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

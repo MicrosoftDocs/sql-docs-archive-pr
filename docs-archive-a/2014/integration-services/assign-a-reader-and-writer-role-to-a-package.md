@@ -1,4 +1,5 @@
 ---
+description: "Assign a Reader and Writer Role to a Package"
 title: "Assign a Reader and Writer Role to a Package | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

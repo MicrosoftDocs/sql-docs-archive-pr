@@ -1,4 +1,5 @@
 ---
+description: "Creating Session-Scoped Calculated Cells"
 title: "Creating Session-Scoped Calculated Cells | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

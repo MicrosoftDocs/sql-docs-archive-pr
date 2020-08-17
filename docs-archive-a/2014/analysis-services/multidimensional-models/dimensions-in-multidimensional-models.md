@@ -1,4 +1,5 @@
 ---
+description: "Dimensions in Multidimensional Models"
 title: "Dimensions in Multidimensional Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

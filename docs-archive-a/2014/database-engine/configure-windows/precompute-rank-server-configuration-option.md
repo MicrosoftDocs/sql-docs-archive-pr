@@ -1,4 +1,5 @@
 ---
+description: "precompute rank Server Configuration Option"
 title: "precompute rank Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

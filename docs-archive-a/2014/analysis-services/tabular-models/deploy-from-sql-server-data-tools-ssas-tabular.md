@@ -1,4 +1,5 @@
 ---
+description: "Deploy From SQL Server Data Tools (SSAS Tabular)"
 title: "Deploy From SQL Server Data Tools (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

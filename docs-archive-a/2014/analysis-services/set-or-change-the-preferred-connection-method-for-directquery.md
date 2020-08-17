@@ -1,4 +1,5 @@
 ---
+description: "Set or Change the Preferred Connection Method for DirectQuery"
 title: "Set or Change the Preferred Connection Method for DirectQuery | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

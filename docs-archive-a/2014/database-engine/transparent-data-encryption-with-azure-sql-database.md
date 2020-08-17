@@ -1,4 +1,5 @@
 ---
+description: "Transparent Data Encryption with Azure SQL Database"
 title: "Transparent Data Encryption with Azure SQL Database | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

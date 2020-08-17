@@ -1,4 +1,5 @@
 ---
+description: "Availability group is not ready for automatic failover"
 title: "Availability group is not ready for automatic failover | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

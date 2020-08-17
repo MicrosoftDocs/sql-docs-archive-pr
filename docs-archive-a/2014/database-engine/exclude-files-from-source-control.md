@@ -1,4 +1,5 @@
 ---
+description: "Exclude Files from Source Control"
 title: "Exclude Files from Source Control | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

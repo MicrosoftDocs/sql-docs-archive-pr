@@ -1,4 +1,5 @@
 ---
+description: "Handling Large Objects Using CLR"
 title: "Handling Large Objects Using CLR | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

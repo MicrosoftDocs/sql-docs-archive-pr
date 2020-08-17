@@ -1,4 +1,5 @@
 ---
+description: "Configure Windows Service Accounts and Permissions"
 title: "Configure Windows Service Accounts and Permissions | Microsoft Docs"
 ms.custom: ""
 ms.date: "01/28/2020"

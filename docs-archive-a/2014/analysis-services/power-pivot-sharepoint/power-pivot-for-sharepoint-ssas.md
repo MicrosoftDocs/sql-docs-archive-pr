@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot for SharePoint (SSAS)"
 title: "PowerPivot for SharePoint (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: 11/25/2019

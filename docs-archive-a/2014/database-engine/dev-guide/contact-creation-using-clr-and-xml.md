@@ -1,4 +1,5 @@
 ---
+description: "Contact Creation using CLR and XML"
 title: "Contact Creation using CLR and XML | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

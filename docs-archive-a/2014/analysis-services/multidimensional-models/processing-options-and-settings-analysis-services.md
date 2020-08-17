@@ -1,4 +1,5 @@
 ---
+description: "Processing Options and Settings (Analysis Services)"
 title: "Processing Options and Settings (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

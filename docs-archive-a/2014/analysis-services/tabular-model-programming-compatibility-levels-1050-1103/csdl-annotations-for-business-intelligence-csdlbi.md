@@ -1,4 +1,5 @@
 ---
+description: "CSDL Annotations for Business Intelligence (CSDLBI)"
 title: "CSDL Annotations for Business Intelligence (CSDLBI) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

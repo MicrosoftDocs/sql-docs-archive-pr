@@ -1,4 +1,5 @@
 ---
+description: "Browsing Models in Excel (SQL Server Data Mining Add-ins)"
 title: "Browsing Models in Excel (SQL Server Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

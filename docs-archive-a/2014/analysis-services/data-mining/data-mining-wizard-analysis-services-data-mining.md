@@ -1,4 +1,5 @@
 ---
+description: "Data Mining Wizard (Analysis Services - Data Mining)"
 title: "Data Mining Wizard (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "07/17/2017"

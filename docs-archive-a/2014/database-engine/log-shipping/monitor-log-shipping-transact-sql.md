@@ -1,4 +1,5 @@
 ---
+description: "Monitor Log Shipping (Transact-SQL)"
 title: "Monitor Log Shipping (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

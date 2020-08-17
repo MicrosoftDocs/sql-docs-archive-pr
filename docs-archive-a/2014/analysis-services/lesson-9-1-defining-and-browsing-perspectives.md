@@ -1,4 +1,5 @@
 ---
+description: "Defining and Browsing Perspectives"
 title: "Defining and Browsing Perspectives | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Copy a View of a Mining Model"
 title: "Copy a View of a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

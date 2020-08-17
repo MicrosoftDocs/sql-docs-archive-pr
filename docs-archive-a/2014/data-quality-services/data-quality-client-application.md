@@ -1,4 +1,5 @@
 ---
+description: "Data Quality Client Application"
 title: "Data Quality Client Application | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

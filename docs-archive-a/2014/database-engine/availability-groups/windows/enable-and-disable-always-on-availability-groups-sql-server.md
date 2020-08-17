@@ -1,4 +1,5 @@
 ---
+description: "Enable and Disable AlwaysOn Availability Groups (SQL Server)"
 title: "Enable and Disable AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

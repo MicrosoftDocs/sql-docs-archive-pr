@@ -1,4 +1,5 @@
 ---
+description: "Batch Processing (Analysis Services)"
 title: "Batch Processing (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

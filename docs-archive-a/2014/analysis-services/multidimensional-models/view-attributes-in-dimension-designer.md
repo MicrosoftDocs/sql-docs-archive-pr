@@ -1,4 +1,5 @@
 ---
+description: "View Attributes in a Tree, List or Grid in Dimension Designer"
 title: "View Attributes in a Tree, List or Grid in Dimension Designer | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

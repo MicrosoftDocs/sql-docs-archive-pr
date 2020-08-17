@@ -1,4 +1,5 @@
 ---
+description: "Select Data Source View (Data Mining Wizard)"
 title: "Select Data Source View (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Replication XPs Server Configuration Option"
 title: "Replication XPs Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

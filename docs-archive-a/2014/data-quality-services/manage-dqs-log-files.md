@@ -1,4 +1,5 @@
 ---
+description: "Manage DQS Log Files"
 title: "Manage DQS Log Files | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

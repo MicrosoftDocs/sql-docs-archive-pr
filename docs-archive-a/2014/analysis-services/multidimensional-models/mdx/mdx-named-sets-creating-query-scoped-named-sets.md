@@ -1,4 +1,5 @@
 ---
+description: "Creating Query-Scoped Named Sets (MDX)"
 title: "Creating Query-Scoped Named Sets (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Calculated Columns (SSAS Tabular)"
 title: "Calculated Columns (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

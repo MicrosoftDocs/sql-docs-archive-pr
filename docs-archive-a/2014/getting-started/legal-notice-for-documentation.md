@@ -1,4 +1,5 @@
 ---
+description: "Legal Notice for Documentation"
 title: "Legal Notice for Documentation | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

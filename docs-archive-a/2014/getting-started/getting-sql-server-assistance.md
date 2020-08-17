@@ -1,4 +1,5 @@
 ---
+description: "Getting SQL Server Assistance"
 title: "Getting SQL Server Assistance | Microsoft Docs"
 ms.custom: ""
 ms.date: 11/25/2019

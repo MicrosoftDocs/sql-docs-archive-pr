@@ -1,4 +1,5 @@
 ---
+description: "Database Mirroring and Full-Text Catalogs (SQL Server)"
 title: "Database Mirroring and Full-Text Catalogs (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Overview of CLR Integration Custom Attributes"
 title: "Overview of CLR Integration Custom Attributes | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

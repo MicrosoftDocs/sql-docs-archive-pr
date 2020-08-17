@@ -1,4 +1,5 @@
 ---
+description: "Mining Model Columns"
 title: "Mining Model Columns | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

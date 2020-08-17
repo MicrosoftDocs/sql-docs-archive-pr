@@ -1,4 +1,5 @@
 ---
+description: "Using Variables and Parameters (MDX)"
 title: "Using Variables and Parameters (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

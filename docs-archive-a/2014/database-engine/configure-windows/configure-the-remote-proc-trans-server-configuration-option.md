@@ -1,4 +1,5 @@
 ---
+description: "Configure the remote proc trans Server Configuration Option"
 title: "Configure the remote proc trans Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

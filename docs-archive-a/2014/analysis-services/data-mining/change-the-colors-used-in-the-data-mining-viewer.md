@@ -1,4 +1,5 @@
 ---
+description: "Change the Colors Used in the Data Mining Viewer"
 title: "Change the Colors Used in the Data Mining Viewer | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

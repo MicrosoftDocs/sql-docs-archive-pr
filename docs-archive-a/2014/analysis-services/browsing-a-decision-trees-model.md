@@ -1,4 +1,5 @@
 ---
+description: "Browsing a Decision Trees Model"
 title: "Browsing a Decision Trees Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

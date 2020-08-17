@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Scripts Project in SQL Server Management Studio"
 title: "Analysis Services Scripts Project in SQL Server Management Studio | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

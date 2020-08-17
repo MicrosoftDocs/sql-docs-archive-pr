@@ -1,4 +1,5 @@
 ---
+description: "Getting Started (SQL Server 2014)"
 title: "Getting Started (SQL Server 2014) | Microsoft Docs"
 ms.custom: ""
 ms.date: 11/25/2019

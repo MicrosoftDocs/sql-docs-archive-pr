@@ -1,4 +1,5 @@
 ---
+description: "Defining a Many-to-Many Relationship"
 title: "Defining a Many-to-Many Relationship | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Active Secondaries: Readable Secondary Replicas (Always On Availability Groups)"
 title: "Active Secondaries: Readable Secondary Replicas (Always On Availability Groups) | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/27/2017"

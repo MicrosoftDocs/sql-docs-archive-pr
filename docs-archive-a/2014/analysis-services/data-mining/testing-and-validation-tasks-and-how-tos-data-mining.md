@@ -1,4 +1,5 @@
 ---
+description: "Testing and Validation Tasks and How-tos (Data Mining)"
 title: "Testing and Validation Tasks and How-tos (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

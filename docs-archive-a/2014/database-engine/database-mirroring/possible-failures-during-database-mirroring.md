@@ -1,4 +1,5 @@
 ---
+description: "Possible Failures During Database Mirroring"
 title: "Possible Failures During Database Mirroring | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

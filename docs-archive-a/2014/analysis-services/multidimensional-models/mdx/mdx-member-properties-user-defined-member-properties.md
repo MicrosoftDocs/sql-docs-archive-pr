@@ -1,4 +1,5 @@
 ---
+description: "User-Defined Member Properties (MDX)"
 title: "User-Defined Member Properties (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

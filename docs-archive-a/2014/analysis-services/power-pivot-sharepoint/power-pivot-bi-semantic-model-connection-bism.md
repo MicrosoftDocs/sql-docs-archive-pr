@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot BI Semantic Model Connection (.bism)"
 title: "PowerPivot BI Semantic Model Connection (.bism) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/19/2015"

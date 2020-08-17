@@ -1,4 +1,5 @@
 ---
+description: "Related Projects for Data Mining Solutions"
 title: "Related Projects for Data Mining Solutions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

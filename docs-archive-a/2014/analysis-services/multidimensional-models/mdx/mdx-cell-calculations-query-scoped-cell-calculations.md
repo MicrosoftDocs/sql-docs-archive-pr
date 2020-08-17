@@ -1,4 +1,5 @@
 ---
+description: "Creating Query-Scoped Cell Calculations (MDX)"
 title: "Creating Query-Scoped Cell Calculations (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

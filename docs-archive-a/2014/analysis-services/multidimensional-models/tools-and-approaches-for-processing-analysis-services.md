@@ -1,4 +1,5 @@
 ---
+description: "Tools and Approaches for Processing (Analysis Services)"
 title: "Tools and Approaches for Processing (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

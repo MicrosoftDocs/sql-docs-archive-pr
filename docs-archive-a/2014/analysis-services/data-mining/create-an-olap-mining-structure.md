@@ -1,4 +1,5 @@
 ---
+description: "Create an OLAP Mining Structure"
 title: "Create an OLAP Mining Structure | Microsoft Docs"
 ms.custom: ""
 ms.date: "07/17/2017"

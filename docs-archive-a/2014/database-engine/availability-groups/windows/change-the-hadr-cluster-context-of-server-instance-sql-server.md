@@ -1,4 +1,5 @@
 ---
+description: "Change the HADR Cluster Context of Server Instance (SQL Server)"
 title: "Change the HADR Cluster Context of Server Instance (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

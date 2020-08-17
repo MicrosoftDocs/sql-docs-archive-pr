@@ -1,4 +1,5 @@
 ---
+description: "Technical Reference (Data Mining Add-ins for Excel)"
 title: "Technical Reference (Data Mining Add-ins for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/07/2017"

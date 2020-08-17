@@ -1,4 +1,5 @@
 ---
+description: "Lesson 3: Modifying Measures, Attributes and Hierarchies"
 title: "Lesson 3: Modifying Measures, Attributes and Hierarchies | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

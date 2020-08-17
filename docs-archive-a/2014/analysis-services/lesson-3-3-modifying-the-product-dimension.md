@@ -1,4 +1,5 @@
 ---
+description: "Modifying the Product Dimension"
 title: "Modifying the Product Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

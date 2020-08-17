@@ -1,4 +1,5 @@
 ---
+description: "Data Mining Query Interfaces"
 title: "Data Mining Query Interfaces | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

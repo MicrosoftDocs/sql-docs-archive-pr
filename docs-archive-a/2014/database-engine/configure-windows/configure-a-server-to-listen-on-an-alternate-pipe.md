@@ -1,4 +1,5 @@
 ---
+description: "Configure a Server to Listen on an Alternate Pipe (SQL Server Configuration Manager)"
 title: "Configure a Server to Listen on an Alternate Pipe (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

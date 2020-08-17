@@ -1,4 +1,5 @@
 ---
+description: "Review Aggregation Usage (Aggregation Design Wizard)"
 title: "Review Aggregation Usage (Aggregation Design Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

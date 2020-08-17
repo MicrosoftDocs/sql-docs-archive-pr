@@ -1,4 +1,5 @@
 ---
+description: "Validation Rules for Data-tier Application Wizards"
 title: "Validation Rules for Data-tier Application Wizards | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

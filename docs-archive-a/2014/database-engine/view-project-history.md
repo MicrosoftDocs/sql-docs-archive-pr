@@ -1,4 +1,5 @@
 ---
+description: "View Project History"
 title: "View Project History | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

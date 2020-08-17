@@ -1,4 +1,5 @@
 ---
+description: "Management of Data Mining Solutions and Objects"
 title: "Management of Data Mining Solutions and Objects | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

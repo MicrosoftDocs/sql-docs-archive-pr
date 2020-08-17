@@ -1,4 +1,5 @@
 ---
+description: "Replication, Change Tracking, Change Data Capture, and AlwaysOn Availability Groups (SQL Server)"
 title: "Replication, Change Tracking, Change Data Capture, and AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

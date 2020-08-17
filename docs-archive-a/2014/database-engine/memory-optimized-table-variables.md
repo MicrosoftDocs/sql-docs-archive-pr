@@ -1,4 +1,5 @@
 ---
+description: "Memory-Optimized Table Variables"
 title: "Memory-Optimized Table Variables | Microsoft Docs"
 ms.custom: ""
 ms.date: "07/14/2017"

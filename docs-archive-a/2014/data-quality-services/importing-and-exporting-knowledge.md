@@ -1,4 +1,5 @@
 ---
+description: "Importing and Exporting Knowledge"
 title: "Importing and Exporting Knowledge | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

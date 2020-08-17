@@ -1,4 +1,5 @@
 ---
+description: "View the XML for an Analysis Services Project (SSDT)"
 title: "View the XML for an Analysis Services Project (SSDT) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

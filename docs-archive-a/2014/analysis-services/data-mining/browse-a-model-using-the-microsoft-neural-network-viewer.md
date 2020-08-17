@@ -1,4 +1,5 @@
 ---
+description: "Browse a Model Using the Microsoft Neural Network Viewer"
 title: "Browse a Model Using the Microsoft Neural Network Viewer | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

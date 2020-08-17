@@ -1,4 +1,5 @@
 ---
+description: "System Views, Stored Procedures, DMVs and Wait Types for In-Memory OLTP"
 title: "System Views, Stored Procedures, DMVs and Wait Types for In-Memory OLTP | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

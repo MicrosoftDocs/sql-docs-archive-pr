@@ -1,4 +1,5 @@
 ---
+description: "Add an  Attribute to a Dimension"
 title: "Add an  Attribute to a Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

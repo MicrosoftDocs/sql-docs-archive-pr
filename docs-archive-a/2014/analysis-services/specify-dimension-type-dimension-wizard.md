@@ -1,4 +1,5 @@
 ---
+description: "Specify Dimension Type (Dimension Wizard)"
 title: "Specify Dimension Type (Dimension Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

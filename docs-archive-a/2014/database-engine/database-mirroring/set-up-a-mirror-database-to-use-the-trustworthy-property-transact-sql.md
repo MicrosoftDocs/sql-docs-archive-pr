@@ -1,4 +1,5 @@
 ---
+description: "Set Up a Mirror Database to Use the Trustworthy Property (Transact-SQL)"
 title: "Set Up a Mirror Database to Use the Trustworthy Property (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

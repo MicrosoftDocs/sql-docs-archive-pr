@@ -1,4 +1,5 @@
 ---
+description: "Create or Delete a Server Alias for Use by a Client (SQL Server Configuration Manager)"
 title: "Create or Delete a Server Alias for Use by a Client (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

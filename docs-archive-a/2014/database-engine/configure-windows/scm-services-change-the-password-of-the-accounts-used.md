@@ -1,4 +1,5 @@
 ---
+description: "Change the Password of the Accounts Used by SQL Server (SQL Server Configuration Manager)"
 title: "Change the Password of the Accounts Used by SQL Server (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "01/07/2016"

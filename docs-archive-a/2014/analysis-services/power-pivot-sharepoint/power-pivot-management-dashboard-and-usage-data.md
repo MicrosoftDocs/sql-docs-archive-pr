@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Management Dashboard and Usage Data"
 title: "PowerPivot Management Dashboard and Usage Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Data Source Credentials (SSAS)"
 title: "Data Source Credentials (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

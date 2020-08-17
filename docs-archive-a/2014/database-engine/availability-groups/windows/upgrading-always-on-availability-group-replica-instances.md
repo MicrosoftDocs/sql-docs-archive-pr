@@ -1,4 +1,5 @@
 ---
+description: "Upgrade and Update of Availability Group Servers with Minimal Downtime and Data Loss"
 title: "Upgrade and Update of Availability Group Servers with Minimal Downtime and Data Loss | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

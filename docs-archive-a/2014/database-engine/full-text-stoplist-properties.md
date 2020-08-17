@@ -1,4 +1,5 @@
 ---
+description: "Full-Text Stoplist Properties"
 title: "Full-Text Stoplist Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

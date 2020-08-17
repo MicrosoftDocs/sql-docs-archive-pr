@@ -1,4 +1,5 @@
 ---
+description: "Profit Chart Settings Dialog Box (Mining Accuracy Chart View)"
 title: "Profit Chart Settings Dialog Box (Mining Accuracy Chart View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

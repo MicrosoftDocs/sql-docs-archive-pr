@@ -1,4 +1,5 @@
 ---
+description: "The Database Mirroring Endpoint (SQL Server)"
 title: "The Database Mirroring Endpoint (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

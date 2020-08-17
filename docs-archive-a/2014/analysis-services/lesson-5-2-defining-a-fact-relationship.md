@@ -1,4 +1,5 @@
 ---
+description: "Defining a Fact Relationship"
 title: "Defining a Fact Relationship | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

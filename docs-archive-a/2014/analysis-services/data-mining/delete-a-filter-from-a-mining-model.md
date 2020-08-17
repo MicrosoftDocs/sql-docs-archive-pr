@@ -1,4 +1,5 @@
 ---
+description: "Delete a Filter from a Mining Model"
 title: "Delete a Filter from a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Import from a Relational Data Source (SSAS Tabular)"
 title: "Import from a Relational Data Source (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

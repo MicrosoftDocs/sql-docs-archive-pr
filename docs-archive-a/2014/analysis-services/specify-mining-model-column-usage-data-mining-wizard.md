@@ -1,4 +1,5 @@
 ---
+description: "Specify Mining Model Column Usage (Data Mining Wizard)"
 title: "Specify Mining Model Column Usage (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

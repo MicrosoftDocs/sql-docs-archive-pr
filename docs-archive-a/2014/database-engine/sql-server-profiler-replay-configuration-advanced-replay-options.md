@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Profiler - Replay Configuration (Advanced Replay Options)"
 title: "SQL Server Profiler - Replay Configuration (Advanced Replay Options) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

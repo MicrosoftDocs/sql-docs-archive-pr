@@ -1,4 +1,5 @@
 ---
+description: "Classified Columns (Data Mining)"
 title: "Classified Columns (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

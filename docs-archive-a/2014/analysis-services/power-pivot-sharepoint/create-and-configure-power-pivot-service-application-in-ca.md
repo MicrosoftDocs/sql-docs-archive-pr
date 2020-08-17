@@ -1,4 +1,5 @@
 ---
+description: "Create and Configure a PowerPivot Service Application in Central Administration"
 title: "Create and Configure a PowerPivot Service Application in Central Administration | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

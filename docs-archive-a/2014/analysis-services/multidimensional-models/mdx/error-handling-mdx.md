@@ -1,4 +1,5 @@
 ---
+description: "Error Handling (MDX)"
 title: "Error Handling (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

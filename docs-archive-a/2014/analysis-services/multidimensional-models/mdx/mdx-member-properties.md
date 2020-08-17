@@ -1,4 +1,5 @@
 ---
+description: "Using Member Properties (MDX)"
 title: "Using Member Properties (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

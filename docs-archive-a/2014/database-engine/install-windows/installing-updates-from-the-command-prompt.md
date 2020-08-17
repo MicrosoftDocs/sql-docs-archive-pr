@@ -1,4 +1,5 @@
 ---
+description: "Installing Updates from the Command Prompt"
 title: "Installing Updates from the Command Prompt | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

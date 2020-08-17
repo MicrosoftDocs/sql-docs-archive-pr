@@ -1,4 +1,5 @@
 ---
+description: "Specify Query Criteria (Usage-Based Optimization Wizard)"
 title: "Specify Query Criteria (Usage-Based Optimization Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

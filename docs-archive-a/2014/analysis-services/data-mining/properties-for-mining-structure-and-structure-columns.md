@@ -1,4 +1,5 @@
 ---
+description: "Properties for Mining Structure and Structure Columns"
 title: "Properties for Mining Structure and Structure Columns | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

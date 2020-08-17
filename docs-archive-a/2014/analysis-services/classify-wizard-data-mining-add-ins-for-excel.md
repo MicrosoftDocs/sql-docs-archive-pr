@@ -1,4 +1,5 @@
 ---
+description: "Classify Wizard (Data Mining Add-ins for Excel)"
 title: "Classify Wizard (Data Mining Add-ins for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

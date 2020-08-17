@@ -1,4 +1,5 @@
 ---
+description: "Interfaces (OLE DB)"
 title: "Interfaces (OLE DB) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

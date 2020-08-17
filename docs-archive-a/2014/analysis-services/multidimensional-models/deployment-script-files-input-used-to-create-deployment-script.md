@@ -1,4 +1,5 @@
 ---
+description: "Understanding the Input Files Used to Create the Deployment Script"
 title: "Understanding the Input Files Used to Create the Deployment Script | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

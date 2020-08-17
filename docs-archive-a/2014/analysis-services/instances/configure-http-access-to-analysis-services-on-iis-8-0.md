@@ -1,4 +1,5 @@
 ---
+description: "Configure HTTP Access to Analysis Services on Internet Information Services (IIS) 8.0"
 title: "Configure HTTP Access to Analysis Services on Internet Information Services (IIS) 8.0 | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/19/2019"

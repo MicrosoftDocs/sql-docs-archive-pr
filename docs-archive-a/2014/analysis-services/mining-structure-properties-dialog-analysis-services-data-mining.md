@@ -1,4 +1,5 @@
 ---
+description: "Mining Structure Properties Dialog (Analysis Services - Data Mining)"
 title: "Mining Structure Properties Dialog (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

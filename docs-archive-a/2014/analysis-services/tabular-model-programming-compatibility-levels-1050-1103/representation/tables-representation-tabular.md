@@ -1,4 +1,5 @@
 ---
+description: "Tables Representation (Tabular)"
 title: "Tables Representation (Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

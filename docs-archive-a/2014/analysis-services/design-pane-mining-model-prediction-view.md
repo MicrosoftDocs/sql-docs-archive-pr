@@ -1,4 +1,5 @@
 ---
+description: "Design Pane (Mining Model Prediction View)"
 title: "Design Pane (Mining Model Prediction View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

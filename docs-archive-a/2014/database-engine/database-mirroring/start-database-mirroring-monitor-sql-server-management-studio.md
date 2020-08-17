@@ -1,4 +1,5 @@
 ---
+description: "Start Database Mirroring Monitor (SQL Server Management Studio)"
 title: "Start Database Mirroring Monitor (SQL Server Management Studio) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

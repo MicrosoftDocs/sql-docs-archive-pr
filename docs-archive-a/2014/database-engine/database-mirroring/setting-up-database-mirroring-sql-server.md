@@ -1,4 +1,5 @@
 ---
+description: "Setting Up Database Mirroring (SQL Server)"
 title: "Setting Up Database Mirroring (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

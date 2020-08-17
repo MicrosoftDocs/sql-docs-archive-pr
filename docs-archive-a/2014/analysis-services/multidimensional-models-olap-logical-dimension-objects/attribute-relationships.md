@@ -1,4 +1,5 @@
 ---
+description: "Attribute Relationships"
 title: "Attribute Relationships | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

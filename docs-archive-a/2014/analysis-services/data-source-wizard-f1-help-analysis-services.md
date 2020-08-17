@@ -1,4 +1,5 @@
 ---
+description: "Data Source Wizard F1 Help (Analysis Services)"
 title: "Data Source Wizard F1 Help (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

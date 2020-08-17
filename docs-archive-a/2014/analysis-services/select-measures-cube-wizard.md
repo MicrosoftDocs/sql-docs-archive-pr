@@ -1,4 +1,5 @@
 ---
+description: "Select Measures (Cube Wizard)"
 title: "Select Measures (Cube Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

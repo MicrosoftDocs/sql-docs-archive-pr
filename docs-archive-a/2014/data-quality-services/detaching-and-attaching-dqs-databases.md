@@ -1,4 +1,5 @@
 ---
+description: "Detaching and Attaching DQS Databases"
 title: "Detaching and Attaching DQS Databases | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

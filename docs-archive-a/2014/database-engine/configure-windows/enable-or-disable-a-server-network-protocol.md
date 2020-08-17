@@ -1,4 +1,5 @@
 ---
+description: "Enable or Disable a Server Network Protocol"
 title: "Enable or Disable a Server Network Protocol | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

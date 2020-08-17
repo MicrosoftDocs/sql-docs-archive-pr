@@ -1,4 +1,5 @@
 ---
+description: "Choose the Column to Use for Testing a Mining Model"
 title: "Choose the Column to Use for Testing a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Overview of PowerShell Cmdlets for AlwaysOn Availability Groups (SQL Server)"
 title: "Overview of PowerShell Cmdlets for AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

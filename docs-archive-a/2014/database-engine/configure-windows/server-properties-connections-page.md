@@ -1,4 +1,5 @@
 ---
+description: "Server Properties (Connections Page)"
 title: "Server Properties (Connections Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

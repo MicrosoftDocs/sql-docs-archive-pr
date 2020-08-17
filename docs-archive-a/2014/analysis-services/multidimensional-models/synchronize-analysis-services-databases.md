@@ -1,4 +1,5 @@
 ---
+description: "Synchronize Analysis Services Databases"
 title: "Synchronize Analysis Services Databases | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

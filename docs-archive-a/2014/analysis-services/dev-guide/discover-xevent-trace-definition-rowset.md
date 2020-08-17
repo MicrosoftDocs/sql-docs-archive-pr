@@ -1,4 +1,5 @@
 ---
+description: "DISCOVER_XEVENT_TRACE_DEFINITION Rowset"
 title: "DISCOVER_XEVENT_TRACE_DEFINITION Rowset | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

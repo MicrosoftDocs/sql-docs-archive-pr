@@ -1,4 +1,5 @@
 ---
+description: "Select Initial Data Synchronization Page (AlwaysOn Availability Group Wizards)"
 title: "Select Initial Data Synchronization Page (AlwaysOn Availability Group Wizards) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

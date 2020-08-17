@@ -1,4 +1,5 @@
 ---
+description: "Allowing Partially Trusted Callers"
 title: "Allowing Partially Trusted Callers | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "in-doubt xact resolution Server Configuration Option"
 title: "in-doubt xact resolution Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

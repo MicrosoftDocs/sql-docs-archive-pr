@@ -1,4 +1,5 @@
 ---
+description: "Run SQL Server With or Without a Network"
 title: "Run SQL Server With or Without a Network | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Availability replica is disconnected"
 title: "Availability replica is disconnected | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

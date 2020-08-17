@@ -1,4 +1,5 @@
 ---
+description: "Filter Dialog Box (Mining Accuracy Chart)"
 title: "Filter Dialog Box (Mining Accuracy Chart) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

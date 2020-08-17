@@ -1,4 +1,5 @@
 ---
+description: "Advanced Settings (SSAS)"
 title: "Advanced Settings (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

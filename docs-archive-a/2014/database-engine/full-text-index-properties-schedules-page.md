@@ -1,4 +1,5 @@
 ---
+description: "Full-Text Index Properties (Schedules Page)"
 title: "Full-Text Index Properties (Schedules Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

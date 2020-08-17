@@ -1,4 +1,5 @@
 ---
+description: "Dimension Storage"
 title: "Dimension Storage | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "View or Change Algorithm Parameters"
 title: "View or Change Algorithm Parameters | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

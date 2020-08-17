@@ -1,4 +1,5 @@
 ---
+description: "Browsing an Association Rules Model"
 title: "Browsing an Association Rules Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Connect to Source Data (Data Mining Client for Excel)"
 title: "Connect to Source Data (Data Mining Client for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

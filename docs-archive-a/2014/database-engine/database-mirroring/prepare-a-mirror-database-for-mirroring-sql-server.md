@@ -1,4 +1,5 @@
 ---
+description: "Prepare a Mirror Database for Mirroring (SQL Server)"
 title: "Prepare a Mirror Database for Mirroring (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

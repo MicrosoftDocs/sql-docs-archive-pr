@@ -1,4 +1,5 @@
 ---
+description: "Arrange Shapes in the Attribute Relationship Diagram"
 title: "Arrange Shapes in the Attribute Relationship Diagram | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

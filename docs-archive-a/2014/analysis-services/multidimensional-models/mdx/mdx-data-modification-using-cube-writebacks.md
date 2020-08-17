@@ -1,4 +1,5 @@
 ---
+description: "Using Cube Writebacks (MDX)"
 title: "Using Cube Writebacks (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

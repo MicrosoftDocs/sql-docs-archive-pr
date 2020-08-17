@@ -1,4 +1,5 @@
 ---
+description: "Processing Requirements and Considerations (Data Mining)"
 title: "Processing Requirements and Considerations (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

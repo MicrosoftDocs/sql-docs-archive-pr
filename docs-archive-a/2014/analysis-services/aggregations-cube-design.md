@@ -1,4 +1,5 @@
 ---
+description: "Aggregations (Cube Design)"
 title: "Aggregations (Cube Design) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

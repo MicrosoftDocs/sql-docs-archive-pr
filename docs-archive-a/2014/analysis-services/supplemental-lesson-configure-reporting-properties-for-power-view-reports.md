@@ -1,4 +1,5 @@
 ---
+description: "Configure Reporting Properties for Power View Reports"
 title: "Configure Reporting Properties for Power View Reports | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

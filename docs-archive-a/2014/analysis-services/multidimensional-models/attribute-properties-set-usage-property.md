@@ -1,4 +1,5 @@
 ---
+description: "Set Usage Property"
 title: "Set Usage Property | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

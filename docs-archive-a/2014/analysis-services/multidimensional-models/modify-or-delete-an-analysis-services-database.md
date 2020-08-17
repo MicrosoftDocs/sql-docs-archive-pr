@@ -1,4 +1,5 @@
 ---
+description: "Modify or Delete an Analysis Services Database"
 title: "Modify or Delete an Analysis Services Database | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

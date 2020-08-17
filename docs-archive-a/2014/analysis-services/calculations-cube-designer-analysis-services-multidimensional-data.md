@@ -1,4 +1,5 @@
 ---
+description: "Calculations (Cube Designer) (Analysis Services - Multidimensional Data)"
 title: "Calculations (Cube Designer) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

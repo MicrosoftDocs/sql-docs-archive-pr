@@ -1,4 +1,5 @@
 ---
+description: "Event Counter Target"
 title: "Event Counter Target | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

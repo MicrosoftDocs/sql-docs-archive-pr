@@ -1,4 +1,5 @@
 ---
+description: "Connect from client applications (Analysis Services)"
 title: "Connect from client applications (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Azure Data Lake Store Source"
 title: "Azure Data Lake Store Source | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Create the Data Mining Structure (Data Mining Wizard)"
 title: "Create the Data Mining Structure (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

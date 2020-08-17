@@ -1,4 +1,5 @@
 ---
+description: "Server Configuration Options (SQL Server)"
 title: "Server Configuration Options (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "02/29/2016"

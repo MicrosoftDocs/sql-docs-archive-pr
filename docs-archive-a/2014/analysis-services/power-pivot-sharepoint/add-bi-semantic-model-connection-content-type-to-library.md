@@ -1,4 +1,5 @@
 ---
+description: "Add a BI Semantic Model Connection Content Type to a Library (PowerPivot for SharePoint)"
 title: "Add a BI Semantic Model Connection Content Type to a Library (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

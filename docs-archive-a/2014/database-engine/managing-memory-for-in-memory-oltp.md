@@ -1,4 +1,5 @@
 ---
+description: "Managing Memory for In-Memory OLTP"
 title: "Managing Memory for In-Memory OLTP | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Key Performance Indicators (KPIs) in Multidimensional Models"
 title: "Key Performance Indicators (KPIs) in Multidimensional Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

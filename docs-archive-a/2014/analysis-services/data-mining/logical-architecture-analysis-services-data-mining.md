@@ -1,4 +1,5 @@
 ---
+description: "Logical Architecture (Analysis Services - Data Mining)"
 title: "Logical Architecture (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

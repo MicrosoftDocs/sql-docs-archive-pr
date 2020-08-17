@@ -1,4 +1,5 @@
 ---
+description: "Linear Regression Model Query Examples"
 title: "Linear Regression Model Query Examples | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

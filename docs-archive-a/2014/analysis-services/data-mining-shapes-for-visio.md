@@ -1,4 +1,5 @@
 ---
+description: "Data Mining Shapes for Visio"
 title: "Data Mining Shapes for Visio | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

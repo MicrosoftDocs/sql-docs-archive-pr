@@ -1,4 +1,5 @@
 ---
+description: "Fetching BLOB Data Using IRow"
 title: "Fetching BLOB Data Using IRow | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

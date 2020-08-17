@@ -1,4 +1,5 @@
 ---
+description: "Remove an Availability Group Listener (SQL Server)"
 title: "Remove an Availability Group Listener (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

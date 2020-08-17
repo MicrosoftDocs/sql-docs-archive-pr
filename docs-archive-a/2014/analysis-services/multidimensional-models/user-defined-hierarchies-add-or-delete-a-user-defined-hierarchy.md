@@ -1,4 +1,5 @@
 ---
+description: "Add or Delete a User-Defined Hierarchy"
 title: "Add or Delete a User-Defined Hierarchy | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

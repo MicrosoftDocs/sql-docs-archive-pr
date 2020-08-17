@@ -1,4 +1,5 @@
 ---
+description: "Configure a Server to Listen on a Specific TCP Port (SQL Server Configuration Manager)"
 title: "Configure a Server to Listen on a Specific TCP Port (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/22/2017"

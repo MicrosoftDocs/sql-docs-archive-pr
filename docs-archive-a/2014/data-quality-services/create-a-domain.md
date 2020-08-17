@@ -1,4 +1,5 @@
 ---
+description: "Create a Domain"
 title: "Create a Domain | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

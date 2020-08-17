@@ -1,4 +1,5 @@
 ---
+description: "ADO NET Source Editor (Columns Page)"
 title: "ADO NET Source Editor (Columns Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

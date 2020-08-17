@@ -1,4 +1,5 @@
 ---
+description: "Create a Relationship Between Two Tables (SSAS Tabular)"
 title: "Create a Relationship Between Two Tables (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

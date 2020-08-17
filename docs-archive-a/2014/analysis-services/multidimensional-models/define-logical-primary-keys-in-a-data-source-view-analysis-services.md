@@ -1,4 +1,5 @@
 ---
+description: "Define Logical Primary Keys in a Data Source View (Analysis Services)"
 title: "Define Logical Primary Keys in a Data Source View (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Usage Scenarios and Examples for Common Language Runtime (CLR) Integration"
 title: "Usage Scenarios and Examples for Common Language Runtime (CLR) Integration | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

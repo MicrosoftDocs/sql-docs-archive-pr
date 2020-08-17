@@ -1,4 +1,5 @@
 ---
+description: "Define Scope of Calculations (Business Intelligence Wizard)"
 title: "Define Scope of Calculations (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

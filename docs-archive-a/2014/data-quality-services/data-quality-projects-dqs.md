@@ -1,4 +1,5 @@
 ---
+description: "Data Quality Projects (DQS)"
 title: "Data Quality Projects (DQS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

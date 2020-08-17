@@ -1,4 +1,5 @@
 ---
+description: "Add a Standard Action"
 title: "Add a Standard Action | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Define a Referenced Relationship and Referenced Relationship Properties"
 title: "Define a Referenced Relationship and Referenced Relationship Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

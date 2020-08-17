@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Designers and Dialog Boxes (Multidimensional Data)"
 title: "Analysis Services Designers and Dialog Boxes (Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "View and Read SQL Server Setup Log Files"
 title: "View and Read SQL Server Setup Log Files | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

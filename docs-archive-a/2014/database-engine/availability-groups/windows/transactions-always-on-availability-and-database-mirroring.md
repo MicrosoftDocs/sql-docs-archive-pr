@@ -1,4 +1,5 @@
 ---
+description: "Cross-Database Transactions Not Supported For Database Mirroring or AlwaysOn Availability Groups (SQL Server)"
 title: "Cross-Database Transactions Not Supported For Database Mirroring or AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Database Properties Dialog Box (SSAS - Multidimensional)"
 title: "Database Properties Dialog Box (SSAS - Multidimensional) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

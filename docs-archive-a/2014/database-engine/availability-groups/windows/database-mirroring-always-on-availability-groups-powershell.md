@@ -1,4 +1,5 @@
 ---
+description: "Create a Database Mirroring Endpoint for AlwaysOn Availability Groups (SQL Server PowerShell)"
 title: "Create a Database Mirroring Endpoint for AlwaysOn Availability Groups (SQL Server PowerShell) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

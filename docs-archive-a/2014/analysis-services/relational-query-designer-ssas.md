@@ -1,4 +1,5 @@
 ---
+description: "Relational Query Designer (SSAS)"
 title: "Relational Query Designer (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

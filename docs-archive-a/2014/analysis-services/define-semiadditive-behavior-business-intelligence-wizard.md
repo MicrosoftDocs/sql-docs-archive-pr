@@ -1,4 +1,5 @@
 ---
+description: "Define Semiadditive Behavior (Business Intelligence Wizard)"
 title: "Define Semiadditive Behavior (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

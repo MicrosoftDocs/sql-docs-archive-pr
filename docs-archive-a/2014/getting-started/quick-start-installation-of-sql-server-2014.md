@@ -1,4 +1,5 @@
 ---
+description: "Quick-Start Installation of SQL Server 2014"
 title: "Quick-Start Installation of SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: 11/25/2019

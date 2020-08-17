@@ -1,4 +1,5 @@
 ---
+description: "Possible Failures During Sessions Between Availability Replicas (SQL Server)"
 title: "Possible Failures During Sessions Between Availability Replicas (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

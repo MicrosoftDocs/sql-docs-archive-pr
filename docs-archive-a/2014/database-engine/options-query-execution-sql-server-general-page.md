@@ -1,4 +1,5 @@
 ---
+description: "Options (Query Execution-SQL Server-General Page)"
 title: "Options (Query Execution-SQL Server-General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

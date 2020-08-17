@@ -1,4 +1,5 @@
 ---
+description: "ADOMD.NET Server Object Architecture"
 title: "ADOMD.NET Server Object Architecture | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

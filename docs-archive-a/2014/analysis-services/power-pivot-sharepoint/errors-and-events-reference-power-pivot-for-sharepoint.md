@@ -1,4 +1,5 @@
 ---
+description: "Errors and Events Reference (PowerPivot for SharePoint)"
 title: "Errors and Events Reference (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

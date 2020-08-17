@@ -1,4 +1,5 @@
 ---
+description: "Custom Rollup Operators in Parent-Child Dimensions"
 title: "Custom Rollup Operators in Parent-Child Dimensions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

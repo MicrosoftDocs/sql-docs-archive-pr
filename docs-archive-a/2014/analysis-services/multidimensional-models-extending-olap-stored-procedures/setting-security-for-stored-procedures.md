@@ -1,4 +1,5 @@
 ---
+description: "Setting Security for Stored Procedures"
 title: "Setting Security for Stored Procedures | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

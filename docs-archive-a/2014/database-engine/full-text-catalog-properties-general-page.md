@@ -1,4 +1,5 @@
 ---
+description: "Full-Text Catalog Properties (General Page)"
 title: "Full-Text Catalog Properties (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

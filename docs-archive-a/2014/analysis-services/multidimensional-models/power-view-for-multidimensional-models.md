@@ -1,4 +1,5 @@
 ---
+description: "Power View for Multidimensional Models"
 title: "Power View for Multidimensional Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

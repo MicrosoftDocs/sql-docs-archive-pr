@@ -1,4 +1,5 @@
 ---
+description: "Transport Security for Database Mirroring and AlwaysOn Availability Groups (SQL Server)"
 title: "Transport Security for Database Mirroring and AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

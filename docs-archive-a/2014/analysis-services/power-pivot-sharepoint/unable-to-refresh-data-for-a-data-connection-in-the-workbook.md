@@ -1,4 +1,5 @@
 ---
+description: "Unable to refresh data for a data connection in the workbook. Try again or contact your system administrator. The following connections failed to refresh: PowerPivot Data"
 title: "Unable to refresh data for a data connection in the workbook. Try again or contact your system administrator. The following connections failed to refresh: PowerPivot Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/07/2017"

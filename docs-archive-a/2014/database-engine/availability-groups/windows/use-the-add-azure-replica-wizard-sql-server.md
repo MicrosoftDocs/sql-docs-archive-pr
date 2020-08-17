@@ -1,4 +1,5 @@
 ---
+description: "Use the Add Azure Replica Wizard (SQL Server)"
 title: "Use the Add Azure Replica Wizard (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

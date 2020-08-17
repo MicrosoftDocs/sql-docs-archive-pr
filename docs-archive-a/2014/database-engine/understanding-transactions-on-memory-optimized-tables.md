@@ -1,4 +1,5 @@
 ---
+description: "Understanding Transactions on Memory-Optimized Tables"
 title: "Understanding Transactions on Memory-Optimized Tables | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

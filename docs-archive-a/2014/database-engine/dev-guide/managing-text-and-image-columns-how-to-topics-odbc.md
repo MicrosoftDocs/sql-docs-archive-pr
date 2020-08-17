@@ -1,4 +1,5 @@
 ---
+description: "Managing text and image Columns How-to Topics (ODBC)"
 title: "Managing text and image Columns How-to Topics (ODBC) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

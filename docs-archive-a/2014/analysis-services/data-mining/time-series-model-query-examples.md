@@ -1,4 +1,5 @@
 ---
+description: "Time Series Model Query Examples"
 title: "Time Series Model Query Examples | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Lesson 7: Create Measures"
 title: "Lesson 7: Create Measures | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

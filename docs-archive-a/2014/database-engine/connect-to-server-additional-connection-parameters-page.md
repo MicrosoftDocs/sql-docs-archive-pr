@@ -1,4 +1,5 @@
 ---
+description: "Connect to Server (Additional Connection Parameters Page)"
 title: "Connect to Server (Additional Connection Parameters Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Contained Databases with Always On Availability Groups (SQL Server)"
 title: "Contained Databases with Always On Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

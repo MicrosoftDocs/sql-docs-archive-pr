@@ -1,4 +1,5 @@
 ---
+description: "Join a Secondary Database to an Availability Group (SQL Server)"
 title: "Join a Secondary Database to an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

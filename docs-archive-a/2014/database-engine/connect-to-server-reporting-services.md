@@ -1,4 +1,5 @@
 ---
+description: "Connect to Server (Reporting Services)"
 title: "Connect to Server (Reporting Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Backing Up, Restoring, and Synchronizing Databases (XMLA)"
 title: "Backing Up, Restoring, and Synchronizing Databases (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

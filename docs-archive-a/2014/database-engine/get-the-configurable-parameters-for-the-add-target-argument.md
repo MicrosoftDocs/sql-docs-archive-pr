@@ -1,4 +1,5 @@
 ---
+description: "Get the Configurable Parameters for the ADD TARGET Argument"
 title: "Get the Configurable Parameters for the ADD TARGET Argument | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

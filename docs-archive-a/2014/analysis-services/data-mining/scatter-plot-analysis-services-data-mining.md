@@ -1,4 +1,5 @@
 ---
+description: "Scatter Plot (Analysis Services - Data Mining)"
 title: "Scatter Plot (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

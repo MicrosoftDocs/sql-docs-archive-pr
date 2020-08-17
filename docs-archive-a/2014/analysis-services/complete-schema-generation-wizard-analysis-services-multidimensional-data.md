@@ -1,4 +1,5 @@
 ---
+description: "Completing the Wizard (Schema Generation Wizard) (Analysis Services - Multidimensional Data)"
 title: "Completing the Wizard (Schema Generation Wizard) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Configure the user connections Server Configuration Option"
 title: "Configure the user connections Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/02/2015"

@@ -1,4 +1,5 @@
 ---
+description: "CLR Stored Procedures"
 title: "CLR Stored Procedures | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

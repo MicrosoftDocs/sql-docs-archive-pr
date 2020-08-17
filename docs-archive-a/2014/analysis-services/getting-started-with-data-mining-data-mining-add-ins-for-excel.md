@@ -1,4 +1,5 @@
 ---
+description: "Getting Started with Data Mining (Data Mining Add-ins for Excel)"
 title: "Getting Started with Data Mining (Data Mining Add-ins for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

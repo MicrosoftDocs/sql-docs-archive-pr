@@ -1,4 +1,5 @@
 ---
+description: "Refresh Data Source View Dialog Box"
 title: "Refresh Data Source View Dialog Box | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

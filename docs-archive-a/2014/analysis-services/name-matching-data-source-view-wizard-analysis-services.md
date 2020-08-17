@@ -1,4 +1,5 @@
 ---
+description: "Name Matching (Data Source View Wizard) (Analysis Services)"
 title: "Name Matching (Data Source View Wizard) (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

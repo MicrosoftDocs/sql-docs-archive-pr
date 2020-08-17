@@ -1,4 +1,5 @@
 ---
+description: "Add Projects to Source Control"
 title: "Add Projects to Source Control | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Always On Availability Groups: Interoperability (SQL Server)"
 title: "Always On Availability Groups: Interoperability (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

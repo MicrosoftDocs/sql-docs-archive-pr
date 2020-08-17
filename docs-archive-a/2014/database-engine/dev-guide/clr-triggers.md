@@ -1,4 +1,5 @@
 ---
+description: "CLR Triggers"
 title: "CLR Triggers | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

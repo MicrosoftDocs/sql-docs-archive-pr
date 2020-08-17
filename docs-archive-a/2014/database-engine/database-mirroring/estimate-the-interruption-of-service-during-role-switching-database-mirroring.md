@@ -1,4 +1,5 @@
 ---
+description: "Estimate the Interruption of Service During Role Switching (Database Mirroring)"
 title: "Estimate the Interruption of Service During Role Switching (Database Mirroring) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

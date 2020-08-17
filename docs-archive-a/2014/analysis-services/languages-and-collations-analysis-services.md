@@ -1,4 +1,5 @@
 ---
+description: "Languages and Collations (Analysis Services)"
 title: "Languages and Collations (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

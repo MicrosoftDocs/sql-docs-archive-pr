@@ -1,4 +1,5 @@
 ---
+description: "Querying Multidimensional Data with MDX"
 title: "Querying Multidimensional Data with MDX | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

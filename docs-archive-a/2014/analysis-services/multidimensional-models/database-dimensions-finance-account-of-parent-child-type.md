@@ -1,4 +1,5 @@
 ---
+description: "Create a Finance Account of parent-child type Dimension"
 title: "Create a Finance Account of parent-child type Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

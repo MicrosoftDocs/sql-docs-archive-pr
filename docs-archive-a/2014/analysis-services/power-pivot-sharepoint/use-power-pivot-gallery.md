@@ -1,4 +1,5 @@
 ---
+description: "Use PowerPivot Gallery"
 title: "Use PowerPivot Gallery | Microsoft Docs"
 ms.custom: ""
 ms.date: "09/01/2015"

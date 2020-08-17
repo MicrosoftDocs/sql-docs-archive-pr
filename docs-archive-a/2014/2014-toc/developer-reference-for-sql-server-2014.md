@@ -1,4 +1,5 @@
 ---
+description: "Developer Reference for SQL Server 2014"
 title: "Developer Reference for SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: 07/22/2020

@@ -1,4 +1,5 @@
 ---
+description: "The Basic MDX Query (MDX)"
 title: "The Basic MDX Query (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

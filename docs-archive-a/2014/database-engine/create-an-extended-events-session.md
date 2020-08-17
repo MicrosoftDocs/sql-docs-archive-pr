@@ -1,4 +1,5 @@
 ---
+description: "Create an Extended Events Session"
 title: "Create an Extended Events Session | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

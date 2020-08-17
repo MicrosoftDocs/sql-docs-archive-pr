@@ -1,4 +1,5 @@
 ---
+description: "Configure or Repair PowerPivot for SharePoint 2010 (PowerPivot Configuration Tool)"
 title: "Configure or Repair PowerPivot for SharePoint 2010 (PowerPivot Configuration Tool) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

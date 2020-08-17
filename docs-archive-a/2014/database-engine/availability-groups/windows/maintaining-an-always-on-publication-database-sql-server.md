@@ -1,4 +1,5 @@
 ---
+description: "Maintaining an AlwaysOn Publication Database (SQL Server)"
 title: "Maintaining an AlwaysOn Publication Database (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Algorithm Parameters Dialog Box (Mining Models View)"
 title: "Algorithm Parameters Dialog Box (Mining Models View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Application Domains and CLR Integration Security"
 title: "Application Domains and CLR Integration Security | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

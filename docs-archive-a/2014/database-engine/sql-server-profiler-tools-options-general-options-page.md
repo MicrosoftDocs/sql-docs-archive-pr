@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Profiler - Tools-Options (General Options Page)"
 title: "SQL Server Profiler - Tools-Options (General Options Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

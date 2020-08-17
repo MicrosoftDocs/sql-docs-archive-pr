@@ -1,4 +1,5 @@
 ---
+description: "Create or Customize a Data Feed Library (PowerPivot for SharePoint)"
 title: "Create or Customize a Data Feed Library (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

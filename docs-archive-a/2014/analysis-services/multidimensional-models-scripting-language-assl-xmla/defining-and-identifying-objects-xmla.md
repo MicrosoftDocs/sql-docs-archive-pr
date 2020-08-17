@@ -1,4 +1,5 @@
 ---
+description: "Defining and Identifying Objects (XMLA)"
 title: "Defining and Identifying Objects (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Set Up Login Accounts for Database Mirroring or AlwaysOn Availability Groups (SQL Server)"
 title: "Set Up Login Accounts for Database Mirroring or AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

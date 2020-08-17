@@ -1,4 +1,5 @@
 ---
+description: "Server Properties (Memory Page)"
 title: "Server Properties (Memory Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

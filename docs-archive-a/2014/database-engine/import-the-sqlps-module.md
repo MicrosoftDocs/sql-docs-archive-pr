@@ -1,4 +1,5 @@
 ---
+description: "Import the SQLPS Module"
 title: "Import the SQLPS Module | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

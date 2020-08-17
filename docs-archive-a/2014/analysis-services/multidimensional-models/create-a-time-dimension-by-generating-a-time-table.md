@@ -1,4 +1,5 @@
 ---
+description: "Create a Time Dimension by Generating a Time Table"
 title: "Create a Time Dimension by Generating a Time Table | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

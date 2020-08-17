@@ -1,4 +1,5 @@
 ---
+description: "Options (Query Results-SQL Server-Multi-Server)"
 title: "Options (Query Results-SQL Server-Multi-Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Select the Source Cube Dimension (Data Mining Wizard)"
 title: "Select the Source Cube Dimension (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

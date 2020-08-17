@@ -1,4 +1,5 @@
 ---
+description: "Use Aggregate Functions"
 title: "Use Aggregate Functions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

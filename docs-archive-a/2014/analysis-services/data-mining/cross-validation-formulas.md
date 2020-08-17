@@ -1,4 +1,5 @@
 ---
+description: "Cross-Validation Formulas"
 title: "Cross-Validation Formulas | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

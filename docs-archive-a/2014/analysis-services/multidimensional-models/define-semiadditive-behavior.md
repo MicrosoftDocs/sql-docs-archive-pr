@@ -1,4 +1,5 @@
 ---
+description: "Define Semiadditive Behavior"
 title: "Define Semiadditive Behavior | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

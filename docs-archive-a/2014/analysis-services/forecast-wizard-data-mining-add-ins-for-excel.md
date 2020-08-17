@@ -1,4 +1,5 @@
 ---
+description: "Forecast Wizard (Data Mining Add-ins for Excel)"
 title: "Forecast Wizard (Data Mining Add-ins for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Select Dimension Attributes (Dimension Wizard)"
 title: "Select Dimension Attributes (Dimension Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

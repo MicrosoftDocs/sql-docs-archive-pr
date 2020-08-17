@@ -1,4 +1,5 @@
 ---
+description: "Attribute Data Translation Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Attribute Data Translation Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

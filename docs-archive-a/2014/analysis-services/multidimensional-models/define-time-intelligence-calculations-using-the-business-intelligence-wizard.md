@@ -1,4 +1,5 @@
 ---
+description: "Define Time Intelligence Calculations using the Business Intelligence Wizard"
 title: "Define Time Intelligence Calculations using the Business Intelligence Wizard | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

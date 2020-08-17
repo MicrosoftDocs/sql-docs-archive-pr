@@ -1,4 +1,5 @@
 ---
+description: "Options (SQL Server AlwaysOn, Dashboard Page)"
 title: "Options (SQL Server AlwaysOn, Dashboard Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

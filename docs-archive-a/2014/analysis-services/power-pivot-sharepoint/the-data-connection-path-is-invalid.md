@@ -1,4 +1,5 @@
 ---
+description: "The data connection path in the workbook points to a file on the local drive or is an invalid URI. The following connections failed to refresh: PowerPivot Data"
 title: "The data connection path in the workbook points to a file on the local drive or is an invalid URI. The following connections failed to refresh: PowerPivot Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

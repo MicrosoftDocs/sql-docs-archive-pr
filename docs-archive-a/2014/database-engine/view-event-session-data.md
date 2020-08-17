@@ -1,4 +1,5 @@
 ---
+description: "View Event Session Data"
 title: "View Event Session Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

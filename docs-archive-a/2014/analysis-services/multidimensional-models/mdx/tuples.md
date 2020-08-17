@@ -1,4 +1,5 @@
 ---
+description: "Tuples"
 title: "Tuples | Microsoft Docs"
 ms.custom: ""
 ms.date: "07/17/2017"

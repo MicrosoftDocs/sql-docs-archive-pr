@@ -1,4 +1,5 @@
 ---
+description: "Migrate Query Plans"
 title: "Migrate Query Plans | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Filter the Source Cube for a Mining Structure"
 title: "Filter the Source Cube for a Mining Structure | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Accessing Query Context in Stored Procedures"
 title: "Accessing Query Context in Stored Procedures | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

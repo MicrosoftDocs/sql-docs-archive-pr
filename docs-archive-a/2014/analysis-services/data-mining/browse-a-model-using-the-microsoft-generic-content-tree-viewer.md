@@ -1,4 +1,5 @@
 ---
+description: "Browse a Model Using the Microsoft Generic Content Tree Viewer"
 title: "Browse a Model Using the Microsoft Generic Content Tree Viewer | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

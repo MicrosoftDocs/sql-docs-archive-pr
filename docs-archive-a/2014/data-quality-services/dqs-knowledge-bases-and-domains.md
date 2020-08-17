@@ -1,4 +1,5 @@
 ---
+description: "DQS Knowledge Bases and Domains"
 title: "DQS Knowledge Bases and Domains | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

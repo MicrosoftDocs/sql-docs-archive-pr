@@ -1,4 +1,5 @@
 ---
+description: "Updating Cells (XMLA)"
 title: "Updating Cells (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

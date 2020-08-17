@@ -1,4 +1,5 @@
 ---
+description: "Defining and Browsing Translations"
 title: "Defining and Browsing Translations | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

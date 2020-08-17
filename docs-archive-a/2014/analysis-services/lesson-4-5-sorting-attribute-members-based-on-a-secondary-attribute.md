@@ -1,4 +1,5 @@
 ---
+description: "Sorting Attribute Members Based on a Secondary Attribute"
 title: "Sorting Attribute Members Based on a Secondary Attribute | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

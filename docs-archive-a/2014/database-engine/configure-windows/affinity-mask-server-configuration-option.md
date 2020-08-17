@@ -1,4 +1,5 @@
 ---
+description: "affinity mask Server Configuration Option"
 title: "affinity mask Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/20/2016"

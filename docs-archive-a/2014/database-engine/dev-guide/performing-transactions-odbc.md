@@ -1,4 +1,5 @@
 ---
+description: "Performing Transactions (ODBC)"
 title: "Performing Transactions (ODBC) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

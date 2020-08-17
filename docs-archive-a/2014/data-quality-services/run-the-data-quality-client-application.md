@@ -1,4 +1,5 @@
 ---
+description: "Run the Data Quality Client Application"
 title: "Run the Data Quality Client Application | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

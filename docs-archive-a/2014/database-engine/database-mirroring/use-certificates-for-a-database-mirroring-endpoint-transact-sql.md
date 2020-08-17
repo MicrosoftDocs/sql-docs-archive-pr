@@ -1,4 +1,5 @@
 ---
+description: "Use Certificates for a Database Mirroring Endpoint (Transact-SQL)"
 title: "Use Certificates for a Database Mirroring Endpoint (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Management of Logins and Jobs for the Databases of an Availability Group (SQL Server)"
 title: "Management of Logins and Jobs for the Databases of an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

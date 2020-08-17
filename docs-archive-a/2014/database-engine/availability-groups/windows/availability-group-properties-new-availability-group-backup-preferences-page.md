@@ -1,4 +1,5 @@
 ---
+description: "Availability Group Properties: New Availability Group (Backup Preferences Page)"
 title: "Availability Group Properties: New Availability Group (Backup Preferences Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

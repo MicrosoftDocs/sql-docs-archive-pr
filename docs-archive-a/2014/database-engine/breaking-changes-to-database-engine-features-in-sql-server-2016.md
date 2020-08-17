@@ -1,4 +1,5 @@
 ---
+description: "Breaking Changes to Database Engine Features in SQL Server 2014"
 title: "Breaking Changes to Database Engine Features in SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: 01/19/2019

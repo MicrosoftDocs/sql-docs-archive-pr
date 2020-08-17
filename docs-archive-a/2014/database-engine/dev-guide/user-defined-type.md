@@ -1,4 +1,5 @@
 ---
+description: "User Defined Type"
 title: "User Defined Type | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

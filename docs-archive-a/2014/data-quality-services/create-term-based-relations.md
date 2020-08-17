@@ -1,4 +1,5 @@
 ---
+description: "Create Term-Based Relations"
 title: "Create Term-Based Relations | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Database Mirroring and Log Shipping (SQL Server)"
 title: "Database Mirroring and Log Shipping (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

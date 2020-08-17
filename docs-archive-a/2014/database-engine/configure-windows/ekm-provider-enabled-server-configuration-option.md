@@ -1,4 +1,5 @@
 ---
+description: "EKM provider enabled Server Configuration Option"
 title: "EKM provider enabled Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

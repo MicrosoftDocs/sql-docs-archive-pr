@@ -1,4 +1,5 @@
 ---
+description: "Create a Currency type Dimension"
 title: "Create a Currency type Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

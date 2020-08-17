@@ -1,4 +1,5 @@
 ---
+description: "Tabular Model Solutions (SSAS Tabular)"
 title: "Tabular Model Solutions (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

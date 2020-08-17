@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Profiler - Find Dialog Box"
 title: "SQL Server Profiler - Find Dialog Box | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

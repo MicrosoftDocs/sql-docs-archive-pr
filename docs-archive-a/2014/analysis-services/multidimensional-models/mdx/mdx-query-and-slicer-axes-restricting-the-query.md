@@ -1,4 +1,5 @@
 ---
+description: "Restricting the Query with Query and Slicer Axes (MDX)"
 title: "Restricting the Query with Query and Slicer Axes (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

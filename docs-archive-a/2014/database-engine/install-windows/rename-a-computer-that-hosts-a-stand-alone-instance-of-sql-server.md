@@ -1,4 +1,5 @@
 ---
+description: "Rename a Computer that Hosts a Stand-Alone Instance of SQL Server"
 title: "Rename a Computer that Hosts a Stand-Alone Instance of SQL Server | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

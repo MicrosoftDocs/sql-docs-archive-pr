@@ -1,4 +1,5 @@
 ---
+description: "Cleanse Data in a Composite Domain"
 title: "Cleanse Data in a Composite Domain | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

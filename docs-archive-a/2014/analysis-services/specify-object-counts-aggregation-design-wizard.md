@@ -1,4 +1,5 @@
 ---
+description: "Specify Object Counts (Aggregation Design Wizard)"
 title: "Specify Object Counts (Aggregation Design Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

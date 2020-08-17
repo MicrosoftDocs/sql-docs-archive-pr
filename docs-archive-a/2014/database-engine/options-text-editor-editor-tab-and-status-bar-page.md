@@ -1,4 +1,5 @@
 ---
+description: "Options (Text Editor: Editor Tab and Status Bar Page)"
 title: "Options (Text Editor: Editor Tab and Status Bar Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

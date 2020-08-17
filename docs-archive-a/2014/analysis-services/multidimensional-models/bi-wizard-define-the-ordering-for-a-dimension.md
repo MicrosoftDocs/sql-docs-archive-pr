@@ -1,4 +1,5 @@
 ---
+description: "Define the Ordering for a Dimension"
 title: "Define the Ordering for a Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

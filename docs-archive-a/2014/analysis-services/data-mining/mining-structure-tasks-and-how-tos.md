@@ -1,4 +1,5 @@
 ---
+description: "Mining Structure Tasks and How-tos"
 title: "Mining Structure Tasks and How-tos | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

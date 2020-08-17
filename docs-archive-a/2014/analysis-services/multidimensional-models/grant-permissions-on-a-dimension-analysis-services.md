@@ -1,4 +1,5 @@
 ---
+description: "Grant permissions on a dimension (Analysis Services)"
 title: "Grant permissions on a dimension (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

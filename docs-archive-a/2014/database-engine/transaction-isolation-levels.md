@@ -1,4 +1,5 @@
 ---
+description: "Transaction Isolation Levels in memory-optimized tables"
 title: "Transaction Isolation Levels memory-optimized tables | Microsoft Docs"
 ms.custom: "seo-dt-2019"
 ms.date: "03/06/2017"

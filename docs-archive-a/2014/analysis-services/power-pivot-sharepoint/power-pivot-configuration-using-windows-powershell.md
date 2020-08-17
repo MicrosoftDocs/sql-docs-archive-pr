@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Configuration using Windows PowerShell"
 title: "PowerPivot Configuration using Windows PowerShell | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Client Network Configuration"
 title: "Client Network Configuration | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

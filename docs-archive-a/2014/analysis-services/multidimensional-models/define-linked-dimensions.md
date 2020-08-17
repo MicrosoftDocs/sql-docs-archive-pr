@@ -1,4 +1,5 @@
 ---
+description: "Define Linked Dimensions"
 title: "Define Linked Dimensions | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Profiler - Source Table-Database Engine Tuning Advisor - Select Workload Table"
 title: "SQL Server Profiler - Source Table-Database Engine Tuning Advisor - Select Workload Table | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

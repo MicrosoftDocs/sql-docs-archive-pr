@@ -1,4 +1,5 @@
 ---
+description: "ADOMD.NET Server Functionality"
 title: "ADOMD.NET Server Functionality | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

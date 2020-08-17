@@ -1,4 +1,5 @@
 ---
+description: "Choose and Map Input Data for a Prediction Query"
 title: "Choose and Map Input Data for a Prediction Query | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

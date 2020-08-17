@@ -1,4 +1,5 @@
 ---
+description: "disallow results from triggers Server Configuration Option"
 title: "disallow results from triggers Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

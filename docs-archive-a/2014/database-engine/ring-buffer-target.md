@@ -1,4 +1,5 @@
 ---
+description: "Ring Buffer Target"
 title: "Ring Buffer Target | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/07/2017"

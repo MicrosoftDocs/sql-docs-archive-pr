@@ -1,4 +1,5 @@
 ---
+description: "Set Custom Member Formulas for Attributes in a Dimension"
 title: "Set Custom Member Formulas for Attributes in a Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

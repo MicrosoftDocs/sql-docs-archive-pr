@@ -1,4 +1,5 @@
 ---
+description: "Deployed Data-tier Application Details (SQL Server Utility)"
 title: "Deployed Data-tier Application Details (SQL Server Utility) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

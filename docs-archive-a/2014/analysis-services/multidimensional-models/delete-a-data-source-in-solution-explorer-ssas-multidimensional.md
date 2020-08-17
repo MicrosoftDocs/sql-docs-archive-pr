@@ -1,4 +1,5 @@
 ---
+description: "Delete a Data Source in Solution Explorer (SSAS Multidimensional)"
 title: "Delete a Data Source in Solution Explorer (SSAS Multidimensional) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

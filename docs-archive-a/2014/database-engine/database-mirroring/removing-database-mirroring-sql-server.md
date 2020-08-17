@@ -1,4 +1,5 @@
 ---
+description: "Removing Database Mirroring (SQL Server)"
 title: "Removing Database Mirroring (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

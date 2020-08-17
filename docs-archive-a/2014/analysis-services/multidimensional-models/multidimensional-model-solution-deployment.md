@@ -1,4 +1,5 @@
 ---
+description: "Multidimensional Model Solution Deployment"
 title: "Multidimensional Model Solution Deployment | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

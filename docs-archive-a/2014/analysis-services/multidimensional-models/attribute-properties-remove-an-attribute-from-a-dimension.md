@@ -1,4 +1,5 @@
 ---
+description: "Remove an Attribute from a Dimension"
 title: "Remove an Attribute from a Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

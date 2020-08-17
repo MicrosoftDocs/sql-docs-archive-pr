@@ -1,4 +1,5 @@
 ---
+description: "Create a Data Mining Dimension"
 title: "Create a Data Mining Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Create and Customize PowerPivot Gallery"
 title: "Create and Customize PowerPivot Gallery | Microsoft Docs"
 ms.custom: ""
 ms.date: "09/01/2015"

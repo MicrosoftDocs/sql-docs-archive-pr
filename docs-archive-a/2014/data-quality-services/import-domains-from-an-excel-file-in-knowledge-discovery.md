@@ -1,4 +1,5 @@
 ---
+description: "Import Domains from an Excel File in Knowledge Discovery"
 title: "Import Domains from an Excel File in Knowledge Discovery | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

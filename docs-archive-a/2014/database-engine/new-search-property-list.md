@@ -1,4 +1,5 @@
 ---
+description: "New Search Property List"
 title: "New Search Property List | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

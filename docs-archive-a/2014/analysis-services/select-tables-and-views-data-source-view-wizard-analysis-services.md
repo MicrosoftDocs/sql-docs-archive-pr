@@ -1,4 +1,5 @@
 ---
+description: "Select Tables and Views (Data Source View Wizard) (Analysis Services)"
 title: "Select Tables and Views (Data Source View Wizard) (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

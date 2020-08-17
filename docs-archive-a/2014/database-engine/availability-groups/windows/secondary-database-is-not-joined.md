@@ -1,4 +1,5 @@
 ---
+description: "Secondary database is not joined"
 title: "Secondary database is not joined | Microsoft Docs"
 ms.custom: ""
 ms.date: 01/09/2019

@@ -1,4 +1,5 @@
 ---
+description: "Configure the (All) Level for Attribute Hierarchies"
 title: "Configure the (All) Level for Attribute Hierarchies | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

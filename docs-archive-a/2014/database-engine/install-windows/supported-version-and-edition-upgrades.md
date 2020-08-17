@@ -1,4 +1,5 @@
 ---
+description: "Supported Version and Edition Upgrades"
 title: "Supported Version and Edition Upgrades | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/26/2015"

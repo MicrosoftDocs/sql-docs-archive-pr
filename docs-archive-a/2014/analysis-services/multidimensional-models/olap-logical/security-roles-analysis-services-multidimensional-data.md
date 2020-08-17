@@ -1,4 +1,5 @@
 ---
+description: "Security Roles  (Analysis Services - Multidimensional Data)"
 title: "Security Roles  (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

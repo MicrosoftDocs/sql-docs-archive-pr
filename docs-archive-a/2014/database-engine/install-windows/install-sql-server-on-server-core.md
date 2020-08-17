@@ -1,4 +1,5 @@
 ---
+description: "Install SQL Server 2014 on Server Core"
 title: "Install SQL Server 2014 on Server Core | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

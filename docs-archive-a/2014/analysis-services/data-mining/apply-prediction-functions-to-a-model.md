@@ -1,4 +1,5 @@
 ---
+description: "Apply Prediction Functions to a Model"
 title: "Apply Prediction Functions to a Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

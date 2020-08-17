@@ -1,4 +1,5 @@
 ---
+description: "Data Profiling and Notifications in DQS"
 title: "Data Profiling and Notifications in DQS | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

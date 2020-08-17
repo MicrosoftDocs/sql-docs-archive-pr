@@ -1,4 +1,5 @@
 ---
+description: "Logistic Regression Model Query Examples"
 title: "Logistic Regression Model Query Examples | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

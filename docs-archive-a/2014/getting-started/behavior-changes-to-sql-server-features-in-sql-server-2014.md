@@ -1,4 +1,5 @@
 ---
+description: "Behavior Changes to SQL Server Features in SQL Server 2014"
 title: "Behavior Changes to SQL Server Features in SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

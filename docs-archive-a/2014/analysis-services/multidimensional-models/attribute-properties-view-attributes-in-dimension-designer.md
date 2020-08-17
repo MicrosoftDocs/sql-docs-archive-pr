@@ -1,4 +1,5 @@
 ---
+description: "View Attributes in Dimension Designer"
 title: "View Attributes in Dimension Designer | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

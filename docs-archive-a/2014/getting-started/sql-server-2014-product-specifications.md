@@ -1,4 +1,5 @@
 ---
+description: "Product Specifications for SQL Server 2014"
 title: "Product Specifications for SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

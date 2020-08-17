@@ -1,4 +1,5 @@
 ---
+description: "Multidimensional Model Assemblies Management"
 title: "Multidimensional Model Assemblies Management | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

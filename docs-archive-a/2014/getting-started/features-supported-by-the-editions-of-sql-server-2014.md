@@ -1,4 +1,5 @@
 ---
+description: "Features Supported by the Editions of SQL Server 2014"
 title: "Features Supported by the Editions of SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

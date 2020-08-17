@@ -1,4 +1,5 @@
 ---
+description: "Using In-Memory OLTP in a VM Environment"
 title: "Using In-Memory OLTP in a VM Environment | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

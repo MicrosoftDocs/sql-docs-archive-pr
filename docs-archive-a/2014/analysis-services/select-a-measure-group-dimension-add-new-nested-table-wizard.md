@@ -1,4 +1,5 @@
 ---
+description: "Select a Measure Group Dimension (Add New Nested Table Wizard)"
 title: "Select a Measure Group Dimension (Add New Nested Table Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

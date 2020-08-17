@@ -1,4 +1,5 @@
 ---
+description: "Query Options Results (Grid Page)"
 title: "Query Options Results (Grid Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

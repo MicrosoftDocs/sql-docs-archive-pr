@@ -1,4 +1,5 @@
 ---
+description: "Determine Whether the Database Engine Is Installed and Started"
 title: "Determine Whether the Database Engine Is Installed and Started | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services MDX Query Designer (SSAS)"
 title: "Analysis Services MDX Query Designer (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

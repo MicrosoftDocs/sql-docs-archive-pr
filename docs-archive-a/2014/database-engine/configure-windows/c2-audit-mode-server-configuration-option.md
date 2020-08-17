@@ -1,4 +1,5 @@
 ---
+description: "c2 audit mode Server Configuration Option"
 title: "c2 audit mode Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Visual Totals and Non Visual Totals"
 title: "Visual Totals and Non Visual Totals | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Choose Enhancement (Business Intelligence Wizard)"
 title: "Choose Enhancement (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

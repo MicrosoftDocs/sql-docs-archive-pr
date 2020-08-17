@@ -1,4 +1,5 @@
 ---
+description: "Lesson 9: Defining Perspectives and Translations"
 title: "Lesson 9: Defining Perspectives and Translations | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

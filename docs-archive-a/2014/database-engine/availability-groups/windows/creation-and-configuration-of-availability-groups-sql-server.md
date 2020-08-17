@@ -1,4 +1,5 @@
 ---
+description: "Creation and Configuration of Availability Groups (SQL Server)"
 title: "Creation and Configuration of Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

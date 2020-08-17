@@ -1,4 +1,5 @@
 ---
+description: "Set an Instance of SQL Server to Start Automatically (SQL Server Configuration Manager)"
 title: "Set an Instance of SQL Server to Start Automatically (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "01/07/2016"

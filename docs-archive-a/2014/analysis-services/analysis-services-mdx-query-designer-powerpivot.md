@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services MDX Query Designer (PowerPivot)"
 title: "Analysis Services MDX Query Designer (PowerPivot) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

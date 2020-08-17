@@ -1,4 +1,5 @@
 ---
+description: "FILESTREAM and FileTable with AlwaysOn Availability Groups (SQL Server)"
 title: "FILESTREAM and FileTable with AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Row Filters (Role Designer)(Tabular Model)"
 title: "Row Filters (Role Designer)(Tabular Model) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

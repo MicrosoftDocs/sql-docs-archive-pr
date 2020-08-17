@@ -1,4 +1,5 @@
 ---
+description: "Connection Properties Dialog Box (SSAS - Tabular)"
 title: "Connection Properties Dialog Box (SSAS - Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

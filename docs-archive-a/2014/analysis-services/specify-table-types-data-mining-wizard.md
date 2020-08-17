@@ -1,4 +1,5 @@
 ---
+description: "Specify Table Types (Data Mining Wizard)"
 title: "Specify Table Types (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

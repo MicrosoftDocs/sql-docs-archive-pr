@@ -1,4 +1,5 @@
 ---
+description: "Configuration Setting Reference (PowerPivot for SharePoint)"
 title: "Configuration Setting Reference (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

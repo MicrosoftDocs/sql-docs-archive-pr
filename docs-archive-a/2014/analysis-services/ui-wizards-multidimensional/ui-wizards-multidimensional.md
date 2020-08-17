@@ -1,4 +1,5 @@
 ---
+description: "UI Wizards for Multidimensional Analysis"
 title: "UI Wizards for Multidimensional Analysis | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/17/2018"

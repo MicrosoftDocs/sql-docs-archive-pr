@@ -1,4 +1,5 @@
 ---
+description: "Add a Custom Aggregation to a Dimension"
 title: "Add a Custom Aggregation to a Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

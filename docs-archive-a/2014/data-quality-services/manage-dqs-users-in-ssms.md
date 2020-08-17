@@ -1,4 +1,5 @@
 ---
+description: "Manage DQS Users in SSMS"
 title: "Manage DQS Users in SSMS | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

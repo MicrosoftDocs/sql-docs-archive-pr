@@ -1,4 +1,5 @@
 ---
+description: "Domain Management: Domain List"
 title: "Domain Management: Domain List | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

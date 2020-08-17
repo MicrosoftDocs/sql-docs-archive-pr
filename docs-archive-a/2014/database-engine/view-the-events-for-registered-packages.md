@@ -1,4 +1,5 @@
 ---
+description: "View the Events for Registered Packages"
 title: "View the Events for Registered Packages | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

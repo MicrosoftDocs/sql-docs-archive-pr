@@ -1,4 +1,5 @@
 ---
+description: "Using Query and Slicer Axes in a Simple Example (MDX)"
 title: "Using Query and Slicer Axes in a Simple Example (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

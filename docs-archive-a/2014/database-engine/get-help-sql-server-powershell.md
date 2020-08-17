@@ -1,4 +1,5 @@
 ---
+description: "Get Help SQL Server PowerShell"
 title: "Get Help SQL Server PowerShell | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

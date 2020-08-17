@@ -1,4 +1,5 @@
 ---
+description: "Configure Database Engine Instances (SQL Server)"
 title: "Configure Database Engine Instances (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

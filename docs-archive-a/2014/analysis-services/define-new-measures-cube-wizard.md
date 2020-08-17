@@ -1,4 +1,5 @@
 ---
+description: "Define New Measures (Cube Wizard)"
 title: "Define New Measures (Cube Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

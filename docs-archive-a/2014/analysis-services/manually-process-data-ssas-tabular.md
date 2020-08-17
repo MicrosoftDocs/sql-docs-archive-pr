@@ -1,4 +1,5 @@
 ---
+description: "Manually Process Data (SSAS Tabular)"
 title: "Manually Process Data (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

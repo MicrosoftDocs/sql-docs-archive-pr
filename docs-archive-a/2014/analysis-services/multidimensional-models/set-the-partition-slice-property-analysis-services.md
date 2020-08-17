@@ -1,4 +1,5 @@
 ---
+description: "Set the Partition Slice Property (Analysis Services)"
 title: "Set the Partition Slice Property (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "08/05/2015"

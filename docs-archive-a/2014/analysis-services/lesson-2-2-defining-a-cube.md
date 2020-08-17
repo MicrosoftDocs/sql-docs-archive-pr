@@ -1,4 +1,5 @@
 ---
+description: "Defining a Cube"
 title: "Defining a Cube | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

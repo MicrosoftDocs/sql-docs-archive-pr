@@ -1,4 +1,5 @@
 ---
+description: "Deploy a Data Mining Solution to Previous Versions of SQL Server"
 title: "Deploy a Data Mining Solution to Previous Versions of SQL Server | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Choose Servers to Configure (Configure Database Mirroring Security Wizard)"
 title: "Choose Servers to Configure (Configure Database Mirroring Security Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

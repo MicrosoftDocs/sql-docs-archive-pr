@@ -1,4 +1,5 @@
 ---
+description: "Create a Dimension by Using an Existing Table"
 title: "Create a Dimension by Using an Existing Table | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

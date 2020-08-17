@@ -1,4 +1,5 @@
 ---
+description: "Import a Data Mining Project using the Analysis Services Import Wizard"
 title: "Import a Data Mining Project using the Analysis Services Import Wizard | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

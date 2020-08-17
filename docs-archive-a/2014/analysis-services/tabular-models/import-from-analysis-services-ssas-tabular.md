@@ -1,4 +1,5 @@
 ---
+description: "Import from Analysis Services (SSAS Tabular)"
 title: "Import from Analysis Services (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

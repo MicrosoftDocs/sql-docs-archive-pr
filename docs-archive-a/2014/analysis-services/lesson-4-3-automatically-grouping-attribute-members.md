@@ -1,4 +1,5 @@
 ---
+description: "Automatically Grouping Attribute Members"
 title: "Automatically Grouping Attribute Members | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

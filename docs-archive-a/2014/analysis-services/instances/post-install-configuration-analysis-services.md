@@ -1,4 +1,5 @@
 ---
+description: "Post-install Configuration (Analysis Services)"
 title: "Post-install Configuration (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

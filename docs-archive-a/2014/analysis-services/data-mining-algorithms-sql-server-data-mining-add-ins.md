@@ -1,4 +1,5 @@
 ---
+description: "Data Mining Algorithms (SQL Server Data Mining Add-ins)"
 title: "Data Mining Algorithms (SQL Server Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

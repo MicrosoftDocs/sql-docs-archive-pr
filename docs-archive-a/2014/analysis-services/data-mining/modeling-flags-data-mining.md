@@ -1,4 +1,5 @@
 ---
+description: "Modeling Flags (Data Mining)"
 title: "Modeling Flags (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

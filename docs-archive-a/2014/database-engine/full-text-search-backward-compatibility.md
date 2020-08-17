@@ -1,4 +1,5 @@
 ---
+description: "Full-Text Search Backward Compatibility"
 title: "Full-Text Search Backward Compatibility | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

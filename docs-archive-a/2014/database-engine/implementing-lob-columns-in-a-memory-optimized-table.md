@@ -1,4 +1,5 @@
 ---
+description: "Implementing LOB Columns in a Memory-Optimized Table"
 title: "Implementing LOB Columns in a Memory-Optimized Table | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/14/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Globalization Tips and Best Practices (Analysis Services)"
 title: "Globalization Tips and Best Practices (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

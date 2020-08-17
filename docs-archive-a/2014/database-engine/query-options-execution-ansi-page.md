@@ -1,4 +1,5 @@
 ---
+description: "Query Options Execution (ANSI Page)"
 title: "Query Options Execution (ANSI Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

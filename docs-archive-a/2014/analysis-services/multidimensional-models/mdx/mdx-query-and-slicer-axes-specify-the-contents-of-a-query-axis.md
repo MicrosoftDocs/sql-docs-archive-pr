@@ -1,4 +1,5 @@
 ---
+description: "Specifying the Contents of a Query Axis (MDX)"
 title: "Specifying the Contents of a Query Axis (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

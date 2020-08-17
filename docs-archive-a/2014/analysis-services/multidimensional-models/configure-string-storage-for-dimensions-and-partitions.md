@@ -1,4 +1,5 @@
 ---
+description: "Configure String Storage for Dimensions and Partitions"
 title: "Configure String Storage for Dimensions and Partitions | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

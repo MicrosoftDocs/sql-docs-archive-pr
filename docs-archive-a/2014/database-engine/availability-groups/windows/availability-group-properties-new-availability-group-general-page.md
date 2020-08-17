@@ -1,4 +1,5 @@
 ---
+description: "Availability Group Properties and New Availability Group (General Page)"
 title: "Availability Group Properties and New Availability Group (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

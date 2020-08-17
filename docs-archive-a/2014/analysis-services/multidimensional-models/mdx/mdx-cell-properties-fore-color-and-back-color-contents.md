@@ -1,4 +1,5 @@
 ---
+description: "FORE_COLOR and BACK_COLOR Contents (MDX)"
 title: "FORE_COLOR and BACK_COLOR Contents (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

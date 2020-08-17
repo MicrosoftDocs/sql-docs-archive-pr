@@ -1,4 +1,5 @@
 ---
+description: "SQLXML 4.0 .NET Framework Support"
 title: "SQLXML 4.0 .NET Framework Support | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

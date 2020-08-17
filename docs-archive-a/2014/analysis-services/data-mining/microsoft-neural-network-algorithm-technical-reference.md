@@ -1,4 +1,5 @@
 ---
+description: "Microsoft Neural Network Algorithm Technical Reference"
 title: "Microsoft Neural Network Algorithm Technical Reference | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

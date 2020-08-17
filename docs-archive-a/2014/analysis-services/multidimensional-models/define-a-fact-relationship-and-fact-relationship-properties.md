@@ -1,4 +1,5 @@
 ---
+description: "Define a Fact Relationship and Fact Relationship Properties"
 title: "Define a Fact Relationship and Fact Relationship Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

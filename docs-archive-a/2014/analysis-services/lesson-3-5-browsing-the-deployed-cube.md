@@ -1,4 +1,5 @@
 ---
+description: "Browsing the Deployed Cube"
 title: "Browsing the Deployed Cube | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

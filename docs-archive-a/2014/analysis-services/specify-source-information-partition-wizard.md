@@ -1,4 +1,5 @@
 ---
+description: "Specify Source Information (Partition Wizard)"
 title: "Specify Source Information (Partition Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

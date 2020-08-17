@@ -1,4 +1,5 @@
 ---
+description: "Measures in the Cross-Validation Report"
 title: "Measures in the Cross-Validation Report | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

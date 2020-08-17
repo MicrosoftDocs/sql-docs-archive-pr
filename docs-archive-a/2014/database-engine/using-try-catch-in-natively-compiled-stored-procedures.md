@@ -1,4 +1,5 @@
 ---
+description: "Using Try..Catch in Natively Compiled Stored Procedures"
 title: "Using Try..Catch in Natively Compiled Stored Procedures | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

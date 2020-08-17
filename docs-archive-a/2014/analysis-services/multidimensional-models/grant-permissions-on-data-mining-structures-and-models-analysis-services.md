@@ -1,4 +1,5 @@
 ---
+description: "Grant permissions on data mining structures and models (Analysis Services)"
 title: "Grant permissions on data mining structures and models (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

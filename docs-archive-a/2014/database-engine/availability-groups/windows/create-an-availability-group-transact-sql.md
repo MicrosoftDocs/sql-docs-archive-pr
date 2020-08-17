@@ -1,4 +1,5 @@
 ---
+description: "Create an Availability Group (Transact-SQL)"
 title: "Create an Availability Group (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

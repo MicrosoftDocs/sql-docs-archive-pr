@@ -1,4 +1,5 @@
 ---
+description: "Pause or Resume a Database Mirroring Session (SQL Server)"
 title: "Pause or Resume a Database Mirroring Session (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

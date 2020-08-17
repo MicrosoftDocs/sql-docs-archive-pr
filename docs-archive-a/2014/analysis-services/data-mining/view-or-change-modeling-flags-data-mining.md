@@ -1,4 +1,5 @@
 ---
+description: "View or Change Modeling Flags (Data Mining)"
 title: "View or Change Modeling Flags (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

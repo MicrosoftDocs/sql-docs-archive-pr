@@ -1,4 +1,5 @@
 ---
+description: "Mining Model Viewer Tasks and How-tos"
 title: "Mining Model Viewer Tasks and How-tos | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

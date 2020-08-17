@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Server Administration and Configuration in Central Administration"
 title: "PowerPivot Server Administration and Configuration in Central Administration | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

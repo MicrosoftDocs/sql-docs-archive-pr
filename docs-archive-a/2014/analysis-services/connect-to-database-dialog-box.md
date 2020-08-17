@@ -1,4 +1,5 @@
 ---
+description: "Connect To Database Dialog Box"
 title: "Connect To Database Dialog Box | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

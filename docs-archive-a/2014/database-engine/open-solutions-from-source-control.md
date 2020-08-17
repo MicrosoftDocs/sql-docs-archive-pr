@@ -1,4 +1,5 @@
 ---
+description: "Open Solutions from Source Control"
 title: "Open Solutions from Source Control | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Extended Events Targets"
 title: "SQL Server Extended Events Targets | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

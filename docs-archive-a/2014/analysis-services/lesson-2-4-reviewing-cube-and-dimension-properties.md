@@ -1,4 +1,5 @@
 ---
+description: "Reviewing Cube and Dimension Properties"
 title: "Reviewing Cube and Dimension Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

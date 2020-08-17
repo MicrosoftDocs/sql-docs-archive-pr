@@ -1,4 +1,5 @@
 ---
+description: "Database Mirroring Monitor (Warnings Page)"
 title: "Database Mirroring Monitor (Warnings Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

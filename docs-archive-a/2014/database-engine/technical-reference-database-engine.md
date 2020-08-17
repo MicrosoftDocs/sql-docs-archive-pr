@@ -1,4 +1,5 @@
 ---
+description: "Technical Reference (Database Engine)"
 title: "Technical Reference (Database Engine) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

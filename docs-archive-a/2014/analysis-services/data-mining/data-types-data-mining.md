@@ -1,4 +1,5 @@
 ---
+description: "Data Types (Data Mining)"
 title: "Data Types (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

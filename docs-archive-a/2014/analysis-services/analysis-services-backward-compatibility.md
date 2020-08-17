@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Backward Compatibility"
 title: "Analysis Services Backward Compatibility | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Set and Retrieve Version Information"
 title: "Set and Retrieve Version Information | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

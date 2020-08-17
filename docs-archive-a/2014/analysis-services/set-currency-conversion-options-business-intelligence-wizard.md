@@ -1,4 +1,5 @@
 ---
+description: "Set Currency Conversion Options (Business Intelligence Wizard)"
 title: "Set Currency Conversion Options (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

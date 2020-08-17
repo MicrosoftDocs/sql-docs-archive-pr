@@ -1,4 +1,5 @@
 ---
+description: "Correlate a Trace with Windows Performance Log Data (SQL Server Profiler)"
 title: "Correlate a Trace with Windows Performance Log Data (SQL Server Profiler) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

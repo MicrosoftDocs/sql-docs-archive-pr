@@ -1,4 +1,5 @@
 ---
+description: "Connect to a Microsoft SQL Server Parallel Data Warehouse (SSAS)"
 title: "Connect to a Microsoft SQL Server Parallel Data Warehouse (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

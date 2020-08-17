@@ -1,4 +1,5 @@
 ---
+description: "Backup, Restore, and Recovery of Memory-Optimized Tables"
 title: "Backup, Restore, and Recovery of Memory-Optimized Tables | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

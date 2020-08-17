@@ -1,4 +1,5 @@
 ---
+description: "Modify a Trace Template (SQL Server Profiler)"
 title: "Modify a Trace Template (SQL Server Profiler) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

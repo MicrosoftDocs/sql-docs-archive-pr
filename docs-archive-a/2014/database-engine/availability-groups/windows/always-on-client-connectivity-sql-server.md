@@ -1,4 +1,5 @@
 ---
+description: "Always On Client Connectivity (SQL Server)"
 title: "Always On Client Connectivity (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

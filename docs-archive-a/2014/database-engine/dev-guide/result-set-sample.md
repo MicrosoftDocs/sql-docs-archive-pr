@@ -1,4 +1,5 @@
 ---
+description: "Result Set Sample"
 title: "Result Set Sample | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

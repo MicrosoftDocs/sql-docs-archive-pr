@@ -1,4 +1,5 @@
 ---
+description: "Create a DMX Query in SQL Server Management Studio"
 title: "Create a DMX Query in SQL Server Management Studio | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

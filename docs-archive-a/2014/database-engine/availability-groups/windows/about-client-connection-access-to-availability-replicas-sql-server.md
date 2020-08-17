@@ -1,4 +1,5 @@
 ---
+description: "About Client Connection Access to Availability Replicas (SQL Server)"
 title: "About Client Connection Access to Availability Replicas (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

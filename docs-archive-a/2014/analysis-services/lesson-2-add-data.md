@@ -1,4 +1,5 @@
 ---
+description: "Lesson 2: Add Data"
 title: "Lesson 2: Add Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Configure the cost threshold for parallelism Server Configuration Option"
 title: "Configure the cost threshold for parallelism Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/26/2015"

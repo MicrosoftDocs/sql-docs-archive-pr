@@ -1,4 +1,5 @@
 ---
+description: "Monitoring and Troubleshooting Merge for Data and Delta File Pairs"
 title: "Monitoring and Troubleshooting Merge for Data and Delta File Pairs | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

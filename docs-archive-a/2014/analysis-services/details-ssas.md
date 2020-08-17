@@ -1,4 +1,5 @@
 ---
+description: "Details (SSAS)"
 title: "Details (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

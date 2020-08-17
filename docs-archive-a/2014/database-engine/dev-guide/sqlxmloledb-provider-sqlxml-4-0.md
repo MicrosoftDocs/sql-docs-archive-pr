@@ -1,4 +1,5 @@
 ---
+description: "SQLXMLOLEDB Provider (SQLXML 4.0)"
 title: "SQLXMLOLEDB Provider (SQLXML 4.0) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

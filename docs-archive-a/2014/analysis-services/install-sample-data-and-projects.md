@@ -1,4 +1,5 @@
 ---
+description: "Install Sample Data and Projects for the Analysis Services Multidimensional Modeling Tutorial"
 title: "Install Sample Data and Projects for the Analysis Services Multidimensional Modeling Tutorial | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/07/2017"

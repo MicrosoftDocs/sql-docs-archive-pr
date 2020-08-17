@@ -1,4 +1,5 @@
 ---
+description: "Upgrade DQS Databases Schema After Installing SQL Server Update"
 title: "Upgrade DQS Databases Schema After Installing SQL Server Update | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

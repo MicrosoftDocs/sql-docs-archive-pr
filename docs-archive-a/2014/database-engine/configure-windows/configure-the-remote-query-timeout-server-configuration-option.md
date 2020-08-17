@@ -1,4 +1,5 @@
 ---
+description: "Configure the remote query timeout Server Configuration Option"
 title: "Configure the remote query timeout Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

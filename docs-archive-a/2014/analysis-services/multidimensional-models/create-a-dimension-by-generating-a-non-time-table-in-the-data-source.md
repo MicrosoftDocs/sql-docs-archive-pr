@@ -1,4 +1,5 @@
 ---
+description: "Create a Dimension by Generating a Non-Time Table in the Data Source"
 title: "Create a Dimension by Generating a Non-Time Table in the Data Source | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Select Objects (Linked Object Wizard)"
 title: "Select Objects (Linked Object Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

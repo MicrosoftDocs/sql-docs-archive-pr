@@ -1,4 +1,5 @@
 ---
+description: "Create or Configure an Availability Group Listener (SQL Server)"
 title: "Create or Configure an Availability Group Listener (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

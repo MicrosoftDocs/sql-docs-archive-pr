@@ -1,4 +1,5 @@
 ---
+description: "Create and Manage a Remote Partition (Analysis Services)"
 title: "Create and Manage a Remote Partition (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

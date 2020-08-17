@@ -1,4 +1,5 @@
 ---
+description: "Specify Column Content and Data Type (Data Mining Wizard)"
 title: "Specify Column Content and Data Type (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

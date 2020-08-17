@@ -1,4 +1,5 @@
 ---
+description: "Start SQL Server with Minimal Configuration"
 title: "Start SQL Server with Minimal Configuration | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

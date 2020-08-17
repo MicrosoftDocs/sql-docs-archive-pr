@@ -1,4 +1,5 @@
 ---
+description: "Completing the Wizard (Import Analysis Services Database Wizard)"
 title: "Completing the Wizard (Import Analysis Services Database Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

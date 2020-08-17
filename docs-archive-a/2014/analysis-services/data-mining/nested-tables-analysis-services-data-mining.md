@@ -1,4 +1,5 @@
 ---
+description: "Nested Tables (Analysis Services - Data Mining)"
 title: "Nested Tables (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

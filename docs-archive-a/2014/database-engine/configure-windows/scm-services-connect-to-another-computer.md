@@ -1,4 +1,5 @@
 ---
+description: "Connect to Another Computer (SQL Server Configuration Manager)"
 title: "Connect to Another Computer (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

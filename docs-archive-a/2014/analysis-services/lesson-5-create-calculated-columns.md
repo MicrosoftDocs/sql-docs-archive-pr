@@ -1,4 +1,5 @@
 ---
+description: "Lesson 6: Create Calculated Columns"
 title: "Lesson 6: Create Calculated Columns | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

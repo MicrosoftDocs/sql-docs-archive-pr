@@ -1,4 +1,5 @@
 ---
+description: "Trace File Properties (General Tab)"
 title: "Trace File Properties (General Tab) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

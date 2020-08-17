@@ -1,4 +1,5 @@
 ---
+description: "Connect to a Microsoft SQL Server Database (SSAS)"
 title: "Connect to a Microsoft SQL Server Database (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

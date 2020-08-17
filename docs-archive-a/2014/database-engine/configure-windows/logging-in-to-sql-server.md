@@ -1,4 +1,5 @@
 ---
+description: "Logging In to SQL Server"
 title: "Logging In to SQL Server | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

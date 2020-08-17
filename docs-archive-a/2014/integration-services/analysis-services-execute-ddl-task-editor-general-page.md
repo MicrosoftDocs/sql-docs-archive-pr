@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Execute DDL Task Editor (General Page)"
 title: "Analysis Services Execute DDL Task Editor (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

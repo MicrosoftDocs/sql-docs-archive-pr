@@ -1,4 +1,5 @@
 ---
+description: "Configure the max degree of parallelism Server Configuration Option"
 title: "Configure the max degree of parallelism Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

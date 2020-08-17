@@ -1,4 +1,5 @@
 ---
+description: "Multidimensional Modeling (Adventure Works Tutorial)"
 title: "Multidimensional Modeling (Adventure Works Tutorial) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

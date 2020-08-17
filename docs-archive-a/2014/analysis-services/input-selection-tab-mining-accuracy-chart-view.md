@@ -1,4 +1,5 @@
 ---
+description: "Input Selection Tab (Mining Accuracy Chart View)"
 title: "Input Selection Tab (Mining Accuracy Chart View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Install or Uninstall the PowerPivot for SharePoint Add-in (SharePoint 2013)"
 title: "Install or Uninstall the PowerPivot for SharePoint Add-in (SharePoint 2013) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

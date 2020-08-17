@@ -1,4 +1,5 @@
 ---
+description: "Using DRILLTHROUGH to Retrieve Source Data (MDX)"
 title: "Using DRILLTHROUGH to Retrieve Source Data (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

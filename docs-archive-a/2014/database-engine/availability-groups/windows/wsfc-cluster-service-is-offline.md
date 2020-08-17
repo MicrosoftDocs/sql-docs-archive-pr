@@ -1,4 +1,5 @@
 ---
+description: "WSFC cluster service is offline"
 title: "WSFC cluster service is offline | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

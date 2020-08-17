@@ -1,4 +1,5 @@
 ---
+description: "Change the Session-Timeout Period for an Availability Replica (SQL Server)"
 title: "Change the Session-Timeout Period for an Availability Replica (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

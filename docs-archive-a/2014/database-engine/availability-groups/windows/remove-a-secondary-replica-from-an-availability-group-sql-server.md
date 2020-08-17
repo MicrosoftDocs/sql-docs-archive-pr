@@ -1,4 +1,5 @@
 ---
+description: "Remove a Secondary Replica from an Availability Group (SQL Server)"
 title: "Remove a Secondary Replica from an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

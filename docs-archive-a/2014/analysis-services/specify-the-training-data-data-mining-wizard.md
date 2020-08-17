@@ -1,4 +1,5 @@
 ---
+description: "Specify the Training Data (Data Mining Wizard)"
 title: "Specify the Training Data (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

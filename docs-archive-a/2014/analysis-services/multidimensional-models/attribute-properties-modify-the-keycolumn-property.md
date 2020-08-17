@@ -1,4 +1,5 @@
 ---
+description: "Modify the KeyColumn Property of an Attribute"
 title: "Modify the KeyColumn Property of an Attribute | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

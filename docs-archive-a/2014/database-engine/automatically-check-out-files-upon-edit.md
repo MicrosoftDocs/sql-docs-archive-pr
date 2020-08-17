@@ -1,4 +1,5 @@
 ---
+description: "Automatically Check Out Files Upon Edit"
 title: "Automatically Check Out Files Upon Edit | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

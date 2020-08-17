@@ -1,4 +1,5 @@
 ---
+description: "Thread Pool Properties"
 title: "Thread Pool Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

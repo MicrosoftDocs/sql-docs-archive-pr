@@ -1,4 +1,5 @@
 ---
+description: "Create a Date type Dimension"
 title: "Create a Date type Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

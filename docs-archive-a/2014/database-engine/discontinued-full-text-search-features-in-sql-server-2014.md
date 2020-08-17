@@ -1,4 +1,5 @@
 ---
+description: "Discontinued Full-Text Search Features in SQL Server 2014"
 title: "Discontinued Full-Text Search Features in SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

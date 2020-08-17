@@ -1,4 +1,5 @@
 ---
+description: "Lesson 13: Analyze in Excel"
 title: "Lesson 13: Analyze in Excel | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

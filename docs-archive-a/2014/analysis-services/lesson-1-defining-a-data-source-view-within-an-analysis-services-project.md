@@ -1,4 +1,5 @@
 ---
+description: "Lesson 1: Defining a Data Source View within an Analysis Services Project"
 title: "Lesson 1: Defining a Data Source View within an Analysis Services Project | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

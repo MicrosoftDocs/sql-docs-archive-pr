@@ -1,4 +1,5 @@
 ---
+description: "Data Mining Queries"
 title: "Data Mining Queries | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

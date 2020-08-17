@@ -1,4 +1,5 @@
 ---
+description: "Prediction Query Builder (Data Mining)"
 title: "Prediction Query Builder (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

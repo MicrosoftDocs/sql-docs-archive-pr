@@ -1,4 +1,5 @@
 ---
+description: "WMI Provider Events and Errors"
 title: "WMI Provider Events and Errors | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

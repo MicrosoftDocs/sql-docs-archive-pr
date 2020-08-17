@@ -1,4 +1,5 @@
 ---
+description: "Save Data Mining Query Result Dialog Box (Mining Model Prediction View)"
 title: "Save Data Mining Query Result Dialog Box (Mining Model Prediction View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "What&#39;s New (Database Engine)"
 title: "What&#39;s New (Database Engine) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/22/2016"

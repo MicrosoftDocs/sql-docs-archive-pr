@@ -1,4 +1,5 @@
 ---
+description: "New Measure Group Dialog Box (Cube Designer)"
 title: "New Measure Group Dialog Box (Cube Designer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

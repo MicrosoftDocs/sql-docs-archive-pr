@@ -1,4 +1,5 @@
 ---
+description: "Create a New Relational Mining Structure"
 title: "Create a New Relational Mining Structure | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

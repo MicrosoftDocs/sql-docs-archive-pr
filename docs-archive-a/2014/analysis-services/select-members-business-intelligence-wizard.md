@@ -1,4 +1,5 @@
 ---
+description: "Select Members (Business Intelligence Wizard)"
 title: "Select Members (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Join a Secondary Replica to an Availability Group (SQL Server)"
 title: "Join a Secondary Replica to an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

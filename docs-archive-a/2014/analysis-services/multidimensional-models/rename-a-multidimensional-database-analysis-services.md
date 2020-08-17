@@ -1,4 +1,5 @@
 ---
+description: "Rename a Multidimensional Database (Analysis Services)"
 title: "Rename a Multidimensional Database (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

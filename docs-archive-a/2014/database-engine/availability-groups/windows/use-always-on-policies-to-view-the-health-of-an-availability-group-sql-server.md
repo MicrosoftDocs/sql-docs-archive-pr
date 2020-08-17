@@ -1,4 +1,5 @@
 ---
+description: "Use AlwaysOn Policies to View the Health of an Availability Group (SQL Server)"
 title: "Use AlwaysOn Policies to View the Health of an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: 01/19/2019

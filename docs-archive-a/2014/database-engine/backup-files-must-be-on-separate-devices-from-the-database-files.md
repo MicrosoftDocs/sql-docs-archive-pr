@@ -1,4 +1,5 @@
 ---
+description: "Backup Files Must Be on Separate Devices from the Database Files"
 title: "Backup Files Must Be on Separate Devices from the Database Files | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

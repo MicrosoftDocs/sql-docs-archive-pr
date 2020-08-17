@@ -1,4 +1,5 @@
 ---
+description: "Process a Mining Model"
 title: "Process a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

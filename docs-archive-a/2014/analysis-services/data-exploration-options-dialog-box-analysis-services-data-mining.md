@@ -1,4 +1,5 @@
 ---
+description: "Data Exploration Options Dialog Box (Analysis Services - Data Mining)"
 title: "Data Exploration Options Dialog Box (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

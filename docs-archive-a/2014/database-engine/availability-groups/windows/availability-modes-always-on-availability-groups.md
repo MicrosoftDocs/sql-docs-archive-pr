@@ -1,4 +1,5 @@
 ---
+description: "Availability Modes (Always On Availability Groups)"
 title: "Availability Modes (Always On Availability Groups) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

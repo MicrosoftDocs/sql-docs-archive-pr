@@ -1,4 +1,5 @@
 ---
+description: "Options (Text Editor:XML:Tabs Page)"
 title: "Options (Text Editor:XML:Tabs Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

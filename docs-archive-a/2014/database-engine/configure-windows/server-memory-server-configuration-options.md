@@ -1,4 +1,5 @@
 ---
+description: "Server Memory Configuration Options"
 title: "Server Memory Configuration Options | Microsoft Docs"
 ms.custom: ""
 ms.date: 07/22/2020

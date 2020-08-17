@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Index Design Guide"
 title: "SQL Server Index Design Guide | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

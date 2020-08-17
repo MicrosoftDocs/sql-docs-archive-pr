@@ -1,4 +1,5 @@
 ---
+description: "Extending OLAP through personalizations"
 title: "Extending OLAP through personalizations | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

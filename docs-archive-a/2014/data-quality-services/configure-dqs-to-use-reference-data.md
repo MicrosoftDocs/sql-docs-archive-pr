@@ -1,4 +1,5 @@
 ---
+description: "Configure DQS to Use Reference Data"
 title: "Configure DQS to Use Reference Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

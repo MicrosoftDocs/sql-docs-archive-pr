@@ -1,4 +1,5 @@
 ---
+description: "Save Your Work in Table Designer (Visual Database Tools)"
 title: "Save Your Work in Table Designer (Visual Database Tools) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

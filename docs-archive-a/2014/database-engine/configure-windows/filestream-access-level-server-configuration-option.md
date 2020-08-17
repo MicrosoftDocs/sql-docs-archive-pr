@@ -1,4 +1,5 @@
 ---
+description: "filestream access level Server Configuration Option"
 title: "filestream access level Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

@@ -1,4 +1,5 @@
 ---
+description: "The data connection uses Windows Authentication and user credentials could not be delegated. The following connections failed to refresh: PowerPivot Data"
 title: "The data connection uses Windows Authentication and user credentials could not be delegated. The following connections failed to refresh: PowerPivot Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

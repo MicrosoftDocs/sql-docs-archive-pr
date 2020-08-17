@@ -1,4 +1,5 @@
 ---
+description: "Fail Over to a Log Shipping Secondary (SQL Server)"
 title: "Fail Over to a Log Shipping Secondary (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

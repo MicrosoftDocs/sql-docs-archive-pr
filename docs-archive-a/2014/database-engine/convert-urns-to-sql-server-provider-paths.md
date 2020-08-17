@@ -1,4 +1,5 @@
 ---
+description: "Convert URNs to SQL Server Provider Paths"
 title: "Convert URNs to SQL Server Provider Paths | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

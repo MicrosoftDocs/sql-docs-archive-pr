@@ -1,4 +1,5 @@
 ---
+description: "Create a Linked Domain"
 title: "Create a Linked Domain | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Managing a Composite Domain"
 title: "Managing a Composite Domain | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

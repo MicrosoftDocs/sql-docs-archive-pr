@@ -1,4 +1,5 @@
 ---
+description: "Data Mining Properties"
 title: "Data Mining Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

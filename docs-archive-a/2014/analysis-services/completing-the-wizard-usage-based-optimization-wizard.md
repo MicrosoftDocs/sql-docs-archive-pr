@@ -1,4 +1,5 @@
 ---
+description: "Completing the Wizard (Usage-Based Optimization Wizard)"
 title: "Completing the Wizard (Usage-Based Optimization Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

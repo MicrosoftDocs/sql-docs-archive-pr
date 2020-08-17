@@ -1,4 +1,5 @@
 ---
+description: "Modifying the Customer Dimension"
 title: "Modifying the Customer Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

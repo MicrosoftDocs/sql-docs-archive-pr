@@ -1,4 +1,5 @@
 ---
+description: "Drill Through to Case Data from a Mining Model"
 title: "Drill Through to Case Data from a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

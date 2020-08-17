@@ -1,4 +1,5 @@
 ---
+description: "Define Member Groups"
 title: "Define Member Groups | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

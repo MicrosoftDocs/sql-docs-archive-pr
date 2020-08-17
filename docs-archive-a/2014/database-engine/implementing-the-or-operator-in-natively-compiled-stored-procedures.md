@@ -1,4 +1,5 @@
 ---
+description: "Implementing the OR Operator in Natively Compiled Stored Procedures"
 title: "Implementing the OR Operator in Natively Compiled Stored Procedures | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

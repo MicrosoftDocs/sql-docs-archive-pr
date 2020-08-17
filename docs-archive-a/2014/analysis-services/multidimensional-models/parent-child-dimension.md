@@ -1,4 +1,5 @@
 ---
+description: "Parent-Child Hierarchy"
 title: "Parent-Child Hierarchy | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

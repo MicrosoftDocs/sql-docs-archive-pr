@@ -1,4 +1,5 @@
 ---
+description: "View the Extended Events Targets for Registered Packages"
 title: "View the Extended Events Targets for Registered Packages | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

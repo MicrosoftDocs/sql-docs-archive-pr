@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Data Refresh with SharePoint 2013"
 title: "PowerPivot Data Refresh with SharePoint 2013 | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

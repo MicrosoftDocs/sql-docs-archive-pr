@@ -1,4 +1,5 @@
 ---
+description: "Set the Data Type of a Column (SSAS Tabular)"
 title: "Set the Data Type of a Column (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

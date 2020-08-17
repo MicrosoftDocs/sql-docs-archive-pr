@@ -1,4 +1,5 @@
 ---
+description: "Edit Checked-In Files"
 title: "Edit Checked-In Files | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

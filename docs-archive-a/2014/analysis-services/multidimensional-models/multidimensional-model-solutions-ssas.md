@@ -1,4 +1,5 @@
 ---
+description: "Multidimensional Model Solutions (SSAS)"
 title: "Multidimensional Model Solutions (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

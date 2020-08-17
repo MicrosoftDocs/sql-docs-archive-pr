@@ -1,4 +1,5 @@
 ---
+description: "Check the ODBC SQL Server Driver Version (Windows)"
 title: "Check the ODBC SQL Server Driver Version (Windows) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

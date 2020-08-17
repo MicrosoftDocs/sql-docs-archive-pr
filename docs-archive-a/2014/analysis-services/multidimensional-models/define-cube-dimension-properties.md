@@ -1,4 +1,5 @@
 ---
+description: "Define Cube Dimension Properties"
 title: "Define Cube Dimension Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

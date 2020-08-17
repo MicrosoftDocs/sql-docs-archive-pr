@@ -1,4 +1,5 @@
 ---
+description: "Viewing Models (Data Mining Add-ins for Office)"
 title: "Viewing Models (Data Mining Add-ins for Office) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

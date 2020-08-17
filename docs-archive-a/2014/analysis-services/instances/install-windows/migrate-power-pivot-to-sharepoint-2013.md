@@ -1,4 +1,5 @@
 ---
+description: "Migrate PowerPivot to SharePoint 2013"
 title: "Migrate PowerPivot to SharePoint 2013 | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

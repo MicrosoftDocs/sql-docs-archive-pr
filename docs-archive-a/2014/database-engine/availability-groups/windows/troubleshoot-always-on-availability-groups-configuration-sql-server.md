@@ -1,4 +1,5 @@
 ---
+description: "Troubleshoot AlwaysOn Availability Groups Configuration (SQL Server)"
 title: "Troubleshoot AlwaysOn Availability Groups Configuration (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "01/31/2017"

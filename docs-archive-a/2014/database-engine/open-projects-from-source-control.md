@@ -1,4 +1,5 @@
 ---
+description: "Open Projects from Source Control"
 title: "Open Projects from Source Control | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Import from PowerPivot (SSAS Tabular)"
 title: "Import from PowerPivot (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

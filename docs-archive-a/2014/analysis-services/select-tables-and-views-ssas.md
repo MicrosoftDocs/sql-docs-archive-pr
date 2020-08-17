@@ -1,4 +1,5 @@
 ---
+description: "Select Tables and Views (SSAS)"
 title: "Select Tables and Views (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

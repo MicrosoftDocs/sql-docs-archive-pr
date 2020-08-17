@@ -1,4 +1,5 @@
 ---
+description: "Query Pane (Mining Model Prediction View)"
 title: "Query Pane (Mining Model Prediction View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

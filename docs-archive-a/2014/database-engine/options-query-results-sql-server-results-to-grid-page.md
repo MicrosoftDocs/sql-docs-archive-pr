@@ -1,4 +1,5 @@
 ---
+description: "Options (Query Results-SQL Server-Results to Grid Page)"
 title: "Options (Query Results-SQL Server-Results to Grid Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

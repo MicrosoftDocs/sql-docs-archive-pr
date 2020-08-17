@@ -1,4 +1,5 @@
 ---
+description: "Create a Content Query on a Mining Model"
 title: "Create a Content Query on a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

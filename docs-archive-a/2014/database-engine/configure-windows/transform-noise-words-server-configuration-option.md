@@ -1,4 +1,5 @@
 ---
+description: "transform noise words Server Configuration Option"
 title: "transform noise words Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/07/2017"

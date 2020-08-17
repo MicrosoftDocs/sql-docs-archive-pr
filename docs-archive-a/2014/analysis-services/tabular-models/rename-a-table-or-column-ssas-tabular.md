@@ -1,4 +1,5 @@
 ---
+description: "Rename a Table or Column (SSAS Tabular)"
 title: "Rename a Table or Column (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

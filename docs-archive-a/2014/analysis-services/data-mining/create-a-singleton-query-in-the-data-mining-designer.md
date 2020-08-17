@@ -1,4 +1,5 @@
 ---
+description: "Create a Singleton Query in the Data Mining Designer"
 title: "Create a Singleton Query in the Data Mining Designer | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

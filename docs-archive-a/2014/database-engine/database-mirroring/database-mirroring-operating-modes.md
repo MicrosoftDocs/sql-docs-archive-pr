@@ -1,4 +1,5 @@
 ---
+description: "Database Mirroring Operating Modes"
 title: "Database Mirroring Operating Modes | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

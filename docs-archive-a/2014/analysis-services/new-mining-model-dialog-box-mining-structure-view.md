@@ -1,4 +1,5 @@
 ---
+description: "New Mining Model Dialog Box (Mining Structure View)"
 title: "New Mining Model Dialog Box (Mining Structure View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

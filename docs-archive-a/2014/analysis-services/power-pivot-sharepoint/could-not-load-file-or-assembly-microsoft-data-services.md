@@ -1,4 +1,5 @@
 ---
+description: "Could not load file or assembly &#39;Microsoft.AnalysisServices.SharePoint.Integration&#39;"
 title: "Could not load file or assembly &#39;Microsoft.AnalysisServices.SharePoint.Integration&#39; | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

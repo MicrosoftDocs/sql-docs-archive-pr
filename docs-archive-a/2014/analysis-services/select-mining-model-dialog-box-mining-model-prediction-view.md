@@ -1,4 +1,5 @@
 ---
+description: "Select Mining Model Dialog Box (Mining Model Prediction View)"
 title: "Select Mining Model Dialog Box (Mining Model Prediction View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

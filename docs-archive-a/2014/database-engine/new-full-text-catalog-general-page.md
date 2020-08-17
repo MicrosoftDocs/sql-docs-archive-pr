@@ -1,4 +1,5 @@
 ---
+description: "New Full-Text Catalog (General Page)"
 title: "New Full-Text Catalog (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

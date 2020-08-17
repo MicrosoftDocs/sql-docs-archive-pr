@@ -1,4 +1,5 @@
 ---
+description: "Create a Calculated Column (SSAS Tabular)"
 title: "Create a Calculated Column (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

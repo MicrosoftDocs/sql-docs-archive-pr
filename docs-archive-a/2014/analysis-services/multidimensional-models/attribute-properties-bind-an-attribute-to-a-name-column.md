@@ -1,4 +1,5 @@
 ---
+description: "Bind an Attribute to a Name Column"
 title: "Bind an Attribute to a Name Column | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

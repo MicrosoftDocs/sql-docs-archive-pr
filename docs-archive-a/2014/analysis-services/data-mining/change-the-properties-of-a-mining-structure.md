@@ -1,4 +1,5 @@
 ---
+description: "Change the Properties of a Mining Structure"
 title: "Change the Properties of a Mining Structure | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

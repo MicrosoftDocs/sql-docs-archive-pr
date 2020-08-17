@@ -1,4 +1,5 @@
 ---
+description: "Define Currency Conversion (Business Intelligence Wizard)"
 title: "Define Currency Conversion (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"
