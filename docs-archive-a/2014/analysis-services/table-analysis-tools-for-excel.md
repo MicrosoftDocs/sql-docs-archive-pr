@@ -1,4 +1,5 @@
 ---
+description: "Table Analysis Tools for Excel"
 title: "Table Analysis Tools for Excel | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

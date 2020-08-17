@@ -1,4 +1,5 @@
 ---
+description: "Building Named Sets in MDX (MDX)"
 title: "Building Named Sets in MDX (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

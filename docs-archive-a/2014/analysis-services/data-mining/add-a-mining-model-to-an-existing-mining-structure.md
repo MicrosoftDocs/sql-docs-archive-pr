@@ -1,4 +1,5 @@
 ---
+description: "Add a Mining Model to an Existing Mining Structure"
 title: "Add a Mining Model to an Existing Mining Structure | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

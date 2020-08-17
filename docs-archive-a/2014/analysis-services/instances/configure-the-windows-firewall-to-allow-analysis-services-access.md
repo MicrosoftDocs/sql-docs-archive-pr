@@ -1,4 +1,5 @@
 ---
+description: "Configure the Windows Firewall to Allow Analysis Services Access"
 title: "Configure the Windows Firewall to Allow Analysis Services Access | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

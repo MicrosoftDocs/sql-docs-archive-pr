@@ -1,4 +1,5 @@
 ---
+description: "Grant process permissions (Analysis Services)"
 title: "Grant process permissions (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

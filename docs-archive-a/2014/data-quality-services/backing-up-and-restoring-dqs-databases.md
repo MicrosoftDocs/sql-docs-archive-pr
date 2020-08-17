@@ -1,4 +1,5 @@
 ---
+description: "Backing Up and Restoring DQS Databases"
 title: "Backing Up and Restoring DQS Databases | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

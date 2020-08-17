@@ -1,4 +1,5 @@
 ---
+description: "Use Warning Thresholds and Alerts on Mirroring Performance Metrics (SQL Server)"
 title: "Use Warning Thresholds and Alerts on Mirroring Performance Metrics (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

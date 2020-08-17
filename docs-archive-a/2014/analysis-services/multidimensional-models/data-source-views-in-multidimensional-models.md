@@ -1,4 +1,5 @@
 ---
+description: "Data Source Views in Multidimensional Models"
 title: "Data Source Views in Multidimensional Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

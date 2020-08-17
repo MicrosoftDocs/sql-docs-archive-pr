@@ -1,4 +1,5 @@
 ---
+description: "Manage Models (SQL Server Data Mining Add-ins)"
 title: "Manage Models (SQL Server Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

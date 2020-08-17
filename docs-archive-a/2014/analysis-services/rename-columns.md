@@ -1,4 +1,5 @@
 ---
+description: "Lesson 3: Rename Columns"
 title: "Lesson 3: Rename Columns | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

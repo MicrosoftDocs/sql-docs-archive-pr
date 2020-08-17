@@ -1,4 +1,5 @@
 ---
+description: "Rules Tab (Mining Model Viewer)"
 title: "Rules Tab (Mining Model Viewer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

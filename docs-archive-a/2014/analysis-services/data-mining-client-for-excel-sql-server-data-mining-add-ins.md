@@ -1,4 +1,5 @@
 ---
+description: "Data Mining Client for Excel (SQL Server Data Mining Add-ins)"
 title: "Data Mining Client for Excel (SQL Server Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

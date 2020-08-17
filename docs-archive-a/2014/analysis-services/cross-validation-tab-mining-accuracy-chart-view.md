@@ -1,4 +1,5 @@
 ---
+description: "Cross-Validation Tab (Mining Accuracy Chart View)"
 title: "Cross-Validation Tab (Mining Accuracy Chart View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

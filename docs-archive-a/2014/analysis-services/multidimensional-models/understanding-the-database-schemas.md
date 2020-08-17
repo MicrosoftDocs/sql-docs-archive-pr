@@ -1,4 +1,5 @@
 ---
+description: "Understanding the Database Schemas"
 title: "Understanding the Database Schemas | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

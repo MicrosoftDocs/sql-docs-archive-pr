@@ -1,4 +1,5 @@
 ---
+description: "Mirroring States (SQL Server)"
 title: "Mirroring States (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

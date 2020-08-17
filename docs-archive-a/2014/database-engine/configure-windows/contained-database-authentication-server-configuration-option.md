@@ -1,4 +1,5 @@
 ---
+description: "contained database authentication Server Configuration Option"
 title: "contained database authentication Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

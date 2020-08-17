@@ -1,4 +1,5 @@
 ---
+description: "Create a Cube from a template without using a Data Source View"
 title: "Create a Cube from a template without using a Data Source View | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

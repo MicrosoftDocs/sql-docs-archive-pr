@@ -1,4 +1,5 @@
 ---
+description: "Create a Visual Basic SMO Project in Visual Studio .NET"
 title: "Create a Visual Basic SMO Project in Visual Studio .NET | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

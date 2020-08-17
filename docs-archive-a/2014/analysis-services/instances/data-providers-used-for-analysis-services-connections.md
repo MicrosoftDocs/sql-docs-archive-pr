@@ -1,4 +1,5 @@
 ---
+description: "Data providers used for Analysis Services connections"
 title: "Data providers used for Analysis Services connections | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

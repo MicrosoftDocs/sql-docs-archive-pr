@@ -1,4 +1,5 @@
 ---
+description: "Define a Regular Relationship and Regular Relationship Properties"
 title: "Define a Regular Relationship and Regular Relationship Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

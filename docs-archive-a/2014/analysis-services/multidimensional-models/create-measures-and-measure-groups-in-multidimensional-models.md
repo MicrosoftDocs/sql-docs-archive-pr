@@ -1,4 +1,5 @@
 ---
+description: "Create Measures and Measure Groups in Multidimensional Models"
 title: "Create Measures and Measure Groups in Multidimensional Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

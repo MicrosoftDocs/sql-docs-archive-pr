@@ -1,4 +1,5 @@
 ---
+description: "Create Analysis Services Scripts in Management Studio"
 title: "Create Analysis Services Scripts in Management Studio | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

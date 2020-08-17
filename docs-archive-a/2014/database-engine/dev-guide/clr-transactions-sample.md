@@ -1,4 +1,5 @@
 ---
+description: "CLR Transactions Sample"
 title: "CLR Transactions Sample | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

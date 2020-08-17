@@ -1,4 +1,5 @@
 ---
+description: "Troubleshooting Common Performance Problems with Memory-Optimized Hash Indexes"
 title: "Troubleshooting Common Performance Problems with Memory-Optimized Hash Indexes | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

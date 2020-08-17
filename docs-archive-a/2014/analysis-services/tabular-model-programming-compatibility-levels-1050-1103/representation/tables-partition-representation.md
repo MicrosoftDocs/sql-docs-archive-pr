@@ -1,4 +1,5 @@
 ---
+description: "Partition Representation (Tabular)"
 title: "Partition Representation (Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

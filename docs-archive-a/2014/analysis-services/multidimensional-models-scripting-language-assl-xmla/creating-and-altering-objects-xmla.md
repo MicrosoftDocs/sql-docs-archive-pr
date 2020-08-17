@@ -1,4 +1,5 @@
 ---
+description: "Creating and Altering Objects (XMLA)"
 title: "Creating and Altering Objects (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

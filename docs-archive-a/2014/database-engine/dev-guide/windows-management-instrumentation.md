@@ -1,4 +1,5 @@
 ---
+description: "Windows Management Instrumentation"
 title: "Windows Management Instrumentation | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

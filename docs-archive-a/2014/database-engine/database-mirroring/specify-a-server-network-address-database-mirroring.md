@@ -1,4 +1,5 @@
 ---
+description: "Specify a Server Network Address (Database Mirroring)"
 title: "Specify a Server Network Address (Database Mirroring) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

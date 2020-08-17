@@ -1,4 +1,5 @@
 ---
+description: "Upgrade SQLCLR Assemblies After .NET Framework Update"
 title: "Upgrade SQLCLR Assemblies After .NET Framework Update | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

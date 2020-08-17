@@ -1,4 +1,5 @@
 ---
+description: "Full-Text Index Properties (Columns Page)"
 title: "Full-Text Index Properties (Columns Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

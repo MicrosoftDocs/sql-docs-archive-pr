@@ -1,4 +1,5 @@
 ---
+description: "Create a Cube Using the Cube Wizard"
 title: "Create a Cube Using the Cube Wizard | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

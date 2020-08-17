@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Profiler - Destination Table"
 title: "SQL Server Profiler - Destination Table | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

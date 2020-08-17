@@ -1,4 +1,5 @@
 ---
+description: "Lesson 2: Defining and Deploying a Cube"
 title: "Lesson 2: Defining and Deploying a Cube | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

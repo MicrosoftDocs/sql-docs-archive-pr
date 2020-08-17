@@ -1,4 +1,5 @@
 ---
+description: "Flexible Failover Policy for Automatic Failover of an Availability Group (SQL Server)"
 title: "Flexible Failover Policy for Automatic Failover of an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Create a Database Mirroring Endpoint for Windows Authentication (Transact-SQL)"
 title: "Create a Database Mirroring Endpoint for Windows Authentication (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Establishing Cube Context in a Query (MDX)"
 title: "Establishing Cube Context in a Query (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

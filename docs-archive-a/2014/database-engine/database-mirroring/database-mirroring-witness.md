@@ -1,4 +1,5 @@
 ---
+description: "Database Mirroring Witness"
 title: "Database Mirroring Witness | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

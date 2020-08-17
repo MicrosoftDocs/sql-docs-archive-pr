@@ -1,4 +1,5 @@
 ---
+description: "Enable or Disable Profiling Notifications in DQS"
 title: "Enable or Disable Profiling Notifications in DQS | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

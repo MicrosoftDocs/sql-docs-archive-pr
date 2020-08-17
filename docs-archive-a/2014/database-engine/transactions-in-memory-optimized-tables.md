@@ -1,4 +1,5 @@
 ---
+description: "Transactions in Memory-Optimized Tables"
 title: "Transactions in Memory-Optimized Tables | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

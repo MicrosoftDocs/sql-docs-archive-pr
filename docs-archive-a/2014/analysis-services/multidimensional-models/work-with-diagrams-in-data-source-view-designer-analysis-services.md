@@ -1,4 +1,5 @@
 ---
+description: "Work with Diagrams in Data Source View Designer (Analysis Services)"
 title: "Work with Diagrams in Data Source View Designer (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

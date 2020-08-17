@@ -1,4 +1,5 @@
 ---
+description: "Cause and Resolution of Database Engine Errors"
 title: "Cause and Resolution of Database Engine Errors | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

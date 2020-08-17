@@ -1,4 +1,5 @@
 ---
+description: "Always On Policies for Operational Issues with Always On Availability Groups (SQL Server)"
 title: "Always On Policies for Operational Issues with Always On Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

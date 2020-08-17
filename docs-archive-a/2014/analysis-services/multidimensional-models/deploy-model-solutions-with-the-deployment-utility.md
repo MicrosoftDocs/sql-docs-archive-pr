@@ -1,4 +1,5 @@
 ---
+description: "Deploy Model Solutions with the Deployment Utility"
 title: "Deploy Model Solutions with the Deployment Utility | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Naive Bayes Model Query Examples"
 title: "Naive Bayes Model Query Examples | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Activate PowerPivot Feature Integration for Site Collections in Central Administration"
 title: "Activate PowerPivot Feature Integration for Site Collections in Central Administration | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

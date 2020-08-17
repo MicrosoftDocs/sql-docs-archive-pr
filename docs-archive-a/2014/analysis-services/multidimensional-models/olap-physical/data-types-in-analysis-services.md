@@ -1,4 +1,5 @@
 ---
+description: "Data Types in Analysis Services"
 title: "Data Types in Analysis Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

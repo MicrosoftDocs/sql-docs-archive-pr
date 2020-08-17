@@ -1,4 +1,5 @@
 ---
+description: "Availability group is offline"
 title: "Availability group is offline | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

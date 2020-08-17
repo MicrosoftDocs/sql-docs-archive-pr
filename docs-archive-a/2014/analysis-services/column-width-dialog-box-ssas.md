@@ -1,4 +1,5 @@
 ---
+description: "Column Width Dialog Box (SSAS)"
 title: "Column Width Dialog Box (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

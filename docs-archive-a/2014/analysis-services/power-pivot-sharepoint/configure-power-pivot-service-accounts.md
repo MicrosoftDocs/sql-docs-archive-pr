@@ -1,4 +1,5 @@
 ---
+description: "Configure PowerPivot Service Accounts"
 title: "Configure PowerPivot Service Accounts | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

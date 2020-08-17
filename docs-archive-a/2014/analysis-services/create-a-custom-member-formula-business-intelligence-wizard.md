@@ -1,4 +1,5 @@
 ---
+description: "Create a Custom Member Formula (Business Intelligence Wizard)"
 title: "Create a Custom Member Formula (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Authentication methodologies supported by Analysis Services"
 title: "Authentication methodologies supported by Analysis Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Behavior Changes to Management Tools Features in SQL Server 2014"
 title: "Behavior Changes to Management Tools Features in SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "11/27/2018"

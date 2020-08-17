@@ -1,4 +1,5 @@
 ---
+description: "Options (Text Editor - All Languages - General Page)"
 title: "Options (Text Editor - All Languages - General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

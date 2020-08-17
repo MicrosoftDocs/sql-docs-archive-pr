@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Tutorials (SSAS)"
 title: "Analysis Services Tutorials (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Cube Space"
 title: "Cube Space | Microsoft Docs"
 ms.custom: ""
 ms.date: "07/17/2017"

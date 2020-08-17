@@ -1,4 +1,5 @@
 ---
+description: "Set Source Control Options"
 title: "Set Source Control Options | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

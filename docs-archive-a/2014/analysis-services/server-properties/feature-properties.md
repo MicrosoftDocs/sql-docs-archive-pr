@@ -1,4 +1,5 @@
 ---
+description: "Feature Properties"
 title: "Feature Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

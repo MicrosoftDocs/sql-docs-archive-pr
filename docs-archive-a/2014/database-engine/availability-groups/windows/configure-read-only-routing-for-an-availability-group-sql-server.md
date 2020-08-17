@@ -1,4 +1,5 @@
 ---
+description: "Configure Read-Only Routing for an Availability Group (SQL Server)"
 title: "Configure Read-Only Routing for an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/27/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Security Overview (Data Mining)"
 title: "Security Overview (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

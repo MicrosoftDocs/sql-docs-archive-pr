@@ -1,4 +1,5 @@
 ---
+description: "Select Creation Method (Cube Wizard)"
 title: "Select Creation Method (Cube Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

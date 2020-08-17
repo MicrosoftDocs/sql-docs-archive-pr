@@ -1,4 +1,5 @@
 ---
+description: "Case Study: Building an Enterprise Ecosystem with Microsoft Dynamics ERP and SQL Server 2014 Replication for Scalability and Performance"
 title: "Case Study: Building an Enterprise Ecosystem with Microsoft Dynamics ERP and SQL Server 2014 Replication for Scalability and Performance | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

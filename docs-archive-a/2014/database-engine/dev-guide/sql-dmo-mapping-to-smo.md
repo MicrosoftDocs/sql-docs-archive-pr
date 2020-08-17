@@ -1,4 +1,5 @@
 ---
+description: "SQL-DMO Mapping to SMO"
 title: "SQL-DMO Mapping to SMO | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

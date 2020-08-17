@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Native Client (ODBC) Reference"
 title: "SQL Server Native Client (ODBC) Reference | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

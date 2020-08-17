@@ -1,4 +1,5 @@
 ---
+description: "Configure SQL Server on a Server Core Installation"
 title: "Configure SQL Server on a Server Core Installation | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

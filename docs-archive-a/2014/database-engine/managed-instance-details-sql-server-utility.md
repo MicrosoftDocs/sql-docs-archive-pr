@@ -1,4 +1,5 @@
 ---
+description: "Managed Instance Details (SQL Server Utility)"
 title: "Managed Instance Details (SQL Server Utility) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

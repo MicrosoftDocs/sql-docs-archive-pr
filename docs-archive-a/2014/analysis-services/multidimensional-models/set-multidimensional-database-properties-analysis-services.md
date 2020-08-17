@@ -1,4 +1,5 @@
 ---
+description: "Set Multidimensional Database Properties (Analysis Services)"
 title: "Set Multidimensional Database Properties (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

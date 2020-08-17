@@ -1,4 +1,5 @@
 ---
+description: "Minimize Downtime for Mirrored Databases When Upgrading Server Instances"
 title: "Minimize Downtime for Mirrored Databases When Upgrading Server Instances | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

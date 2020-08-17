@@ -1,4 +1,5 @@
 ---
+description: "Merging Partitions (XMLA)"
 title: "Merging Partitions (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Broadcast a Shutdown Message (Command Prompt)"
 title: "Broadcast a Shutdown Message (Command Prompt) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

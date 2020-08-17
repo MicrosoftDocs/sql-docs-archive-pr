@@ -1,4 +1,5 @@
 ---
+description: "Manage Roles by using SSMS (SSAS Tabular)"
 title: "Manage Roles by using SSMS (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

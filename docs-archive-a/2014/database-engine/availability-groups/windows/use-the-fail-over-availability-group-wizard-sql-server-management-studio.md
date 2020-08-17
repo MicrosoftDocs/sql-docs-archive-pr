@@ -1,4 +1,5 @@
 ---
+description: "Use the Fail Over Availability Group Wizard (SQL Server Management Studio)"
 title: "Use the Fail Over Availability Group Wizard (SQL Server Management Studio) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

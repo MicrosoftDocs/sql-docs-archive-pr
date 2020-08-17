@@ -1,4 +1,5 @@
 ---
+description: "Toolbar (Aggregations Tab, Cube Designer)"
 title: "Toolbar (Aggregations Tab, Cube Designer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

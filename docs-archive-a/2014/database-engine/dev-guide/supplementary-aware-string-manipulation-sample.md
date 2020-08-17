@@ -1,4 +1,5 @@
 ---
+description: "Supplementary-Aware String Manipulation Sample"
 title: "Supplementary-Aware String Manipulation Sample | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

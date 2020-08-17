@@ -1,4 +1,5 @@
 ---
+description: "Toolbar (Perspectives Tab, Cube Designer) (Analysis Services - Multidimensional Data)"
 title: "Toolbar (Perspectives Tab, Cube Designer) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

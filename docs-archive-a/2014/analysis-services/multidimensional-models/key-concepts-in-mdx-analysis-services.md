@@ -1,4 +1,5 @@
 ---
+description: "Key Concepts in MDX (Analysis Services)"
 title: "Key Concepts in MDX (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "07/17/2017"

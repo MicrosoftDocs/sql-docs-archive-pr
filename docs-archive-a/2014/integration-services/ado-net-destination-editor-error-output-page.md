@@ -1,4 +1,5 @@
 ---
+description: "ADO NET Destination Editor (Error Output Page)"
 title: "ADO NET Destination Editor (Error Output Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

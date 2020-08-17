@@ -1,4 +1,5 @@
 ---
+description: "OLAP Properties"
 title: "OLAP Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

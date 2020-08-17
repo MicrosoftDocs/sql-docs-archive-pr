@@ -1,4 +1,5 @@
 ---
+description: "Using Clustered Columnstore Indexes"
 title: "Using Clustered Columnstore Indexes | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

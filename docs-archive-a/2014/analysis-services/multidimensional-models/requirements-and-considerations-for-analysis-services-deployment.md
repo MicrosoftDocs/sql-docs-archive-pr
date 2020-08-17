@@ -1,4 +1,5 @@
 ---
+description: "Requirements and Considerations for Analysis Services Deployment"
 title: "Requirements and Considerations for Analysis Services Deployment | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

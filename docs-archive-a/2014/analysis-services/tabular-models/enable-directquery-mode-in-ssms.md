@@ -1,4 +1,5 @@
 ---
+description: "Configure In-Memory or DirectQuery Access for a Tabular Model Database"
 title: "Configure In-Memory or DirectQuery Access for a Tabular Model Database | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

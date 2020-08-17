@@ -1,4 +1,5 @@
 ---
+description: "View or Change the Default Locations for Data and Log Files (SQL Server Management Studio)"
 title: "View or Change the Default Locations for Data and Log Files (SQL Server Management Studio) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

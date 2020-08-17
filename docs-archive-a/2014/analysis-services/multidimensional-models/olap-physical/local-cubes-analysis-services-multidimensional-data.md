@@ -1,4 +1,5 @@
 ---
+description: "Local Cubes (Analysis Services - Multidimensional Data)"
 title: "Local Cubes (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

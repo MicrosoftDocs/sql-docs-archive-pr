@@ -1,4 +1,5 @@
 ---
+description: "Use Dynamic Management Views (DMVs) to Monitor Analysis Services"
 title: "Use Dynamic Management Views (DMVs) to Monitor Analysis Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

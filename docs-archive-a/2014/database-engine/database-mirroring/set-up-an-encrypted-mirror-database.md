@@ -1,4 +1,5 @@
 ---
+description: "Set Up an Encrypted Mirror Database"
 title: "Set Up an Encrypted Mirror Database | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/26/2017"

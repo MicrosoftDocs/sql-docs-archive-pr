@@ -1,4 +1,5 @@
 ---
+description: "View and Save the Results of a Prediction Query"
 title: "View and Save the Results of a Prediction Query | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

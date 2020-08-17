@@ -1,4 +1,5 @@
 ---
+description: "Developing with Analysis Services Scripting Language (ASSL)"
 title: "Developing with Analysis Services Scripting Language (ASSL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

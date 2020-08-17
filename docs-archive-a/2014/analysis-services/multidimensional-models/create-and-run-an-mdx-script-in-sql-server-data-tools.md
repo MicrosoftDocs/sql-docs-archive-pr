@@ -1,4 +1,5 @@
 ---
+description: "Create and Run an MDX Script in SQL Server Data Tools"
 title: "Create and Run an MDX Script in SQL Server Data Tools | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

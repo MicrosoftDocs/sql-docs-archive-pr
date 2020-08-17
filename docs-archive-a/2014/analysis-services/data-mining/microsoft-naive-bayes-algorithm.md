@@ -1,4 +1,5 @@
 ---
+description: "Microsoft Naive Bayes Algorithm"
 title: "Microsoft Naive Bayes Algorithm | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

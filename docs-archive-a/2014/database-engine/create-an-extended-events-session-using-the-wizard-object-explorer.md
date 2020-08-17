@@ -1,4 +1,5 @@
 ---
+description: "Create an Extended Events Session Using the Wizard (Object Explorer)"
 title: "Create an Extended Events Session Using the Wizard (Object Explorer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

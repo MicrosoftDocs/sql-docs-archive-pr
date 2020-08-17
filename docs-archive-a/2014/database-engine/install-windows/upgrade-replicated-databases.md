@@ -1,4 +1,5 @@
 ---
+description: "Upgrade Replicated Databases"
 title: "Upgrade Replicated Databases | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Creating an Analysis Services Project"
 title: "Creating an Analysis Services Project | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

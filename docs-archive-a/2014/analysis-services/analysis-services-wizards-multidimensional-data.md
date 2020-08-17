@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Wizards (Multidimensional Data)"
 title: "Analysis Services Wizards (Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

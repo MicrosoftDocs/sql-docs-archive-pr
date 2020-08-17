@@ -1,4 +1,5 @@
 ---
+description: "Level Properties"
 title: "Level Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

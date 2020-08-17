@@ -1,4 +1,5 @@
 ---
+description: "Create an Availability Group (SQL Server PowerShell)"
 title: "Create an Availability Group (SQL Server PowerShell) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

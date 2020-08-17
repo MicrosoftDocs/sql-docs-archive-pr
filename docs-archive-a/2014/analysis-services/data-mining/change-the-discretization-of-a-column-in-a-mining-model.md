@@ -1,4 +1,5 @@
 ---
+description: "Change the Discretization of a Column in a Mining Model"
 title: "Change the Discretization of a Column in a Mining Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

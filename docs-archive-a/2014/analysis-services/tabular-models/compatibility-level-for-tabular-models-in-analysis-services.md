@@ -1,4 +1,5 @@
 ---
+description: "Compatibility Level (SSAS Tabular SP1)"
 title: "Compatibility Level (SSAS Tabular SP1) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

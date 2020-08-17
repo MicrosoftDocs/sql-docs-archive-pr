@@ -1,4 +1,5 @@
 ---
+description: "Dimension Objects (Analysis Services - Multidimensional Data)"
 title: "Dimension Objects (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

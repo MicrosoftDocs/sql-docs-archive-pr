@@ -1,4 +1,5 @@
 ---
+description: "Cross-Validation (SQL Server Data Mining Add-ins)"
 title: "Cross-Validation (SQL Server Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

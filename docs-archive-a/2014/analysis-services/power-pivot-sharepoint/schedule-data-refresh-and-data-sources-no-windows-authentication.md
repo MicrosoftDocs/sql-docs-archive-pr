@@ -1,4 +1,5 @@
 ---
+description: "Schedule Data Refresh and Data Sources That Do Not Support Windows Authentication (PowerPivot for SharePoint)"
 title: "Schedule Data Refresh and Data Sources That Do Not Support Windows Authentication (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

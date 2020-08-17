@@ -1,4 +1,5 @@
 ---
+description: "Specify a Unary Operator (Dimension) (Business Intelligence Wizard)"
 title: "Specify a Unary Operator (Dimension) (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

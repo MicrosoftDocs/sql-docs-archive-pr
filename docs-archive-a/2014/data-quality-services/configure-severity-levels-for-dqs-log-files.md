@@ -1,4 +1,5 @@
 ---
+description: "Configure Severity Levels for DQS Log Files"
 title: "Configure Severity Levels for DQS Log Files | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Lesson 6: Defining Calculations"
 title: "Lesson 6: Defining Calculations | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

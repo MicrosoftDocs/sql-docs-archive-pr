@@ -1,4 +1,5 @@
 ---
+description: "Options (Query Results-Analysis Server-General Page)"
 title: "Options (Query Results-Analysis Server-General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

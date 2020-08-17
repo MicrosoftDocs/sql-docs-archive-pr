@@ -1,4 +1,5 @@
 ---
+description: "Attach a Domain or Composite Domain to Reference Data"
 title: "Attach a Domain or Composite Domain to Reference Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

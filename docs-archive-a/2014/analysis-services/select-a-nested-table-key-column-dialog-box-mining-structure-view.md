@@ -1,4 +1,5 @@
 ---
+description: "Select a Nested Table Key Column Dialog Box (Mining Structure View)"
 title: "Select a Nested Table Key Column Dialog Box (Mining Structure View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

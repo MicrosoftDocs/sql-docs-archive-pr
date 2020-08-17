@@ -1,4 +1,5 @@
 ---
+description: "Modifying Data (MDX)"
 title: "Modifying Data (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

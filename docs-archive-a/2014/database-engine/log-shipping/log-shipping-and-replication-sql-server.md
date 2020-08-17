@@ -1,4 +1,5 @@
 ---
+description: "Log Shipping and Replication (SQL Server)"
 title: "Log Shipping and Replication (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

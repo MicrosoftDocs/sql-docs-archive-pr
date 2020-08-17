@@ -1,4 +1,5 @@
 ---
+description: "Review the Queries that will be Optimized (Usage-Based Optimization Wizard)"
 title: "Review the Queries that will be Optimized (Usage-Based Optimization Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

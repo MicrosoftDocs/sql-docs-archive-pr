@@ -1,4 +1,5 @@
 ---
+description: "Database Engine Cross-Instance Features"
 title: "Database Engine Cross-Instance Features | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

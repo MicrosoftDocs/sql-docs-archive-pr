@@ -1,4 +1,5 @@
 ---
+description: "Processing Data Mining Objects"
 title: "Processing Data Mining Objects | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

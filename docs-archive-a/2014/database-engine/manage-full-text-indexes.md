@@ -1,4 +1,5 @@
 ---
+description: "Manage Full-Text Indexes"
 title: "Manage Full-Text Indexes | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

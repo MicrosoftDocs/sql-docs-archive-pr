@@ -1,4 +1,5 @@
 ---
+description: "Log In to an Instance of SQL Server (Command Prompt)"
 title: "Log In to an Instance of SQL Server (Command Prompt) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

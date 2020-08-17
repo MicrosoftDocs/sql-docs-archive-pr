@@ -1,4 +1,5 @@
 ---
+description: "Open a Knowledge Base"
 title: "Open a Knowledge Base | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

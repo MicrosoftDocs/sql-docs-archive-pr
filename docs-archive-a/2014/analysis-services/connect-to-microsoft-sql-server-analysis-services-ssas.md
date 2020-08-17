@@ -1,4 +1,5 @@
 ---
+description: "Connect to Microsoft SQL Server Analysis Services (SSAS)"
 title: "Connect to Microsoft SQL Server Analysis Services (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Processing Results How-to Topics (ODBC)"
 title: "Processing Results How-to Topics (ODBC) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

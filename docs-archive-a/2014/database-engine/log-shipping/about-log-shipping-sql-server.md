@@ -1,4 +1,5 @@
 ---
+description: "About Log Shipping (SQL Server)"
 title: "About Log Shipping (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Monitor Availability Groups (Transact-SQL)"
 title: "Monitor Availability Groups (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

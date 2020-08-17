@@ -1,4 +1,5 @@
 ---
+description: "allow updates Server Configuration Option"
 title: "allow updates Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

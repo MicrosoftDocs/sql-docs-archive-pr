@@ -1,4 +1,5 @@
 ---
+description: "Handling Errors and Warnings (XMLA)"
 title: "Handling Errors and Warnings (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

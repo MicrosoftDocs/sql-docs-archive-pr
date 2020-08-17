@@ -1,4 +1,5 @@
 ---
+description: "Reference Data Services in DQS"
 title: "Reference Data Services in DQS | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

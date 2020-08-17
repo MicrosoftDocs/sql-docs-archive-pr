@@ -1,4 +1,5 @@
 ---
+description: "Lesson 10: Defining Administrative Roles"
 title: "Lesson 10: Defining Administrative Roles | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

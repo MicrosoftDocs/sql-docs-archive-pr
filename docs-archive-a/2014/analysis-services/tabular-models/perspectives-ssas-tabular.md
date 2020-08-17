@@ -1,4 +1,5 @@
 ---
+description: "Perspectives (SSAS Tabular)"
 title: "Perspectives (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

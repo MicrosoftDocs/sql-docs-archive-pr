@@ -1,4 +1,5 @@
 ---
+description: "Cleanse Data Using DQS (Internal) Knowledge"
 title: "Cleanse Data Using DQS (Internal) Knowledge | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

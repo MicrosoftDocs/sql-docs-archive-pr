@@ -1,4 +1,5 @@
 ---
+description: "ad hoc distributed queries Server Configuration Option"
 title: "ad hoc distributed queries Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

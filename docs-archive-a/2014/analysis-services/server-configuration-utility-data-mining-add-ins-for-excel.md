@@ -1,4 +1,5 @@
 ---
+description: "Server Configuration Utility (Data Mining Add-ins for Excel)"
 title: "Server Configuration Utility (Data Mining Add-ins for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

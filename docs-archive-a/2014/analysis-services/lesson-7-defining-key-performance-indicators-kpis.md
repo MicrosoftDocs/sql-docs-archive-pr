@@ -1,4 +1,5 @@
 ---
+description: "Lesson 7: Defining Key Performance Indicators (KPIs)"
 title: "Lesson 7: Defining Key Performance Indicators (KPIs) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

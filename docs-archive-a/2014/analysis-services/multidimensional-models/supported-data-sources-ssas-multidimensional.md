@@ -1,4 +1,5 @@
 ---
+description: "Data Sources Supported (SSAS Multidimensional)"
 title: "Data Sources Supported (SSAS Multidimensional) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Failover and Failover Modes (AlwaysOn Availability Groups)"
 title: "Failover and Failover Modes (AlwaysOn Availability Groups) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

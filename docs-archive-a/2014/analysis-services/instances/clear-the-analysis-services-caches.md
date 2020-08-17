@@ -1,4 +1,5 @@
 ---
+description: "Clear the Analysis Services Caches"
 title: "Clear the Analysis Services Caches | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

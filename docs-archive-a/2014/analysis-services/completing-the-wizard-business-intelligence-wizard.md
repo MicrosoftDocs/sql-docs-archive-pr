@@ -1,4 +1,5 @@
 ---
+description: "Completing the Wizard (Business Intelligence Wizard)"
 title: "Completing the Wizard (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

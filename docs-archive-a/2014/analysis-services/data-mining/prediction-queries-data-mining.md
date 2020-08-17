@@ -1,4 +1,5 @@
 ---
+description: "Prediction Queries (Data Mining)"
 title: "Prediction Queries (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

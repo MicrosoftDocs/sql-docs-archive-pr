@@ -1,4 +1,5 @@
 ---
+description: "Access Data for the DQS Operations"
 title: "Access Data for the DQS Operations | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

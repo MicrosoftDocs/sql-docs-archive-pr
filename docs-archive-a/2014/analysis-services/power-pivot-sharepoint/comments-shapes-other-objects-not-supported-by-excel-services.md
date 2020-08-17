@@ -1,4 +1,5 @@
 ---
+description: "The following features are not supported by Excel Services and may not display or may display only partially: Comments, Shapes, or other objects"
 title: "The following features are not supported by Excel Services and may not display or may display only partially: Comments, Shapes, or other objects | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

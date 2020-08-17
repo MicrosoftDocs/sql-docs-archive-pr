@@ -1,4 +1,5 @@
 ---
+description: "show advanced options Server Configuration Option"
 title: "show advanced options Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Create a Composite Domain"
 title: "Create a Composite Domain | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

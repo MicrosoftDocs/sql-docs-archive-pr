@@ -1,4 +1,5 @@
 ---
+description: "Calculated Member Form Editor (Calculations Tab, Cube Designer) (Analysis Services - Multidimensional Data)"
 title: "Calculated Member Form Editor (Calculations Tab, Cube Designer) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Availability replica is not joined"
 title: "Availability replica is not joined | Microsoft Docs"
 ms.custom: ""
 ms.date: "01/09/2019"

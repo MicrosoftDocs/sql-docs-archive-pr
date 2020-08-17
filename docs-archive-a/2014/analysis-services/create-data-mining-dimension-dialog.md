@@ -1,4 +1,5 @@
 ---
+description: "Create Data Mining Dimension Dialog"
 title: "Create Data Mining Dimension Dialog | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

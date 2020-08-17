@@ -1,4 +1,5 @@
 ---
+description: "Define Account Intelligence (Dimension) (Business Intelligence Wizard)"
 title: "Define Account Intelligence (Dimension) (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

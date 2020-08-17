@@ -1,4 +1,5 @@
 ---
+description: "Add a Log for Data Flow Performance Counters"
 title: "Add a Log for Data Flow Performance Counters | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Change Roles Between Primary and Secondary Log Shipping Servers (SQL Server)"
 title: "Change Roles Between Primary and Secondary Log Shipping Servers (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

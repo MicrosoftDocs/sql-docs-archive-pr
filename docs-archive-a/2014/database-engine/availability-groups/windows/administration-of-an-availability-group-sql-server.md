@@ -1,4 +1,5 @@
 ---
+description: "Administration of an Availability Group (SQL Server)"
 title: "Administration of an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

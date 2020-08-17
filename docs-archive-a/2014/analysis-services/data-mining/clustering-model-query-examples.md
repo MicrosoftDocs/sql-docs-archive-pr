@@ -1,4 +1,5 @@
 ---
+description: "Clustering Model Query Examples"
 title: "Clustering Model Query Examples | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

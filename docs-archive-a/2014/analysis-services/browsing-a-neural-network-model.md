@@ -1,4 +1,5 @@
 ---
+description: "Browsing a Neural Network Model"
 title: "Browsing a Neural Network Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

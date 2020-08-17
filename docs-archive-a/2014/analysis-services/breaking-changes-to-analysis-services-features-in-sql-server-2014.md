@@ -1,4 +1,5 @@
 ---
+description: "Breaking Changes to Analysis Services Features in SQL Server 2014"
 title: "Breaking Changes to Analysis Services Features in SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

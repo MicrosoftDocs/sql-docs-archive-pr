@@ -1,4 +1,5 @@
 ---
+description: "Configure the remote access Server Configuration Option"
 title: "Configure the remote access Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/19/2016"

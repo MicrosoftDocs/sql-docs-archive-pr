@@ -1,4 +1,5 @@
 ---
+description: "Remote Partitions - Advanced Settings Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Remote Partitions - Advanced Settings Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

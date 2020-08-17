@@ -1,4 +1,5 @@
 ---
+description: "Add Features to an Instance of SQL Server 2014 (Setup)"
 title: "Add Features to an Instance of SQL Server 2014 (Setup) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

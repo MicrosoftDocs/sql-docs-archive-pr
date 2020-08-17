@@ -1,4 +1,5 @@
 ---
+description: "Select Nested Table Key (Add New Nested Table Wizard)"
 title: "Select Nested Table Key (Add New Nested Table Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

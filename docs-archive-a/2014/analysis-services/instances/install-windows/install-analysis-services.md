@@ -1,4 +1,5 @@
 ---
+description: "Install Analysis Services in Tabular Mode"
 title: "Install Analysis Services in Tabular Mode | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

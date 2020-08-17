@@ -1,4 +1,5 @@
 ---
+description: "View Availability Group Listener Properties (SQL Server)"
 title: "View Availability Group Listener Properties (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "07/11/2016"

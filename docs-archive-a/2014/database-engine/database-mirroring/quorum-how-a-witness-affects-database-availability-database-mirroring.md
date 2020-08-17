@@ -1,4 +1,5 @@
 ---
+description: "Quorum: How a Witness Affects Database Availability (Database Mirroring)"
 title: "Quorum: How a Witness Affects Database Availability (Database Mirroring) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

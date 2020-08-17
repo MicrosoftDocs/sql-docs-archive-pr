@@ -1,4 +1,5 @@
 ---
+description: "Upgrade Log Shipping to SQL Server 2014 (Transact-SQL)"
 title: "Upgrade Log Shipping to SQL Server 2014 (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

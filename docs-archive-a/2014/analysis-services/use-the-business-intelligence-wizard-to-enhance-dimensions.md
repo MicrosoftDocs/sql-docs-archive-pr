@@ -1,4 +1,5 @@
 ---
+description: "Use the Business Intelligence Wizard to Enhance Dimensions"
 title: "Use the Business Intelligence Wizard to Enhance Dimensions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

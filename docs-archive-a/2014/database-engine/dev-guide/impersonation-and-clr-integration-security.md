@@ -1,4 +1,5 @@
 ---
+description: "Impersonation and CLR Integration Security"
 title: "Impersonation and CLR Integration Security | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

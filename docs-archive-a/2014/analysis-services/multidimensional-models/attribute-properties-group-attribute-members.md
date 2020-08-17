@@ -1,4 +1,5 @@
 ---
+description: "Group Attribute Members (Discretization)"
 title: "Group Attribute Members (Discretization) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

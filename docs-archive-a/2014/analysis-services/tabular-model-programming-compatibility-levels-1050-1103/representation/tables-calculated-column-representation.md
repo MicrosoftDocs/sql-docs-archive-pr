@@ -1,4 +1,5 @@
 ---
+description: "Calculated Column Representation (Tabular)"
 title: "Calculated Column Representation (Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

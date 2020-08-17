@@ -1,4 +1,5 @@
 ---
+description: "Run DQSInstaller.exe to Complete Data Quality Server Installation"
 title: "Run DQSInstaller.exe to Complete Data Quality Server Installation | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Modify the Trace Results View"
 title: "Modify the Trace Results View | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

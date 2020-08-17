@@ -1,4 +1,5 @@
 ---
+description: "CheckList: Use PowerShell to Verify PowerPivot for SharePoint"
 title: "CheckList: Use PowerShell to Verify PowerPivot for SharePoint | Microsoft Docs"
 ms.custom: ""
 ms.date: 07/20/2020

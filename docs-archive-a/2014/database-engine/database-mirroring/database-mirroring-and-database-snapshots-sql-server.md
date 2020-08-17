@@ -1,4 +1,5 @@
 ---
+description: "Database Mirroring and Database Snapshots (SQL Server)"
 title: "Database Mirroring and Database Snapshots (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

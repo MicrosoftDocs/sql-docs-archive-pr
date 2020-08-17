@@ -1,4 +1,5 @@
 ---
+description: "Rename an Analysis Services Instance"
 title: "Rename an Analysis Services Instance | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Browse for Servers (Local Servers)"
 title: "Browse for Servers (Local Servers) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

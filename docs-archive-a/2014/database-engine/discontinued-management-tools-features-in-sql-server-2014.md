@@ -1,4 +1,5 @@
 ---
+description: "Discontinued Management Tools Features in SQL Server 2014"
 title: "Discontinued Management Tools Features in SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

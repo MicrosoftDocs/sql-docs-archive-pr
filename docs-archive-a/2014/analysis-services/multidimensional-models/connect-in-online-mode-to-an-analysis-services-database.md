@@ -1,4 +1,5 @@
 ---
+description: "Connect in Online Mode to an Analysis Services Database"
 title: "Connect in Online Mode to an Analysis Services Database | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Configure the PowerPivot Unattended Data Refresh Account (PowerPivot for SharePoint)"
 title: "Configure the PowerPivot Unattended Data Refresh Account (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

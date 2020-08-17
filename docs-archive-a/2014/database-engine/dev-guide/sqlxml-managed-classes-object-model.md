@@ -1,4 +1,5 @@
 ---
+description: "SQLXML Managed Classes Object Model"
 title: "SQLXML Managed Classes Object Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

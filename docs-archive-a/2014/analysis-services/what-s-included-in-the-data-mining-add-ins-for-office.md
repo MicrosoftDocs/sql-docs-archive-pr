@@ -1,4 +1,5 @@
 ---
+description: "What&#39;s Included in the Data Mining Add-Ins for Office"
 title: "What&#39;s Included in the Data Mining Add-Ins for Office | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

@@ -1,4 +1,5 @@
 ---
+description: "What&#39;s New in Analysis Services and Business Intelligence"
 title: "What&#39;s New in Analysis Services and Business Intelligence | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/07/2019"

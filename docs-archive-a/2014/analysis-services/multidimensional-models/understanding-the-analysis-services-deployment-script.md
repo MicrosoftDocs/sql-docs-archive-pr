@@ -1,4 +1,5 @@
 ---
+description: "Understanding the Analysis Services Deployment Script"
 title: "Understanding the Analysis Services Deployment Script | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

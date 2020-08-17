@@ -1,4 +1,5 @@
 ---
+description: "Some synchronous replicas are not synchronized"
 title: "Some synchronous replicas are not synchronized | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

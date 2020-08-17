@@ -1,4 +1,5 @@
 ---
+description: "Security Requirements for Managing Services"
 title: "Security Requirements for Managing Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

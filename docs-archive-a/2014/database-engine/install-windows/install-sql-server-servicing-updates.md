@@ -1,4 +1,5 @@
 ---
+description: "Install SQL Server 2014 Servicing Updates"
 title: "Install SQL Server 2014 Servicing Updates | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

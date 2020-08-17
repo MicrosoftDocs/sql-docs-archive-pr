@@ -1,4 +1,5 @@
 ---
+description: "Updategram Sample Applications (SQLXML 4.0)"
 title: "Updategram Sample Applications (SQLXML 4.0) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

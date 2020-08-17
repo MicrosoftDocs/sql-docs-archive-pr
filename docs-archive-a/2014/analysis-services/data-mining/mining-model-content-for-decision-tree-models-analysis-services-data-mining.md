@@ -1,4 +1,5 @@
 ---
+description: "Mining Model Content for Decision Tree Models (Analysis Services - Data Mining)"
 title: "Mining Model Content for Decision Tree Models (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

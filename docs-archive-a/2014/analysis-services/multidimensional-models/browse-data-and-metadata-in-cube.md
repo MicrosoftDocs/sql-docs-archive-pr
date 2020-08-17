@@ -1,4 +1,5 @@
 ---
+description: "Browse data and metadata in Cube"
 title: "Browse data and metadata in Cube | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

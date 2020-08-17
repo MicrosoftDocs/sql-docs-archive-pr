@@ -1,4 +1,5 @@
 ---
+description: "Extensions to AdventureWorks to Demonstrate In-Memory OLTP"
 title: "Extensions to AdventureWorks to Demonstrate In-Memory OLTP | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

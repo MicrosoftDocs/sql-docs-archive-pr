@@ -1,4 +1,5 @@
 ---
+description: "Accessibility for People with Disabilities"
 title: "Accessibility for People with Disabilities | Microsoft Docs"
 ms.custom: ""
 ms.date: 11/25/2019

@@ -1,4 +1,5 @@
 ---
+description: "Create a BI Semantic Model Connection to a PowerPivot Workbook"
 title: "Create a BI Semantic Model Connection to a PowerPivot Workbook | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

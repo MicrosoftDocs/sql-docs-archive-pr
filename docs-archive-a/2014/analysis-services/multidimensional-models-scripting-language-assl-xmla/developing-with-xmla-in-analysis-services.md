@@ -1,4 +1,5 @@
 ---
+description: "Developing with XMLA in Analysis Services"
 title: "Developing with XMLA in Analysis Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

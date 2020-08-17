@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Developer's Guide"
 title: "Analysis Services Developer's Guide | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

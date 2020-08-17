@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services PowerShell"
 title: "Analysis Services PowerShell | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/11/2017"

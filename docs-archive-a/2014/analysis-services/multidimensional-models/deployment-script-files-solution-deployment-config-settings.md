@@ -1,4 +1,5 @@
 ---
+description: "Specifying Configuration Settings for Solution Deployment"
 title: "Specifying Configuration Settings for Solution Deployment | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

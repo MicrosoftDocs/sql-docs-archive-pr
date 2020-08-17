@@ -1,4 +1,5 @@
 ---
+description: "Create a Data Mining Query by Using XMLA"
 title: "Create a Data Mining Query by Using XMLA | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

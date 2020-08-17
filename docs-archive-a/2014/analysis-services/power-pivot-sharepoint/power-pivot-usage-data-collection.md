@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Usage Data Collection"
 title: "PowerPivot Usage Data Collection | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

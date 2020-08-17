@@ -1,4 +1,5 @@
 ---
+description: "Create Polling Query Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Create Polling Query Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

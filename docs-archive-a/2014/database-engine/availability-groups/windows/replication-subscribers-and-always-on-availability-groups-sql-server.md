@@ -1,4 +1,5 @@
 ---
+description: "Replication Subscribers and AlwaysOn Availability Groups (SQL Server)"
 title: "Replication Subscribers and AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "01/16/2019"

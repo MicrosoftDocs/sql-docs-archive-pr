@@ -1,4 +1,5 @@
 ---
+description: "Perspectives (Cube Designer) (Analysis Services - Multidimensional Data)"
 title: "Perspectives (Cube Designer) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

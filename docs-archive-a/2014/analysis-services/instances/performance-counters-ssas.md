@@ -1,4 +1,5 @@
 ---
+description: "Performance Counters (SSAS)"
 title: "Performance Counters (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

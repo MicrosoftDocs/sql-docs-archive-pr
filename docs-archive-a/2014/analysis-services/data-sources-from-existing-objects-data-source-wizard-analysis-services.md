@@ -1,4 +1,5 @@
 ---
+description: "Data sources from existing objects (Data Source Wizard) (Analysis Services)"
 title: "Data sources from existing objects (Data Source Wizard) (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

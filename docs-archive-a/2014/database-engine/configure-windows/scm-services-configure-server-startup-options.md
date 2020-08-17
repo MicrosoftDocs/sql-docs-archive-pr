@@ -1,4 +1,5 @@
 ---
+description: "Configure Server Startup Options (SQL Server Configuration Manager)"
 title: "Configure Server Startup Options (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "01/07/2016"

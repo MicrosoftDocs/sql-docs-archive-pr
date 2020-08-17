@@ -1,4 +1,5 @@
 ---
+description: "Full-Text Search F1 Help"
 title: "Full-Text Search F1 Help | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

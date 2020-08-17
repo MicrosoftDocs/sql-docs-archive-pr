@@ -1,4 +1,5 @@
 ---
+description: "Create a Singleton Prediction Query from a Template"
 title: "Create a Singleton Prediction Query from a Template | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

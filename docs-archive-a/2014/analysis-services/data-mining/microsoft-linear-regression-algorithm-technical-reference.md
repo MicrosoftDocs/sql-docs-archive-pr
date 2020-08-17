@@ -1,4 +1,5 @@
 ---
+description: "Microsoft Linear Regression Algorithm Technical Reference"
 title: "Microsoft Linear Regression Algorithm Technical Reference | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

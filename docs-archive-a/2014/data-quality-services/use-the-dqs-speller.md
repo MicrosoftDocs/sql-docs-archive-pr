@@ -1,4 +1,5 @@
 ---
+description: "Use the DQS Speller"
 title: "Use the DQS Speller | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

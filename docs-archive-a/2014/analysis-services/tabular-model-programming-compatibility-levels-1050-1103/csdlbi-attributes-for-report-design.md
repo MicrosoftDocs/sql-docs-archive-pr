@@ -1,4 +1,5 @@
 ---
+description: "CSDLBI Attributes for Report Design"
 title: "CSDLBI Attributes for Report Design | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

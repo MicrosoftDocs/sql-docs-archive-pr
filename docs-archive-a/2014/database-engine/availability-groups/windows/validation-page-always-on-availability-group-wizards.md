@@ -1,4 +1,5 @@
 ---
+description: "Validation Page (AlwaysOn Availability Group Wizards)"
 title: "Validation Page (AlwaysOn Availability Group Wizards) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

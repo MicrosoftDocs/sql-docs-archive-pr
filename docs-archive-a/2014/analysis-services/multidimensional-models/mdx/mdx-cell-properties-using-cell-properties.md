@@ -1,4 +1,5 @@
 ---
+description: "Using Cell Properties (MDX)"
 title: "Using Cell Properties (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

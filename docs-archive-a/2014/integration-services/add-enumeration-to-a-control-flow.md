@@ -1,4 +1,5 @@
 ---
+description: "Add Enumeration to a Control Flow"
 title: "Add Enumeration to a Control Flow | Microsoft Docs"
 ms.custom: ""
 ms.date: "08/22/2017"

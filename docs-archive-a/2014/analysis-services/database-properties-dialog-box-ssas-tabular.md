@@ -1,4 +1,5 @@
 ---
+description: "Database Properties Dialog Box (SSAS - Tabular)"
 title: "Database Properties Dialog Box (SSAS - Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

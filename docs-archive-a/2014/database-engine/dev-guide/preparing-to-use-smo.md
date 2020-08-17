@@ -1,4 +1,5 @@
 ---
+description: "Preparing to Use SMO"
 title: "Preparing to Use SMO | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

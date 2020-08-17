@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Monitor Overview"
 title: "SQL Server Monitor Overview | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

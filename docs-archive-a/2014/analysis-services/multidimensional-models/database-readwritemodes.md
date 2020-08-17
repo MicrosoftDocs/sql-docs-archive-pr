@@ -1,4 +1,5 @@
 ---
+description: "Database ReadWriteModes"
 title: "Database ReadWriteModes | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

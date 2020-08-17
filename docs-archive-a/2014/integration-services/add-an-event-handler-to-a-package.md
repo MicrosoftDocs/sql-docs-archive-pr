@@ -1,4 +1,5 @@
 ---
+description: "Add an Event Handler to a Package"
 title: "Add an Event Handler to a Package | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

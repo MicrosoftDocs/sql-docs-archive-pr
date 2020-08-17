@@ -1,4 +1,5 @@
 ---
+description: "Viewing Data Mining Models in Visio (Data Mining Add-ins)"
 title: "Viewing Data Mining Models in Visio (Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

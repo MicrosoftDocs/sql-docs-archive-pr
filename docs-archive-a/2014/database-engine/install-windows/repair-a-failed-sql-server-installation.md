@@ -1,4 +1,5 @@
 ---
+description: "Repair a SQL Server 2014 Installation"
 title: "Repair a SQL Server 2014 Installation | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

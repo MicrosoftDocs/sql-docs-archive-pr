@@ -1,4 +1,5 @@
 ---
+description: "Manage a Knowledge Base"
 title: "Manage a Knowledge Base | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

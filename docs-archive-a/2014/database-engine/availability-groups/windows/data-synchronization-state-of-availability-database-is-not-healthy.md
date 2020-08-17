@@ -1,4 +1,5 @@
 ---
+description: "Data synchronization state of availability database is not healthy"
 title: "Data synchronization state of availability database is not healthy | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

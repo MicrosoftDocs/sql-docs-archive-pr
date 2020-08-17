@@ -1,4 +1,5 @@
 ---
+description: "Open Integration Services Projects in Data Quality Client"
 title: "Open Integration Services Projects in Data Quality Client | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

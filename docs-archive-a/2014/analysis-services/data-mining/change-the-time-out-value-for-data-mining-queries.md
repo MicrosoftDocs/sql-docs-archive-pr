@@ -1,4 +1,5 @@
 ---
+description: "Change the Time-out Value for Data Mining Queries"
 title: "Change the Time-out Value for Data Mining Queries | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

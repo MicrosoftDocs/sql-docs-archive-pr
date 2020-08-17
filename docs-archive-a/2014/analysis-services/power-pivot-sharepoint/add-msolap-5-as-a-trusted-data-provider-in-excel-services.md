@@ -1,4 +1,5 @@
 ---
+description: "Add MSOLAP.5 as a Trusted Data Provider in Excel Services"
 title: "Add MSOLAP.5 as a Trusted Data Provider in Excel Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

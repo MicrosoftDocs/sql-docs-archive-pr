@@ -1,4 +1,5 @@
 ---
+description: "Process Database, Table, or Partition"
 title: "Process Database, Table, or Partition | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

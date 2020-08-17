@@ -1,4 +1,5 @@
 ---
+description: "Microsoft Logistic Regression Algorithm Technical Reference"
 title: "Microsoft Logistic Regression Algorithm Technical Reference | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Create User-Defined Hierarchies"
 title: "Create User-Defined Hierarchies | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

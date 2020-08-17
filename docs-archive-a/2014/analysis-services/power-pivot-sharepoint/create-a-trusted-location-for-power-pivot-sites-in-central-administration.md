@@ -1,4 +1,5 @@
 ---
+description: "Create a trusted location for PowerPivot sites in Central Administration"
 title: "Create a trusted location for PowerPivot sites in Central Administration | Microsoft Docs"
 ms.custom: ""
 ms.date: "11/25/2019"

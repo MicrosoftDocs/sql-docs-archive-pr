@@ -1,4 +1,5 @@
 ---
+description: "User Defined Functions and Stored Procedures"
 title: "User Defined Functions and Stored Procedures | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

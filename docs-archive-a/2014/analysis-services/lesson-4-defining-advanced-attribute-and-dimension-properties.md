@@ -1,4 +1,5 @@
 ---
+description: "Lesson 4: Defining Advanced Attribute and Dimension Properties"
 title: "Lesson 4: Defining Advanced Attribute and Dimension Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

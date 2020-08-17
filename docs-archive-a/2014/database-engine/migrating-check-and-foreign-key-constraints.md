@@ -1,4 +1,5 @@
 ---
+description: "Migrating Check and Foreign Key Constraints"
 title: "Migrating Check and Foreign Key Constraints | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

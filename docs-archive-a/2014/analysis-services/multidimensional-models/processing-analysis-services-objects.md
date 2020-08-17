@@ -1,4 +1,5 @@
 ---
+description: "Processing Analysis Services Objects"
 title: "Processing Analysis Services Objects | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

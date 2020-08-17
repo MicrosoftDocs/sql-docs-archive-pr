@@ -1,4 +1,5 @@
 ---
+description: "Add Mining Models to a Structure (Analysis Services - Data Mining)"
 title: "Add Mining Models to a Structure (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

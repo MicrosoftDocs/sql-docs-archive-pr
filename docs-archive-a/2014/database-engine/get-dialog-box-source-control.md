@@ -1,4 +1,5 @@
 ---
+description: "Get Dialog Box (Source Control)"
 title: "Get Dialog Box (Source Control) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

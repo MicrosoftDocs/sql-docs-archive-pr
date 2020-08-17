@@ -1,4 +1,5 @@
 ---
+description: "Start or Stop a PowerPivot for SharePoint Server"
 title: "Start or Stop a PowerPivot for SharePoint Server | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

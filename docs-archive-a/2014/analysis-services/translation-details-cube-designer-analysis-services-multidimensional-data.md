@@ -1,4 +1,5 @@
 ---
+description: "Translation Details (Translations Tab, Cube Designer) (Analysis Services - Multidimensional Data)"
 title: "Translation Details (Translations Tab, Cube Designer) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

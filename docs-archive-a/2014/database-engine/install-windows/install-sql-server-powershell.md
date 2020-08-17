@@ -1,4 +1,5 @@
 ---
+description: "Install SQL Server PowerShell"
 title: "Install SQL Server PowerShell | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

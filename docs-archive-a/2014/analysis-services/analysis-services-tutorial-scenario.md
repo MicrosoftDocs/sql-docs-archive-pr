@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Tutorial Scenario"
 title: "Analysis Services Tutorial Scenario | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

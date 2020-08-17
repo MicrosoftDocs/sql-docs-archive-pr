@@ -1,4 +1,5 @@
 ---
+description: "Lesson 11: Create Partitions"
 title: "Lesson 11: Create Partitions | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

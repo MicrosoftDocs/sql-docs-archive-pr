@@ -1,4 +1,5 @@
 ---
+description: "Export and Import Data Mining Objects"
 title: "Export and Import Data Mining Objects | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

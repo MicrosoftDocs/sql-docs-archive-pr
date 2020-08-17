@@ -1,4 +1,5 @@
 ---
+description: "Working with Members, Tuples, and Sets (MDX)"
 title: "Working with Members, Tuples, and Sets (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Options (Text Editor - File Extension Page)"
 title: "Options (Text Editor - File Extension Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

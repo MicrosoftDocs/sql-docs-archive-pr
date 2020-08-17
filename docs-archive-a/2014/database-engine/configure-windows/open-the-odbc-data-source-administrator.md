@@ -1,4 +1,5 @@
 ---
+description: "Open the ODBC Data Source Administrator"
 title: "Open the ODBC Data Source Administrator | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

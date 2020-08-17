@@ -1,4 +1,5 @@
 ---
+description: "Configure Replication for Always On Availability Groups (SQL Server)"
 title: "Configure Replication for Always On Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Query Results (General Page)"
 title: "Analysis Services Query Results (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

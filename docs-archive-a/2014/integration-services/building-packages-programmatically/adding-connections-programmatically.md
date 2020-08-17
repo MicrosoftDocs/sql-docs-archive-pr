@@ -1,4 +1,5 @@
 ---
+description: "Adding Connections Programmatically"
 title: "Adding Connections Programmatically | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

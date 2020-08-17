@@ -1,4 +1,5 @@
 ---
+description: "Configure Disk Space Usage (PowerPivot for SharePoint)"
 title: "Configure Disk Space Usage (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

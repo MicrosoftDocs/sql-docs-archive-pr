@@ -1,4 +1,5 @@
 ---
+description: "Start Data Movement on an AlwaysOn Secondary Database (SQL Server)"
 title: "Start Data Movement on an AlwaysOn Secondary Database (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

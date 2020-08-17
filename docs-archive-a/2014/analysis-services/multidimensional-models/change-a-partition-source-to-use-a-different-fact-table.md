@@ -1,4 +1,5 @@
 ---
+description: "Change a partition source to use a different fact table"
 title: "Change a partition source to use a different fact table | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

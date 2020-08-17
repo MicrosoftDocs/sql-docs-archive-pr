@@ -1,4 +1,5 @@
 ---
+description: "Introduction to SQL Server 2014 Hybrid Cloud"
 title: "Introduction to SQL Server 2014 Hybrid Cloud | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

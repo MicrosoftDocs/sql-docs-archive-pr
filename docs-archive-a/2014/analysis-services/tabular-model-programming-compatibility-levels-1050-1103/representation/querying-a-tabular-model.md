@@ -1,4 +1,5 @@
 ---
+description: "Querying a Tabular Model"
 title: "Querying a Tabular Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

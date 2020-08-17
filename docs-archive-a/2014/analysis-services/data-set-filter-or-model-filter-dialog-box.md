@@ -1,4 +1,5 @@
 ---
+description: "Data Set Filter or Model Filter Dialog Box"
 title: "Data Set Filter or Model Filter Dialog Box | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Edit the Data Source View used for a Mining Structure"
 title: "Edit the Data Source View used for a Mining Structure | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

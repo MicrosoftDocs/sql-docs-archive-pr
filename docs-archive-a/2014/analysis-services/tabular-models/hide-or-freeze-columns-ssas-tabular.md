@@ -1,4 +1,5 @@
 ---
+description: "Hide or Freeze Columns (SSAS Tabular)"
 title: "Hide or Freeze Columns (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

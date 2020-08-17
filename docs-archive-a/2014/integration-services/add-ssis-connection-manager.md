@@ -1,4 +1,5 @@
 ---
+description: "Add SSIS Connection Manager"
 title: "Add SSIS Connection Manager | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

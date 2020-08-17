@@ -1,4 +1,5 @@
 ---
+description: "Lesson 5: Defining Relationships Between Dimensions and Measure Groups"
 title: "Lesson 5: Defining Relationships Between Dimensions and Measure Groups | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

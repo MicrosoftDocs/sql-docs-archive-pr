@@ -1,4 +1,5 @@
 ---
+description: "Data Quality Services Concepts"
 title: "Data Quality Services Concepts | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

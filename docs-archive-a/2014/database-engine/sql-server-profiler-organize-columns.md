@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Profiler - Organize Columns"
 title: "SQL Server Profiler - Organize Columns | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

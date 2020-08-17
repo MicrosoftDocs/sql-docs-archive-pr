@@ -1,4 +1,5 @@
 ---
+description: "Extending OLAP functionality"
 title: "Extending OLAP functionality | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

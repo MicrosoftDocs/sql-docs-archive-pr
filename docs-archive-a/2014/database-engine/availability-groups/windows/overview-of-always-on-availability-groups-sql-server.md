@@ -1,4 +1,5 @@
 ---
+description: "Overview of AlwaysOn Availability Groups (SQL Server)"
 title: "Overview of AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/27/2017"

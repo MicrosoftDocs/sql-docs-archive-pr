@@ -1,4 +1,5 @@
 ---
+description: "Cube Cells (Analysis Services - Multidimensional Data)"
 title: "Cube Cells (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

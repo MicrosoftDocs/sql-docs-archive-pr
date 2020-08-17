@@ -1,4 +1,5 @@
 ---
+description: "Define Assignments and Other Script Commands"
 title: "Define Assignments and Other Script Commands | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Filter an Itemset in an Association Rules Model"
 title: "Filter an Itemset in an Association Rules Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

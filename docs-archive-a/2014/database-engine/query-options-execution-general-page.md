@@ -1,4 +1,5 @@
 ---
+description: "Query Options Execution (General Page)"
 title: "Query Options Execution (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

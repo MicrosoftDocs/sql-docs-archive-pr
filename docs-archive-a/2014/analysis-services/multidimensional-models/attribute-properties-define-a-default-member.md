@@ -1,4 +1,5 @@
 ---
+description: "Define a Default Member"
 title: "Define a Default Member | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

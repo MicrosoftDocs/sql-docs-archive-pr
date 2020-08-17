@@ -1,4 +1,5 @@
 ---
+description: "Utility Administration (SQL Server Utility)"
 title: "Utility Administration (SQL Server Utility) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

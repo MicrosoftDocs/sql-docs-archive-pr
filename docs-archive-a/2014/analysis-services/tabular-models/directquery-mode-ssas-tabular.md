@@ -1,4 +1,5 @@
 ---
+description: "DirectQuery Mode (SSAS Tabular)"
 title: "DirectQuery Mode (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

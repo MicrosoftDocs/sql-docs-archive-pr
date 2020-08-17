@@ -1,4 +1,5 @@
 ---
+description: "Creating Query-Scoped Calculated Members (MDX)"
 title: "Creating Query-Scoped Calculated Members (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

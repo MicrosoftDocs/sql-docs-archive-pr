@@ -1,4 +1,5 @@
 ---
+description: "Comparing Tabular and Multidimensional Solutions (SSAS)"
 title: "Comparing Tabular and Multidimensional Solutions (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Lesson 1: Create a New Tabular Model Project"
 title: "Lesson 1: Create a New Tabular Model Project | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

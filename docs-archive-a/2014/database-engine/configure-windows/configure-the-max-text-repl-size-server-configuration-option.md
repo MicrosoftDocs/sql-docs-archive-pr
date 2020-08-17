@@ -1,4 +1,5 @@
 ---
+description: "Configure the max text repl size Server Configuration Option"
 title: "Configure the max text repl size Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

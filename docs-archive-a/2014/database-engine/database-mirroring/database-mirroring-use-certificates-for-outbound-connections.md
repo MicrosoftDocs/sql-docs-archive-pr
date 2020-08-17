@@ -1,4 +1,5 @@
 ---
+description: "Allow a Database Mirroring Endpoint to Use Certificates for Outbound Connections (Transact-SQL)"
 title: "Allow a Database Mirroring Endpoint to Use Certificates for Outbound Connections (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Cluster Diagram Walkthrough (Data Mining Add-ins)"
 title: "Cluster Diagram Walkthrough (Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

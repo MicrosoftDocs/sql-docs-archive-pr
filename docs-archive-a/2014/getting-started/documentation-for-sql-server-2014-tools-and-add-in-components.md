@@ -1,4 +1,5 @@
 ---
+description: "Documentation for SQL Server 2014 Tools and Add-in Components"
 title: "Documentation for SQL Server 2014 Tools and Add-in Components | Microsoft Docs"
 ms.custom: ""
 ms.date: 03/27/2020

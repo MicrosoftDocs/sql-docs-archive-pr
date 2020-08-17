@@ -1,4 +1,5 @@
 ---
+description: "Using Nonclustered Columnstore Indexes"
 title: "Using Nonclustered Columnstore Indexes | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

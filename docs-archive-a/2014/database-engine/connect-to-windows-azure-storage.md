@@ -1,4 +1,5 @@
 ---
+description: "Connect to Azure Storage"
 title: "Connect to Azure Storage | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

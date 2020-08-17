@@ -1,4 +1,5 @@
 ---
+description: "Set Advanced Properties (SSAS)"
 title: "Set Advanced Properties (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

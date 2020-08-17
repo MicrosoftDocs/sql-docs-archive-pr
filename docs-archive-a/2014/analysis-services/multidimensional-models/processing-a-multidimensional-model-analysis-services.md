@@ -1,4 +1,5 @@
 ---
+description: "Multidimensional Model Object Processing"
 title: "Multidimensional Model Object Processing | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

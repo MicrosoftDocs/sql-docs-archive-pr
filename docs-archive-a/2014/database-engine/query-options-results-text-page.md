@@ -1,4 +1,5 @@
 ---
+description: "Query Options Results (Text Page)"
 title: "Query Options Results (Text Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

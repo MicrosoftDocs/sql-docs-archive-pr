@@ -1,4 +1,5 @@
 ---
+description: "Import a Domain from a .dqs File"
 title: "Import a Domain from a .dqs File | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

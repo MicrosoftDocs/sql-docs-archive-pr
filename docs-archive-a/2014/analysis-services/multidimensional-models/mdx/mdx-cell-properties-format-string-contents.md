@@ -1,4 +1,5 @@
 ---
+description: "FORMAT_STRING Contents (MDX)"
 title: "FORMAT_STRING Contents (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

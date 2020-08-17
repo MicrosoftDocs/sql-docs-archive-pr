@@ -1,4 +1,5 @@
 ---
+description: "Upgrade SQL Server Management Tools"
 title: "Upgrade SQL Server Management Tools | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

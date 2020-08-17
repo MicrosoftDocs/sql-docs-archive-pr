@@ -1,4 +1,5 @@
 ---
+description: "Working with the RollupChildren Function (MDX)"
 title: "Working with the RollupChildren Function (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

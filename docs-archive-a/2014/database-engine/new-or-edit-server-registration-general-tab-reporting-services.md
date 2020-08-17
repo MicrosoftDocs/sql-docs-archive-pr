@@ -1,4 +1,5 @@
 ---
+description: "New or Edit Server Registration (General Tab) (Reporting Services)"
 title: "New or Edit Server Registration (General Tab) (Reporting Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

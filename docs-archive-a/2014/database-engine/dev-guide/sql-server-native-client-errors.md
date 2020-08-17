@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Native Client Errors"
 title: "SQL Server Native Client Errors | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

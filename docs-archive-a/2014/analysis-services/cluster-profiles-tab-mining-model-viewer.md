@@ -1,4 +1,5 @@
 ---
+description: "Cluster Profiles Tab (Mining Model Viewer)"
 title: "Cluster Profiles Tab (Mining Model Viewer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

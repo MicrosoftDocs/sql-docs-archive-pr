@@ -1,4 +1,5 @@
 ---
+description: "Create Mining Structure (SQL Server Data Mining Add-ins)"
 title: "Create Mining Structure (SQL Server Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

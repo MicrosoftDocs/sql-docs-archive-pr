@@ -1,4 +1,5 @@
 ---
+description: "Configure Measure Group Properties"
 title: "Configure Measure Group Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

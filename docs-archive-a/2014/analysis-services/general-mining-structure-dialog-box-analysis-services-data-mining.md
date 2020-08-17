@@ -1,4 +1,5 @@
 ---
+description: "General (Mining Structure Dialog Box) (Analysis Services - Data Mining)"
 title: "General (Mining Structure Dialog Box) (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

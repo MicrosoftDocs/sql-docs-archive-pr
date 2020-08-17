@@ -1,4 +1,5 @@
 ---
+description: "Set the Collation of User-defined Databases to Match Those of the master and model Databases"
 title: "Set the Collation of User-defined Databases to Match Those of the master and model Databases | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

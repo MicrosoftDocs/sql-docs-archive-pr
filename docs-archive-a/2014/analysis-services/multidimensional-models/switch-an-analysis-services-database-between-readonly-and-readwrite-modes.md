@@ -1,4 +1,5 @@
 ---
+description: "Switch an Analysis Services database between ReadOnly and ReadWrite modes"
 title: "Switch an Analysis Services database between ReadOnly and ReadWrite modes | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

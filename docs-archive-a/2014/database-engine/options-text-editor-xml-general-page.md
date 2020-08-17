@@ -1,4 +1,5 @@
 ---
+description: "Options (Text Editor - XML - General Page)"
 title: "Options (Text Editor - XML - General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

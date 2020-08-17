@@ -1,4 +1,5 @@
 ---
+description: "Change Transaction Safety in a Database Mirroring Session (Transact-SQL)"
 title: "Change Transaction Safety in a Database Mirroring Session (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

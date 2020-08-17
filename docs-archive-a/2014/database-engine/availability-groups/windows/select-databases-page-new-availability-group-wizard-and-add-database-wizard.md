@@ -1,4 +1,5 @@
 ---
+description: "Select Databases Page (New Availability Group Wizard-Add Database Wizard)"
 title: "Select Databases Page (New Availability Group Wizard-Add Database Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

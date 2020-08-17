@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Profiler - Performance Counters Limit"
 title: "SQL Server Profiler - Performance Counters Limit | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Grant read definition permissions on object metadata (Analysis Services)"
 title: "Grant read definition permissions on object metadata (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

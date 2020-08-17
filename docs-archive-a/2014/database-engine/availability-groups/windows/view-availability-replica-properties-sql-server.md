@@ -1,4 +1,5 @@
 ---
+description: "View Availability Replica Properties (SQL Server)"
 title: "View Availability Replica Properties (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

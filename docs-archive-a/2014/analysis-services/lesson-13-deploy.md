@@ -1,4 +1,5 @@
 ---
+description: "Lesson 14: Deploy"
 title: "Lesson 14: Deploy | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

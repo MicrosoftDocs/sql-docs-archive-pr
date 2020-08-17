@@ -1,4 +1,5 @@
 ---
+description: "Linked Measure Groups"
 title: "Linked Measure Groups | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

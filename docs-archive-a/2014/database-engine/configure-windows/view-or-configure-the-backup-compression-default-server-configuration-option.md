@@ -1,4 +1,5 @@
 ---
+description: "View or Configure the backup compression default Server Configuration Option"
 title: "View or Configure the backup compression default Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

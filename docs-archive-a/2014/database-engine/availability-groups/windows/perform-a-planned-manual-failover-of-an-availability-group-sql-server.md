@@ -1,4 +1,5 @@
 ---
+description: "Perform a Planned Manual Failover of an Availability Group (SQL Server)"
 title: "Perform a Planned Manual Failover of an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

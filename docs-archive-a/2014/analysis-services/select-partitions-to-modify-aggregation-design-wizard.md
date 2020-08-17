@@ -1,4 +1,5 @@
 ---
+description: "Select Partitions to Modify (Aggregation Design Wizard)"
 title: "Select Partitions to Modify (Aggregation Design Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

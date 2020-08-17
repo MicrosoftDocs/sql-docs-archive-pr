@@ -1,4 +1,5 @@
 ---
+description: "UI Designers and Dialogs for Data Mining Tabular Analysis"
 title: "UI Designers and Dialogs for Data Mining Tabular Analysis | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/17/2018"

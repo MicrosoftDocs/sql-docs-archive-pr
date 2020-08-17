@@ -1,4 +1,5 @@
 ---
+description: "Discretization Methods (Data Mining)"
 title: "Discretization Methods (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

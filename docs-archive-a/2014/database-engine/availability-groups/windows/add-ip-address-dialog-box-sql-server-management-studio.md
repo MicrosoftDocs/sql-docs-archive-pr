@@ -1,4 +1,5 @@
 ---
+description: "Add IP Address Dialog Box (SQL Server Management Studio)"
 title: "Add IP Address Dialog Box (SQL Server Management Studio) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

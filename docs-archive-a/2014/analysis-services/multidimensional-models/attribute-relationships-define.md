@@ -1,4 +1,5 @@
 ---
+description: "Define Attribute Relationships"
 title: "Define Attribute Relationships | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

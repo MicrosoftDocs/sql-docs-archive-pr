@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Service Broker"
 title: "SQL Server Service Broker | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

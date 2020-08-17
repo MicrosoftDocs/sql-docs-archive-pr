@@ -1,4 +1,5 @@
 ---
+description: "Example: Setting Up Database Mirroring Using Windows Authentication (Transact-SQL)"
 title: "Example: Setting Up Database Mirroring Using Windows Authentication (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

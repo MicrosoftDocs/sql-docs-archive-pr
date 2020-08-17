@@ -1,4 +1,5 @@
 ---
+description: "Connect to SQL Server Through a Proxy Server (SQL Server Configuration Manager)"
 title: "Connect to SQL Server Through a Proxy Server (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/22/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Monitoring Traces (XMLA)"
 title: "Monitoring Traces (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

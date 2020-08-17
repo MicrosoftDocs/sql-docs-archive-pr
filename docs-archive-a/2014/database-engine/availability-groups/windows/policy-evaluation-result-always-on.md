@@ -1,4 +1,5 @@
 ---
+description: "Policy Evaluation Result (AlwaysOn)"
 title: "Policy Evaluation Result (AlwaysOn) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

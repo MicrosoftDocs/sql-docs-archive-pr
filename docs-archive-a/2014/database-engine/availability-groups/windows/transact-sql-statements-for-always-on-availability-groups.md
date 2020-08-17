@@ -1,4 +1,5 @@
 ---
+description: "Overview of Transact-SQL Statements for AlwaysOn Availability Groups (SQL Server)"
 title: "Overview of Transact-SQL Statements for AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

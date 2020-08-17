@@ -1,4 +1,5 @@
 ---
+description: "View a List of Modified Files"
 title: "View a List of Modified Files | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

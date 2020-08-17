@@ -1,4 +1,5 @@
 ---
+description: "Considerations for Installing SQL Server Using SysPrep"
 title: "Considerations for Installing SQL Server Using SysPrep | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

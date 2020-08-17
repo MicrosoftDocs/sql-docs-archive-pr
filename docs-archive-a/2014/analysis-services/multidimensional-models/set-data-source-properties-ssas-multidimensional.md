@@ -1,4 +1,5 @@
 ---
+description: "Set Data Source Properties (SSAS Multidimensional)"
 title: "Set Data Source Properties (SSAS Multidimensional) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

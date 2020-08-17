@@ -1,4 +1,5 @@
 ---
+description: "Specifying Partition and Role Deployment Options"
 title: "Specifying Partition and Role Deployment Options | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

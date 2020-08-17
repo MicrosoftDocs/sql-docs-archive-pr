@@ -1,4 +1,5 @@
 ---
+description: "Performing Batch Operations (XMLA)"
 title: "Performing Batch Operations (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

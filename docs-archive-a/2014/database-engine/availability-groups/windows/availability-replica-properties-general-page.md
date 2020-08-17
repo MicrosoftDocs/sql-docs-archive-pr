@@ -1,4 +1,5 @@
 ---
+description: "Availability Replica Properties (General Page)"
 title: "Availability Replica Properties (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/27/2017"

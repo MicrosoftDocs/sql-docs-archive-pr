@@ -1,4 +1,5 @@
 ---
+description: "Customize Mining Models and Structure"
 title: "Customize Mining Models and Structure | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

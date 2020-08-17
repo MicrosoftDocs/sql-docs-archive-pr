@@ -1,4 +1,5 @@
 ---
+description: "Filter and Sort Data (SSAS Tabular)"
 title: "Filter and Sort Data (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

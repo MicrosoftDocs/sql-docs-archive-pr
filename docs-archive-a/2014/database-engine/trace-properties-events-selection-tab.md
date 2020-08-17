@@ -1,4 +1,5 @@
 ---
+description: "Trace Properties (Events Selection Tab)"
 title: "Trace Properties (Events Selection Tab) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

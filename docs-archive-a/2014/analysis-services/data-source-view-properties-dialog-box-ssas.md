@@ -1,4 +1,5 @@
 ---
+description: "Data Source View Properties Dialog Box (SSAS)"
 title: "Data Source View Properties Dialog Box (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Database Mirroring and SQL Server Failover Cluster Instances"
 title: "Database Mirroring and SQL Server Failover Cluster Instances | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

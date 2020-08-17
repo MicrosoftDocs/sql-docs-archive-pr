@@ -1,4 +1,5 @@
 ---
+description: "Validating Models and Using Models for Prediction (Data Mining Add-ins for Excel)"
 title: "Validating Models and Using Models for Prediction (Data Mining Add-ins for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

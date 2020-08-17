@@ -1,4 +1,5 @@
 ---
+description: "Create Testing Set (Data Mining Wizard)"
 title: "Create Testing Set (Data Mining Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

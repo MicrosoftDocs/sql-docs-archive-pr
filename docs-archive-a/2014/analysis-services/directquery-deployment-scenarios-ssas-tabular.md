@@ -1,4 +1,5 @@
 ---
+description: "DirectQuery Deployment Scenarios (SSAS Tabular)"
 title: "DirectQuery Deployment Scenarios (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

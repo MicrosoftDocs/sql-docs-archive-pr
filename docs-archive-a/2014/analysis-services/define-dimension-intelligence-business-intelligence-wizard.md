@@ -1,4 +1,5 @@
 ---
+description: "Define Dimension Intelligence (Business Intelligence Wizard)"
 title: "Define Dimension Intelligence (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

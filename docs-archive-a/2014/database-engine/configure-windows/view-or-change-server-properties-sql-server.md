@@ -1,4 +1,5 @@
 ---
+description: "View or Change Server Properties (SQL Server)"
 title: "View or Change Server Properties (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

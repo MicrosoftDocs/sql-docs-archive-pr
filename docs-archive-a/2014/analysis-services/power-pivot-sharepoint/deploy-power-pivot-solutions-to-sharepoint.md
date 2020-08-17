@@ -1,4 +1,5 @@
 ---
+description: "Deploy PowerPivot Solutions to SharePoint"
 title: "Deploy PowerPivot Solutions to SharePoint | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

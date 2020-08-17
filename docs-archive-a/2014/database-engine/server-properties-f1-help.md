@@ -1,4 +1,5 @@
 ---
+description: "Server Properties F1 Help"
 title: "Server Properties F1 Help | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

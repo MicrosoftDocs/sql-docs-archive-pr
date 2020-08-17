@@ -1,4 +1,5 @@
 ---
+description: "Browsing a Forecasting Model"
 title: "Browsing a Forecasting Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

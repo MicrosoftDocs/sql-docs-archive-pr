@@ -1,4 +1,5 @@
 ---
+description: "Delete PowerPivot Gallery"
 title: "Delete PowerPivot Gallery | Microsoft Docs"
 ms.custom: ""
 ms.date: 11/25/2019

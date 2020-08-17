@@ -1,4 +1,5 @@
 ---
+description: "Move an Analysis Services Database"
 title: "Move an Analysis Services Database | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

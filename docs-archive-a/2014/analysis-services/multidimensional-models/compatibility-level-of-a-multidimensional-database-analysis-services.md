@@ -1,4 +1,5 @@
 ---
+description: "Set the Compatibility Level of a Multidimensional Database (Analysis Services)"
 title: "Set the Compatibility Level of a Multidimensional Database (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

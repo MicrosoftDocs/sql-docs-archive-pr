@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Backward Compatibility"
 title: "SQL Server Backward Compatibility | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

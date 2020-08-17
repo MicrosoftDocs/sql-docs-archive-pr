@@ -1,4 +1,5 @@
 ---
+description: "Import from a Multidimensional Data Source (SSAS Tabular)"
 title: "Import from a Multidimensional Data Source (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Select how to define the connection (Data Source Wizard) (Analysis Services)"
 title: "Select how to define the connection (Data Source Wizard) (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

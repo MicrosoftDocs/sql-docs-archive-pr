@@ -1,4 +1,5 @@
 ---
+description: "Proactive Caching (Partitions)"
 title: "Proactive Caching (Partitions) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

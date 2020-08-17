@@ -1,4 +1,5 @@
 ---
+description: "Map TCP IP Ports to NUMA Nodes (SQL Server)"
 title: "Map TCP IP Ports to NUMA Nodes (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

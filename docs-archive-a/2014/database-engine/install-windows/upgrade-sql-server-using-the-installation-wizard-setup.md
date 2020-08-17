@@ -1,4 +1,5 @@
 ---
+description: "Upgrade to SQL Server 2014 Using the Installation Wizard (Setup)"
 title: "Upgrade to SQL Server 2014 Using the Installation Wizard (Setup) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

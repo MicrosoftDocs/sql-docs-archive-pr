@@ -1,4 +1,5 @@
 ---
+description: "Behavior Changes to Full-Text Search"
 title: "Behavior Changes to Full-Text Search | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Calendar-Aware Date and Time UDT Sample"
 title: "Calendar-Aware Date and Time UDT Sample | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

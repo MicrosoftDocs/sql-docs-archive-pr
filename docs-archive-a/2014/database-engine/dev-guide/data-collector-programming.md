@@ -1,4 +1,5 @@
 ---
+description: "Data Collector Programming"
 title: "Data Collector Programming | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

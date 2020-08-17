@@ -1,4 +1,5 @@
 ---
+description: "Creating and Using Property Values (MDX)"
 title: "Creating and Using Property Values (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

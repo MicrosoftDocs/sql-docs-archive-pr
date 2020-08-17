@@ -1,4 +1,5 @@
 ---
+description: "Database Storage Location"
 title: "Database Storage Location | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

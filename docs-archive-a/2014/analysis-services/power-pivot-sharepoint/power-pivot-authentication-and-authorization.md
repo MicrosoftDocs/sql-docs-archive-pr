@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Authentication and Authorization"
 title: "PowerPivot Authentication and Authorization | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

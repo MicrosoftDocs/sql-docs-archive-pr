@@ -1,4 +1,5 @@
 ---
+description: "Set Aggregation Options (Aggregation Design Wizard)"
 title: "Set Aggregation Options (Aggregation Design Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Enable Dimension Writeback"
 title: "Enable Dimension Writeback | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

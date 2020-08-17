@@ -1,4 +1,5 @@
 ---
+description: "Selection (Partition Properties Dialog Box) (SSMS)"
 title: "Selection (Partition Properties Dialog Box) (SSMS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

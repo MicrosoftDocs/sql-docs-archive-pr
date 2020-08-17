@@ -1,4 +1,5 @@
 ---
+description: "Resume an Availability Database (SQL Server)"
 title: "Resume an Availability Database (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

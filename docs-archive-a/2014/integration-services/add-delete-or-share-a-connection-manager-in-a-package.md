@@ -1,4 +1,5 @@
 ---
+description: "Add, Delete, or Share a Connection Manager in a Package"
 title: "Add, Delete, or Share a Connection Manager in a Package | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

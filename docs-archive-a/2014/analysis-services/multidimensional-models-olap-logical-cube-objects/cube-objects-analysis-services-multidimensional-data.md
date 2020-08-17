@@ -1,4 +1,5 @@
 ---
+description: "Cube Objects (Analysis Services - Multidimensional Data)"
 title: "Cube Objects (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

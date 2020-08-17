@@ -1,4 +1,5 @@
 ---
+description: "Standard View (Aggregations Tab, Cube Designer)"
 title: "Standard View (Aggregations Tab, Cube Designer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

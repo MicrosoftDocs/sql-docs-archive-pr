@@ -1,4 +1,5 @@
 ---
+description: "About the SQL Server License Terms"
 title: "About the SQL Server License Terms | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

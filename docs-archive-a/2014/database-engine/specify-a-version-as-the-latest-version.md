@@ -1,4 +1,5 @@
 ---
+description: "Specify a Version as the Latest Version"
 title: "Specify a Version as the Latest Version | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

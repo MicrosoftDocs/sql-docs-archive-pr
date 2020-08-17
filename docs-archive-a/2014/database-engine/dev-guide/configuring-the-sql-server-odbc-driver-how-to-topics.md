@@ -1,4 +1,5 @@
 ---
+description: "Configuring the SQL Server ODBC Driver How-to Topics"
 title: "Configuring the SQL Server ODBC Driver How-to Topics | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

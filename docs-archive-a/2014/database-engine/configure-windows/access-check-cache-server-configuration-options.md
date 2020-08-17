@@ -1,4 +1,5 @@
 ---
+description: "access check cache Server Configuration Options"
 title: "access check cache Server Configuration Options | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

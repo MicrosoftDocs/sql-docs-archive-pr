@@ -1,4 +1,5 @@
 ---
+description: "Select Measure Group Tables (Cube Wizard)"
 title: "Select Measure Group Tables (Cube Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

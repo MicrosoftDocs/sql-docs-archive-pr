@@ -1,4 +1,5 @@
 ---
+description: "Sequence Clustering Cluster Characteristics Tab (Mining Model Viewer)"
 title: "Sequence Clustering Cluster Characteristics Tab (Mining Model Viewer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

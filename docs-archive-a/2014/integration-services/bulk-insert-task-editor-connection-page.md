@@ -1,4 +1,5 @@
 ---
+description: "Bulk Insert Task Editor (Connection Page)"
 title: "Bulk Insert Task Editor (Connection Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

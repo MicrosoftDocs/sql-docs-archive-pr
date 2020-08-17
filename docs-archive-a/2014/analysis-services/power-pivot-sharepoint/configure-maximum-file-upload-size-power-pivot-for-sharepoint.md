@@ -1,4 +1,5 @@
 ---
+description: "Configure Maximum File Upload Size (PowerPivot for SharePoint)"
 title: "Configure Maximum File Upload Size (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

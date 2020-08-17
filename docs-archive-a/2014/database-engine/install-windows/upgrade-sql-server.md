@@ -1,4 +1,5 @@
 ---
+description: "Upgrade to SQL Server 2014"
 title: "Upgrade to SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

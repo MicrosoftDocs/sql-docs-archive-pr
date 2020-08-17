@@ -1,4 +1,5 @@
 ---
+description: "Prerequisites, Restrictions, and Recommendations for Database Mirroring"
 title: "Prerequisites, Restrictions, and Recommendations for Database Mirroring | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

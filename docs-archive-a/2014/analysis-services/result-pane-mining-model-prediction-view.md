@@ -1,4 +1,5 @@
 ---
+description: "Result Pane (Mining Model Prediction View)"
 title: "Result Pane (Mining Model Prediction View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

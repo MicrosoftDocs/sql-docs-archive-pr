@@ -1,4 +1,5 @@
 ---
+description: "Add a Database to an Availability Group (SQL Server)"
 title: "Add a Database to an Availability Group (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

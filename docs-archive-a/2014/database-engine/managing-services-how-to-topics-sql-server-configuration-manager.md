@@ -1,4 +1,5 @@
 ---
+description: "Managing Services How-to Topics (SQL Server Configuration Manager)"
 title: "Managing Services How-to Topics (SQL Server Configuration Manager) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

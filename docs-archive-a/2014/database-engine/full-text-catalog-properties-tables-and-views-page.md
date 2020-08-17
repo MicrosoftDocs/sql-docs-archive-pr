@@ -1,4 +1,5 @@
 ---
+description: "Full-Text Catalog Properties (Tables and Views Page)"
 title: "Full-Text Catalog Properties (Tables and Views Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

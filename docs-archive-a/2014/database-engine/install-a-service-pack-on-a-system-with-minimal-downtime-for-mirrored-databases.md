@@ -1,4 +1,5 @@
 ---
+description: "Install a Service Pack on a System with Minimal Downtime for Mirrored Databases"
 title: "Install a Service Pack on a System with Minimal Downtime for Mirrored Databases | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

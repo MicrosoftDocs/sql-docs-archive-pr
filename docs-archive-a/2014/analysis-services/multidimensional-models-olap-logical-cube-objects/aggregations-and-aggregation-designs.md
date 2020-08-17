@@ -1,4 +1,5 @@
 ---
+description: "Aggregations and Aggregation Designs"
 title: "Aggregations and Aggregation Designs | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

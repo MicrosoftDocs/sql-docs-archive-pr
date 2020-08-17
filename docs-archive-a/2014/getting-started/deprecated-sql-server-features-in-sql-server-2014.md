@@ -1,4 +1,5 @@
 ---
+description: "Deprecated SQL Server Features in SQL Server 2014"
 title: "Deprecated SQL Server Features in SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

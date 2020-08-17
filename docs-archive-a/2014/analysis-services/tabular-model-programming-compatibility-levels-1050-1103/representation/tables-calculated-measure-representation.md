@@ -1,4 +1,5 @@
 ---
+description: "Calculated Measure Representation (Tabular)"
 title: "Calculated Measure Representation (Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

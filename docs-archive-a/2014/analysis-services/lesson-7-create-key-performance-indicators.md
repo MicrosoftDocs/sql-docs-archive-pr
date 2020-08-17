@@ -1,4 +1,5 @@
 ---
+description: "Lesson 8: Create Key Performance Indicators"
 title: "Lesson 8: Create Key Performance Indicators | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

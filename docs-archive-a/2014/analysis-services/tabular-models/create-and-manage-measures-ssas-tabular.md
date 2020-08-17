@@ -1,4 +1,5 @@
 ---
+description: "Create and Manage Measures (SSAS Tabular)"
 title: "Create and Manage Measures (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

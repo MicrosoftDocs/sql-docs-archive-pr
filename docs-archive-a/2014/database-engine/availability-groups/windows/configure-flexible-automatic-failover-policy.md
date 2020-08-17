@@ -1,4 +1,5 @@
 ---
+description: "Configure the Flexible Failover Policy to Control Conditions for Automatic Failover (Always On Availability Groups)"
 title: "Configure the Flexible Failover Policy to Control Conditions for Automatic Failover (Always On Availability Groups) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

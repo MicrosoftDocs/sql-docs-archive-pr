@@ -1,4 +1,5 @@
 ---
+description: "Training and Testing Data Sets"
 title: "Training and Testing Data Sets | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

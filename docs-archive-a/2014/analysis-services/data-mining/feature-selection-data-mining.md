@@ -1,4 +1,5 @@
 ---
+description: "Feature Selection (Data Mining)"
 title: "Feature Selection (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

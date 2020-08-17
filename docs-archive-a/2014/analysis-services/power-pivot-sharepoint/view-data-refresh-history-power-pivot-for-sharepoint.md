@@ -1,4 +1,5 @@
 ---
+description: "View Data Refresh History (PowerPivot for SharePoint)"
 title: "View Data Refresh History (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

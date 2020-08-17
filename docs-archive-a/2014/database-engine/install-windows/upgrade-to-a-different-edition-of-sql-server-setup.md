@@ -1,4 +1,5 @@
 ---
+description: "Upgrade to a Different Edition of SQL Server 2014 (Setup)"
 title: "Upgrade to a Different Edition of SQL Server 2014 (Setup) | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

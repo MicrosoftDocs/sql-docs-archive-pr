@@ -1,4 +1,5 @@
 ---
+description: "Connection Representation (Tabular)"
 title: "Connection Representation (Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

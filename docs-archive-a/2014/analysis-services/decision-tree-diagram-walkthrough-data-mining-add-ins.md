@@ -1,4 +1,5 @@
 ---
+description: "Decision Tree Diagram Walkthrough  (Data Mining Add-ins)"
 title: "Decision Tree Diagram Walkthrough  (Data Mining Add-ins) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

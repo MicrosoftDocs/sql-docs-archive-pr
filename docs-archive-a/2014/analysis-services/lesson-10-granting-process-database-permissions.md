@@ -1,4 +1,5 @@
 ---
+description: "Granting Process Database Permissions"
 title: "Granting Process Database Permissions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

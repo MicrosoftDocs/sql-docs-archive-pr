@@ -1,4 +1,5 @@
 ---
+description: "Define a New Attribute Manually"
 title: "Define a New Attribute Manually | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "UTF8 String User-Defined Data Type (UDT)"
 title: "UTF8 String User-Defined Data Type (UDT) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

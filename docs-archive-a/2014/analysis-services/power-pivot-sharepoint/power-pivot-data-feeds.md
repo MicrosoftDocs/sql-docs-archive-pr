@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Data Feeds"
 title: "PowerPivot Data Feeds | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

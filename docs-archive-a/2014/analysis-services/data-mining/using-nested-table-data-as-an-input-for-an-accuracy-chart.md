@@ -1,4 +1,5 @@
 ---
+description: "Using Nested Table Data as an Input for an Accuracy Chart"
 title: "Using Nested Table Data as an Input for an Accuracy Chart | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

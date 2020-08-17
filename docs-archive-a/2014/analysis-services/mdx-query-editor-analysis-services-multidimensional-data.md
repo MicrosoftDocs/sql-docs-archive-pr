@@ -1,4 +1,5 @@
 ---
+description: "MDX Query Editor (Analysis Services - Multidimensional Data)"
 title: "MDX Query Editor (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

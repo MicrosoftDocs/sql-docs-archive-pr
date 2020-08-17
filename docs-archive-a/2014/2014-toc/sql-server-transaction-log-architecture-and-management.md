@@ -1,4 +1,5 @@
 ---
+description: "SQL Server 2014 Transaction Log Architecture and Management"
 title: "SQL Server 2014 Transaction Log Architecture and Management | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

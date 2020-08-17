@@ -1,4 +1,5 @@
 ---
+description: "Create Profiler Traces for Replay (Analysis Services)"
 title: "Create Profiler Traces for Replay (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Register Database Assembly Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Register Database Assembly Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

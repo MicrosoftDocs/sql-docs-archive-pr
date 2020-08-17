@@ -1,4 +1,5 @@
 ---
+description: "Perspective Representation (Tabular)"
 title: "Perspective Representation (Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

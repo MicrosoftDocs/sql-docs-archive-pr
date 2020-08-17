@@ -1,4 +1,5 @@
 ---
+description: "Connect to a Sybase Database (SSAS)"
 title: "Connect to a Sybase Database (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

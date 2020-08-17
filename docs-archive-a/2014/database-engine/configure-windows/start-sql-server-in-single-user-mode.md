@@ -1,4 +1,5 @@
 ---
+description: "Start SQL Server in Single-User Mode"
 title: "Start SQL Server in Single-User Mode | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

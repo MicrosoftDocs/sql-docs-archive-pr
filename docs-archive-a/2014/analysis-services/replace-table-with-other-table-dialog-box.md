@@ -1,4 +1,5 @@
 ---
+description: "Replace Table with Other Table Dialog Box"
 title: "Replace Table with Other Table Dialog Box | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Troubleshoot a Failed Add-File Operation (AlwaysOn Availability Groups)"
 title: "Troubleshoot a Failed Add-File Operation (AlwaysOn Availability Groups) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

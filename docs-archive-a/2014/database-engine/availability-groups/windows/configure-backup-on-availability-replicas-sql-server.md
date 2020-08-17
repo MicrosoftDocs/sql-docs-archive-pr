@@ -1,4 +1,5 @@
 ---
+description: "Configure Backup on Availability Replicas (SQL Server)"
 title: "Configure Backup on Availability Replicas (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Create-Edit Named Calculation Dialog Box (Analysis Services)"
 title: "Create-Edit Named Calculation Dialog Box (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

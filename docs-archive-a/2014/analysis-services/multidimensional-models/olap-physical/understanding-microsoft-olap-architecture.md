@@ -1,4 +1,5 @@
 ---
+description: "Understanding Microsoft OLAP Architecture"
 title: "Understanding Microsoft OLAP Architecture | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

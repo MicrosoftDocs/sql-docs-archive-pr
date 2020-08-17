@@ -1,4 +1,5 @@
 ---
+description: "About the SQL Server Database Engine"
 title: "About the SQL Server Database Engine | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Drillthrough on Mining Structures"
 title: "Drillthrough on Mining Structures | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

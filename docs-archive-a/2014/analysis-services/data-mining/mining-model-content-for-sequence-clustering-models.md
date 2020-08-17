@@ -1,4 +1,5 @@
 ---
+description: "Mining Model Content for Sequence Clustering Models (Analysis Services - Data Mining)"
 title: "Mining Model Content for Sequence Clustering Models (Analysis Services - Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

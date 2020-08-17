@@ -1,4 +1,5 @@
 ---
+description: "PowerPivot Availability and Disaster Recovery (SQL Server 2014)"
 title: "PowerPivot Availability and Disaster Recovery (SQL Server 2014) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/25/2019"

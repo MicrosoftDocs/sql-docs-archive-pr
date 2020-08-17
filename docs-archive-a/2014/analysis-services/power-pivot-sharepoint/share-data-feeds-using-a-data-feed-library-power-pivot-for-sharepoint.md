@@ -1,4 +1,5 @@
 ---
+description: "Share Data Feeds Using a Data Feed Library (PowerPivot for SharePoint)"
 title: "Share Data Feeds Using a Data Feed Library (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

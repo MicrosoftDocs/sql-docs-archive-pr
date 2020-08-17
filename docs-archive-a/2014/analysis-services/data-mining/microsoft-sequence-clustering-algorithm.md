@@ -1,4 +1,5 @@
 ---
+description: "Microsoft Sequence Clustering Algorithm"
 title: "Microsoft Sequence Clustering Algorithm | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

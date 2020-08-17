@@ -1,4 +1,5 @@
 ---
+description: "Documenting Mining Models (Data Mining Add-ins for Excel)"
 title: "Documenting Mining Models (Data Mining Add-ins for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

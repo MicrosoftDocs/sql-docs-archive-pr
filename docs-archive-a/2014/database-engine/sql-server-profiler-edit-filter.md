@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Profiler - Edit Filter"
 title: "SQL Server Profiler - Edit Filter | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

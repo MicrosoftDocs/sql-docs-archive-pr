@@ -1,4 +1,5 @@
 ---
+description: "Enable the Lock Pages in Memory Option (Windows)"
 title: "Enable the Lock Pages in Memory Option (Windows) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

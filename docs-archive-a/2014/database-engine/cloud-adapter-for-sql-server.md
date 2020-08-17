@@ -1,4 +1,5 @@
 ---
+description: "Cloud Adapter for SQL Server"
 title: "Cloud Adapter for SQL Server | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

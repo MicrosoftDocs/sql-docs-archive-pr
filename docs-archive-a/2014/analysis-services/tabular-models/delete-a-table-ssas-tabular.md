@@ -1,4 +1,5 @@
 ---
+description: "Delete a Table (SSAS Tabular)"
 title: "Delete a Table (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

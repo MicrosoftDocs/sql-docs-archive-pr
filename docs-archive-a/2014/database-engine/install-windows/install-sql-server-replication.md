@@ -1,4 +1,5 @@
 ---
+description: "Install SQL Server Replication"
 title: "Install SQL Server Replication | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

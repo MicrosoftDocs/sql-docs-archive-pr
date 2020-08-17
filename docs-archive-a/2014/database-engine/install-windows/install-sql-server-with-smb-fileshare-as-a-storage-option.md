@@ -1,4 +1,5 @@
 ---
+description: "Install SQL Server with SMB Fileshare as a Storage Option"
 title: "Install SQL Server with SMB Fileshare as a Storage Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

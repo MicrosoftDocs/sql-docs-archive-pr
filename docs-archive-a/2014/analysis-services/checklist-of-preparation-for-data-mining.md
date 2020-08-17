@@ -1,4 +1,5 @@
 ---
+description: "Checklist of Preparation for Data Mining"
 title: "Checklist of Preparation for Data Mining | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

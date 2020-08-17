@@ -1,4 +1,5 @@
 ---
+description: "Unused Assembly Cleanup"
 title: "Unused Assembly Cleanup | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

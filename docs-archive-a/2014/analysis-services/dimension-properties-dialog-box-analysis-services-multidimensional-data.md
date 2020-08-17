@@ -1,4 +1,5 @@
 ---
+description: "Dimension Properties Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Dimension Properties Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

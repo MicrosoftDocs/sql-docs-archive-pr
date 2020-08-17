@@ -1,4 +1,5 @@
 ---
+description: "Connection String Properties (Analysis Services)"
 title: "Connection String Properties (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

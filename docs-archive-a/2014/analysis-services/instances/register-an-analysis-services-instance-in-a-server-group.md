@@ -1,4 +1,5 @@
 ---
+description: "Register an Analysis Services Instance in a Server Group"
 title: "Register an Analysis Services Instance in a Server Group | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

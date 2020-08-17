@@ -1,4 +1,5 @@
 ---
+description: "Analyze Key Influencers (Table Analysis Tools for Excel)"
 title: "Analyze Key Influencers (Table Analysis Tools for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

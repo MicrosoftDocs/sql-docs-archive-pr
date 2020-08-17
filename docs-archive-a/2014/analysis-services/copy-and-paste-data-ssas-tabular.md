@@ -1,4 +1,5 @@
 ---
+description: "Copy and Paste Data (SSAS Tabular)"
 title: "Copy and Paste Data (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

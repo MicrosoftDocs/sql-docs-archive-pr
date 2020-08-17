@@ -1,4 +1,5 @@
 ---
+description: "Chart Tab (Mining Model Viewers)"
 title: "Chart Tab (Mining Model Viewers) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

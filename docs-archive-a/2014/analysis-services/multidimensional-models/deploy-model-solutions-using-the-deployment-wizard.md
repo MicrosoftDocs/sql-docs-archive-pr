@@ -1,4 +1,5 @@
 ---
+description: "Deploy Model Solutions Using the Deployment Wizard"
 title: "Deploy Model Solutions Using the Deployment Wizard | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

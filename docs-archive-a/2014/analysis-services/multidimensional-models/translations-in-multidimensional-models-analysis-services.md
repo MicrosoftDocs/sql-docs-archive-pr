@@ -1,4 +1,5 @@
 ---
+description: "Translations in Multidimensional Models"
 title: "Translations in Multidimensional Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

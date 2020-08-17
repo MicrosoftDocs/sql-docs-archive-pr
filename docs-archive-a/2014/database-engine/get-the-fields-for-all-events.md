@@ -1,4 +1,5 @@
 ---
+description: "Get the Fields for All Events"
 title: "Get the Fields for All Events | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

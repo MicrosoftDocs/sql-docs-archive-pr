@@ -1,4 +1,5 @@
 ---
+description: "Add a Secondary Database to a Log Shipping Configuration (SQL Server)"
 title: "Add a Secondary Database to a Log Shipping Configuration (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

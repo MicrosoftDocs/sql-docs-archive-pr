@@ -1,4 +1,5 @@
 ---
+description: "Delete a PowerPivot Data Feed Library"
 title: "Delete a PowerPivot Data Feed Library | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Drillthrough Queries (Data Mining)"
 title: "Drillthrough Queries (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

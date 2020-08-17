@@ -1,4 +1,5 @@
 ---
+description: "Use a BI Semantic Model Connection in Excel or Reporting Services"
 title: "Use a BI Semantic Model Connection in Excel or Reporting Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

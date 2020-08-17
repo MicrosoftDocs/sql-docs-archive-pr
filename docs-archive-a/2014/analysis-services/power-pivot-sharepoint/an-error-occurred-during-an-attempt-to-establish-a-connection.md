@@ -1,4 +1,5 @@
 ---
+description: "An error occurred during an attempt to establish a connection to the external data source. The following connections failed to refresh: PowerPivot Data"
 title: "An error occurred during an attempt to establish a connection to the external data source. The following connections failed to refresh: PowerPivot Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

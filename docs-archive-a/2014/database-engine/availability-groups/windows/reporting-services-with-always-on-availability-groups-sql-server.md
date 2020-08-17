@@ -1,4 +1,5 @@
 ---
+description: "Reporting Services with AlwaysOn Availability Groups (SQL Server)"
 title: "Reporting Services with AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

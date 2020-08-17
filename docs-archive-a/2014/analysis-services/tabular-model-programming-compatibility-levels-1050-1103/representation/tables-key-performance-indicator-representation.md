@@ -1,4 +1,5 @@
 ---
+description: "Key Performance Indicator Representation (Tabular)"
 title: "Key Performance Indicator Representation (Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "04/27/2017"

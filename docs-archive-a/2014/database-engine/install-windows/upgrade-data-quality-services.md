@@ -1,4 +1,5 @@
 ---
+description: "Upgrade Data Quality Services"
 title: "Upgrade Data Quality Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

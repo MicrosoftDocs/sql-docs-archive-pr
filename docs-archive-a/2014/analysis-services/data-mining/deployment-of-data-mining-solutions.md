@@ -1,4 +1,5 @@
 ---
+description: "Deployment of Data Mining Solutions"
 title: "Deployment of Data Mining Solutions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

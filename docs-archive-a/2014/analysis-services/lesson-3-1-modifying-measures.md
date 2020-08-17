@@ -1,4 +1,5 @@
 ---
+description: "Modifying Measures"
 title: "Modifying Measures | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

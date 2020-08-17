@@ -1,4 +1,5 @@
 ---
+description: "Select a Mining Model and a Data Mining Viewer"
 title: "Select a Mining Model and a Data Mining Viewer | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

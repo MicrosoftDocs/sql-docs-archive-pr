@@ -1,4 +1,5 @@
 ---
+description: "Adding or Removing Tables or Views in a Data Source View (Analysis Services)"
 title: "Adding or Removing Tables or Views in a Data Source View (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

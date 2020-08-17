@@ -1,4 +1,5 @@
 ---
+description: "Restore from PowerPivot"
 title: "Restore from PowerPivot | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

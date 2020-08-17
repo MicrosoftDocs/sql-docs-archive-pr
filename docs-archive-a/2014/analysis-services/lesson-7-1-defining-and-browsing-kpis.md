@@ -1,4 +1,5 @@
 ---
+description: "Defining and Browsing KPIs"
 title: "Defining and Browsing KPIs | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

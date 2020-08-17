@@ -1,4 +1,5 @@
 ---
+description: "remote admin connections Server Configuration Option"
 title: "remote admin connections Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

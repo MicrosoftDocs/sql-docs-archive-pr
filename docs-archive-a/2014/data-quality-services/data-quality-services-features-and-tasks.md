@@ -1,4 +1,5 @@
 ---
+description: "Data Quality Services Features and Tasks"
 title: "Data Quality Services Features and Tasks | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

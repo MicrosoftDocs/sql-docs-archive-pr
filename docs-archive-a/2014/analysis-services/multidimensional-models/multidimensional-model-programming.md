@@ -1,4 +1,5 @@
 ---
+description: "Multidimensional Model Programming"
 title: "Multidimensional Model Programming | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

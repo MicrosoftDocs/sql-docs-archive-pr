@@ -1,4 +1,5 @@
 ---
+description: "Defining the Unknown Member and Null Processing Properties"
 title: "Defining the Unknown Member and Null Processing Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Select Mining Structure Dialog Box (Mining Accuracy Chart View)"
 title: "Select Mining Structure Dialog Box (Mining Accuracy Chart View) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

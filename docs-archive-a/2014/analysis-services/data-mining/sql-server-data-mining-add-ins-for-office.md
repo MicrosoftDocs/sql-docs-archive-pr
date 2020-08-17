@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Data Mining Add-Ins for Office"
 title: "SQL Server Data Mining Add-Ins for Office | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

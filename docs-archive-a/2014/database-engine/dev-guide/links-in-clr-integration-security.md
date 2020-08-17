@@ -1,4 +1,5 @@
 ---
+description: "Links in CLR Integration Security"
 title: "Links in CLR Integration Security | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

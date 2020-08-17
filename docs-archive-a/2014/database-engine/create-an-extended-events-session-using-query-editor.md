@@ -1,4 +1,5 @@
 ---
+description: "Create an Extended Events Session Using Query Editor"
 title: "Create an Extended Events Session Using Query Editor | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

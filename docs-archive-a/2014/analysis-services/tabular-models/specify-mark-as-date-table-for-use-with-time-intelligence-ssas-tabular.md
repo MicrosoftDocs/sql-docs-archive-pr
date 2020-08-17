@@ -1,4 +1,5 @@
 ---
+description: "Specify Mark as Date Table for use with Time Intelligence (SSAS Tabular)"
 title: "Specify Mark as Date Table for use with Time Intelligence (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

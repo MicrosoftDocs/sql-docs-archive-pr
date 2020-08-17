@@ -1,4 +1,5 @@
 ---
+description: "Specify a connection string (SSAS)"
 title: "Specify a connection string (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

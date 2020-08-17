@@ -1,4 +1,5 @@
 ---
+description: "Manage Changes to Data Source Views and Data Sources"
 title: "Manage Changes to Data Source Views and Data Sources | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

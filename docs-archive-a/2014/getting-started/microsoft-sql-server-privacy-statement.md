@@ -1,4 +1,5 @@
 ---
+description: "Microsoft SQL Server Privacy Statement"
 title: "Microsoft SQL Server Privacy Statement | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

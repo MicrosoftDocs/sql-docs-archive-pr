@@ -1,4 +1,5 @@
 ---
+description: "Understanding DAX in Tabular Models (SSAS Tabular)"
 title: "Understanding DAX in Tabular Models (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

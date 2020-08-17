@@ -1,4 +1,5 @@
 ---
+description: "Mining Model Properties"
 title: "Mining Model Properties | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

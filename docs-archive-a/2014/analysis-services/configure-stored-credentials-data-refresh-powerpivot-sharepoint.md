@@ -1,4 +1,5 @@
 ---
+description: "Configure Stored Credentials for PowerPivot Data Refresh (PowerPivot for SharePoint)"
 title: "Configure Stored Credentials for PowerPivot Data Refresh (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

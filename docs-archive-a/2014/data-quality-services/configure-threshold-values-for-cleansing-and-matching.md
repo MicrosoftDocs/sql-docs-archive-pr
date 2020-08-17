@@ -1,4 +1,5 @@
 ---
+description: "Configure Threshold Values for Cleansing and Matching"
 title: "Configure Threshold Values for Cleansing and Matching | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

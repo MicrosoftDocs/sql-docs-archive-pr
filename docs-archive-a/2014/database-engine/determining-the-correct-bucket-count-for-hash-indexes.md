@@ -1,4 +1,5 @@
 ---
+description: "Determining the Correct Bucket Count for Hash Indexes"
 title: "Determining the Correct Bucket Count for Hash Indexes | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

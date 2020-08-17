@@ -1,4 +1,5 @@
 ---
+description: "Define the Relationship Type of an Attribute Relationship"
 title: "Define the Relationship Type of an Attribute Relationship | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

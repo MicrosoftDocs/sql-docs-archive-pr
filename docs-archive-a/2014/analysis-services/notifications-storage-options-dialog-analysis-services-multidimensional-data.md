@@ -1,4 +1,5 @@
 ---
+description: "Notifications (Storage Options Dialog Box) (Analysis Services - Multidimensional Data)"
 title: "Notifications (Storage Options Dialog Box) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

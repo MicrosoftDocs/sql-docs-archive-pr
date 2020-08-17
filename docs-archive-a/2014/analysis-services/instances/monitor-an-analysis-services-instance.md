@@ -1,4 +1,5 @@
 ---
+description: "Monitor an Analysis Services Instance"
 title: "Monitor an Analysis Services Instance | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

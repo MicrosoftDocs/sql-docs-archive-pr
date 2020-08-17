@@ -1,4 +1,5 @@
 ---
+description: "Database Mirroring Monitor (Status Page)"
 title: "Database Mirroring Monitor (Status Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

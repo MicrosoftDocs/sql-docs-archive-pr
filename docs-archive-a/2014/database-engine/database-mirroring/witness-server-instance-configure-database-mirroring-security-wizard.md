@@ -1,4 +1,5 @@
 ---
+description: "Witness Server Instance (Configure Database Mirroring Security Wizard)"
 title: "Witness Server Instance (Configure Database Mirroring Security Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/24/2017"

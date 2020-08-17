@@ -1,4 +1,5 @@
 ---
+description: "Enable-Disable Writeback Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Enable-Disable Writeback Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

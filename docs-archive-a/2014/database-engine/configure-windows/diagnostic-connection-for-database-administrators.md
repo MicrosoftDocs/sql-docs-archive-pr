@@ -1,4 +1,5 @@
 ---
+description: "Diagnostic Connection for Database Administrators"
 title: "Diagnostic Connection for Database Administrators | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

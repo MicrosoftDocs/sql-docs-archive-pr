@@ -1,4 +1,5 @@
 ---
+description: "Deploy Analysis Services Projects (SSDT)"
 title: "Deploy Analysis Services Projects (SSDT) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

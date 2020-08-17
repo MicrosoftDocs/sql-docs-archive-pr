@@ -1,4 +1,5 @@
 ---
+description: "SQL Server Browser Service (Database Engine and SSAS)"
 title: "SQL Server Browser Service (Database Engine and SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

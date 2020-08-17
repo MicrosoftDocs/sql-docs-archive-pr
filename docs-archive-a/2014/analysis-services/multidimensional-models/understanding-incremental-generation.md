@@ -1,4 +1,5 @@
 ---
+description: "Understanding Incremental Generation"
 title: "Understanding Incremental Generation | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Edit Table Properties Dialog Box (SSAS)"
 title: "Edit Table Properties Dialog Box (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

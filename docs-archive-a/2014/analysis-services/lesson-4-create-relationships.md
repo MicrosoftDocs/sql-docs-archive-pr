@@ -1,4 +1,5 @@
 ---
+description: "Lesson 5: Create Relationships"
 title: "Lesson 5: Create Relationships | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

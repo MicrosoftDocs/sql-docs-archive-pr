@@ -1,4 +1,5 @@
 ---
+description: "Schedule SSAS Administrative Tasks with SQL Server Agent"
 title: "Schedule SSAS Administrative Tasks with SQL Server Agent | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

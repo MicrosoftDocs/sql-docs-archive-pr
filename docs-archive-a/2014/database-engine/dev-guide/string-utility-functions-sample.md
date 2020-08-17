@@ -1,4 +1,5 @@
 ---
+description: "String Utility Functions Sample"
 title: "String Utility Functions Sample | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

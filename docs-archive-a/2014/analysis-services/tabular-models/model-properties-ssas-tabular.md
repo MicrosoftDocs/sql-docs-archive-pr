@@ -1,4 +1,5 @@
 ---
+description: "Model Properties (SSAS Tabular)"
 title: "Model Properties (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

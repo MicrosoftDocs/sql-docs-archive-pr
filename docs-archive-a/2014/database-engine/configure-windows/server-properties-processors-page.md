@@ -1,4 +1,5 @@
 ---
+description: "Server Properties (Processors Page)"
 title: "Server Properties (Processors Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

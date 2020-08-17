@@ -1,4 +1,5 @@
 ---
+description: "View the Formula for a Time Series Model (Data Mining)"
 title: "View the Formula for a Time Series Model (Data Mining) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Connect to the Database Engine Using Extended Protection"
 title: "Connect to the Database Engine Using Extended Protection | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

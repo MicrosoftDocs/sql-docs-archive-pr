@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Processing Task Editor (General Page)"
 title: "Analysis Services Processing Task Editor (General Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

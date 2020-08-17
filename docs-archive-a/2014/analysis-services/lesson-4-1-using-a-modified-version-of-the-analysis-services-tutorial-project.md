@@ -1,4 +1,5 @@
 ---
+description: "Using a Modified Version of the Analysis Services Tutorial Project"
 title: "Using a Modified Version of the Analysis Services Tutorial Project | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

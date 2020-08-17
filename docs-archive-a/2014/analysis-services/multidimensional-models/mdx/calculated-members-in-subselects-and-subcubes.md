@@ -1,4 +1,5 @@
 ---
+description: "Calculated Members in Subselects and Subcubes"
 title: "Calculated Members in Subselects and Subcubes | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

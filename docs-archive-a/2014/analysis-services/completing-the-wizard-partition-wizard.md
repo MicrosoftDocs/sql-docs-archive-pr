@@ -1,4 +1,5 @@
 ---
+description: "Completing the Wizard (Partition Wizard)"
 title: "Completing the Wizard (Partition Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

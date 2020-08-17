@@ -1,4 +1,5 @@
 ---
+description: "Create Calculated Members"
 title: "Create Calculated Members | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

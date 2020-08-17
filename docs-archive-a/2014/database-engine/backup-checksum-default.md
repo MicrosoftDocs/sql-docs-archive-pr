@@ -1,4 +1,5 @@
 ---
+description: "backup checksum default"
 title: "backup checksum default | Microsoft Docs"
 ms.custom: ""
 ms.date: "02/29/2016"

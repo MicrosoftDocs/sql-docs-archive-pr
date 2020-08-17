@@ -1,4 +1,5 @@
 ---
+description: "ASSL Objects and Object Characteristics"
 title: "ASSL Objects and Object Characteristics | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

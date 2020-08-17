@@ -1,4 +1,5 @@
 ---
+description: "Create a Lift Chart, Profit Chart, or Classification Matrix"
 title: "Create a Lift Chart, Profit Chart, or Classification Matrix | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

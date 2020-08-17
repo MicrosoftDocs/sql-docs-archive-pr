@@ -1,4 +1,5 @@
 ---
+description: "Add a Nested Table to a Mining Structure"
 title: "Add a Nested Table to a Mining Structure | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

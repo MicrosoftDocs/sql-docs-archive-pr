@@ -1,4 +1,5 @@
 ---
+description: "Install SQL Server 2014"
 title: "Install SQL Server 2014 | Microsoft Docs"
 ms.custom: ""
 ms.date: "09/09/2016"

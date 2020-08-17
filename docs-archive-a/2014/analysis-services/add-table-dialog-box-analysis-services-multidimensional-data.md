@@ -1,4 +1,5 @@
 ---
+description: "Add Table Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Add Table Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

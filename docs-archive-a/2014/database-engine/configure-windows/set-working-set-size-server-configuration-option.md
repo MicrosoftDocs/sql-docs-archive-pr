@@ -1,4 +1,5 @@
 ---
+description: "set working set size Server Configuration Option"
 title: "set working set size Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

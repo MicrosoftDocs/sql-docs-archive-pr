@@ -1,4 +1,5 @@
 ---
+description: "Edit an Existing Data Source Connection (SSAS Tabular)"
 title: "Edit an Existing Data Source Connection (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

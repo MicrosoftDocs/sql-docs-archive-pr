@@ -1,4 +1,5 @@
 ---
+description: "Connect to SQL Server When System Administrators Are Locked Out"
 title: "Connect to SQL Server When System Administrators Are Locked Out | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Buffer Pool Extension"
 title: "Buffer Pool Extension | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

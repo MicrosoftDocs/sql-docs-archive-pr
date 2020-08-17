@@ -1,4 +1,5 @@
 ---
+description: "server trigger recursion Server Configuration Option"
 title: "server trigger recursion Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

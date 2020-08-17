@@ -1,4 +1,5 @@
 ---
+description: "Select Tables and Views (Data Feeds) (SSAS)"
 title: "Select Tables and Views (Data Feeds) (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

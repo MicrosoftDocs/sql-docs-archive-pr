@@ -1,4 +1,5 @@
 ---
+description: "Features off by default (Analysis Services)"
 title: "Features off by default (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Availability database is suspended"
 title: "Availability database is suspended | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

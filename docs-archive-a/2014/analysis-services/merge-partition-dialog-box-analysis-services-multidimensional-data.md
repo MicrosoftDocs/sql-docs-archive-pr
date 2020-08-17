@@ -1,4 +1,5 @@
 ---
+description: "Merge Partition Dialog Box (Analysis Services - Multidimensional Data)"
 title: "Merge Partition Dialog Box (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

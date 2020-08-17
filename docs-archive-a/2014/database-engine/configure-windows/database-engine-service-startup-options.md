@@ -1,4 +1,5 @@
 ---
+description: "Database Engine Service Startup Options"
 title: "Database Engine Service Startup Options | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Prerequisites, Restrictions, and Recommendations for AlwaysOn Availability Groups (SQL Server)"
 title: "Prerequisites, Restrictions, and Recommendations for AlwaysOn Availability Groups (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

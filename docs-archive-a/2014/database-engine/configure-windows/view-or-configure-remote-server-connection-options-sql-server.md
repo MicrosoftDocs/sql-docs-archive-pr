@@ -1,4 +1,5 @@
 ---
+description: "View or Configure Remote Server Connection Options (SQL Server)"
 title: "View or Configure Remote Server Connection Options (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

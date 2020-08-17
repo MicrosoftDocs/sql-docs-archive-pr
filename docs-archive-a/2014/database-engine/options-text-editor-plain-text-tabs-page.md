@@ -1,4 +1,5 @@
 ---
+description: "Options (Text Editor - Plain Text - Tabs Page)"
 title: "Options (Text Editor - Plain Text - Tabs Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

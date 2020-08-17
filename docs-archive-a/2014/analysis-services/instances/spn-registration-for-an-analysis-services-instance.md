@@ -1,4 +1,5 @@
 ---
+description: "SPN registration for an Analysis Services instance"
 title: "SPN registration for an Analysis Services instance | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

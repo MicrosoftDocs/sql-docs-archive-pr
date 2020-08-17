@@ -1,4 +1,5 @@
 ---
+description: "Globalization scenarios for Analysis Services Multiidimensional"
 title: "Globalization scenarios for Analysis Services Multiidimensional | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

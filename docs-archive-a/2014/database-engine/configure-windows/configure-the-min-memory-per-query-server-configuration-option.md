@@ -1,4 +1,5 @@
 ---
+description: "Configure the min memory per query Server Configuration Option"
 title: "Configure the min memory per query Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

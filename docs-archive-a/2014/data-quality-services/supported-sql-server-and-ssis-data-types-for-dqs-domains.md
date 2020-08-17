@@ -1,4 +1,5 @@
 ---
+description: "Supported SQL Server and SSIS Data Types for DQS Domains"
 title: "Supported SQL Server and SSIS Data Types for DQS Domains | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

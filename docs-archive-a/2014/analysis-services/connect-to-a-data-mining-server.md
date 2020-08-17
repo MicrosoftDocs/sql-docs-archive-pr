@@ -1,4 +1,5 @@
 ---
+description: "Connect to a Data Mining Server"
 title: "Connect to a Data Mining Server | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

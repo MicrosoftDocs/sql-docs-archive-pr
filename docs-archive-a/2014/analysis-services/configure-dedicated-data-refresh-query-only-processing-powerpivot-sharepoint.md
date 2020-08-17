@@ -1,4 +1,5 @@
 ---
+description: "Configure Dedicated Data Refresh or Query-Only Processing (PowerPivot for SharePoint)"
 title: "Configure Dedicated Data Refresh or Query-Only Processing (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

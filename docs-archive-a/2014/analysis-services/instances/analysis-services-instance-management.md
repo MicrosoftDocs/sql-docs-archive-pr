@@ -1,4 +1,5 @@
 ---
+description: "Analysis Services Instance Management"
 title: "Analysis Services Instance Management | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

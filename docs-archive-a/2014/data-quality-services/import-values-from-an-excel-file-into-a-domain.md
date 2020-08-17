@@ -1,4 +1,5 @@
 ---
+description: "Import Values from an Excel File into a Domain"
 title: "Import Values from an Excel File into a Domain | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

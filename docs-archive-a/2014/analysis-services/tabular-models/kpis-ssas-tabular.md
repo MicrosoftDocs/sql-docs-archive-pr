@@ -1,4 +1,5 @@
 ---
+description: "KPIs (SSAS Tabular)"
 title: "KPIs (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

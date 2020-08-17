@@ -1,4 +1,5 @@
 ---
+description: "Understanding the Tabular Object Model"
 title: "Understanding the Tabular Object Model | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

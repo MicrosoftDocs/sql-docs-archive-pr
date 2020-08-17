@@ -1,4 +1,5 @@
 ---
+description: "Dialog Boxes Reference (SSAS)"
 title: "Dialog Boxes Reference (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

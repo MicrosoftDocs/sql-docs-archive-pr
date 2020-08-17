@@ -1,4 +1,5 @@
 ---
+description: "Query Binding Detail (Partition Source Dialog Box) (Analysis Services - Multidimensional Data)"
 title: "Query Binding Detail (Partition Source Dialog Box) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

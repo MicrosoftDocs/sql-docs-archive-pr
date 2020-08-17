@@ -1,4 +1,5 @@
 ---
+description: "Server Properties (Database Settings Page)"
 title: "Server Properties (Database Settings Page) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

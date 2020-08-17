@@ -1,4 +1,5 @@
 ---
+description: "Managing Caches (XMLA)"
 title: "Managing Caches (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

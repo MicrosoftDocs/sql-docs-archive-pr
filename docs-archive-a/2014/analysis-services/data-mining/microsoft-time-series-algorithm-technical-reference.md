@@ -1,4 +1,5 @@
 ---
+description: "Microsoft Time Series Algorithm Technical Reference"
 title: "Microsoft Time Series Algorithm Technical Reference | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

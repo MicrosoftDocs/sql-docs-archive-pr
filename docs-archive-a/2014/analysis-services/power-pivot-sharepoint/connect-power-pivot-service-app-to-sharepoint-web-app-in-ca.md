@@ -1,4 +1,5 @@
 ---
+description: "Connect a PowerPivot Service Application to a SharePoint Web Application in Central Administration"
 title: "Connect a PowerPivot Service Application to a SharePoint Web Application in Central Administration | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/09/2017"

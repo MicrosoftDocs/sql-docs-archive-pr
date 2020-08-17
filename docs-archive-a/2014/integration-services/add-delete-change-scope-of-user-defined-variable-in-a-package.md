@@ -1,4 +1,5 @@
 ---
+description: "Add, Delete, Change Scope of User-Defined Variable in a Package"
 title: "Add, Delete, Change Scope of User-Defined Variable in a Package | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

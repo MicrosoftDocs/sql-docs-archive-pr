@@ -1,4 +1,5 @@
 ---
+description: "Report Action Form Editor (Actions Tab, Cube Designer) (Analysis Services - Multidimensional Data)"
 title: "Report Action Form Editor (Actions Tab, Cube Designer) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

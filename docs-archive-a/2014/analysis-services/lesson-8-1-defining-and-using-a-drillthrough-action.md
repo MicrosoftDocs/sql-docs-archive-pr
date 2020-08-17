@@ -1,4 +1,5 @@
 ---
+description: "Defining and Using a Drillthrough Action"
 title: "Defining and Using a Drillthrough Action | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

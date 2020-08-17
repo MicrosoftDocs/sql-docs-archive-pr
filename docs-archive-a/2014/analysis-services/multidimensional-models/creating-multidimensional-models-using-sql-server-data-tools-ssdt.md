@@ -1,4 +1,5 @@
 ---
+description: "Creating Multidimensional Models Using SQL Server Data Tools (SSDT)"
 title: "Creating Multidimensional Models Using SQL Server Data Tools (SSDT) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

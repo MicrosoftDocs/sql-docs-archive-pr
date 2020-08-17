@@ -1,4 +1,5 @@
 ---
+description: "Configure the query wait Server Configuration Option"
 title: "Configure the query wait Server Configuration Option | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

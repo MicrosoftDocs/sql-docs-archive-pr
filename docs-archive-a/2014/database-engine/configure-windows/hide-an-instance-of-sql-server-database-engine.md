@@ -1,4 +1,5 @@
 ---
+description: "Hide an Instance of SQL Server Database Engine"
 title: "Hide an Instance of SQL Server Database Engine | Microsoft Docs"
 ms.custom: ""
 ms.date: "08/19/2015"

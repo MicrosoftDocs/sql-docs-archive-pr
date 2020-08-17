@@ -1,4 +1,5 @@
 ---
+description: "Create, Modify, or Delete an Attribute Relationship"
 title: "Create, Modify, or Delete an Attribute Relationship | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

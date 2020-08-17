@@ -1,4 +1,5 @@
 ---
+description: "Change Source Control Connections"
 title: "Change Source Control Connections | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

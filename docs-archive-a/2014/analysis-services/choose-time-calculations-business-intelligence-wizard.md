@@ -1,4 +1,5 @@
 ---
+description: "Choose Time Calculations (Business Intelligence Wizard)"
 title: "Choose Time Calculations (Business Intelligence Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

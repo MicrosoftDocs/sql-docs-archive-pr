@@ -1,4 +1,5 @@
 ---
+description: "Query Options Pages F1 Help"
 title: "Query Options Pages F1 Help | Microsoft Docs"
 ms.prod: "sql-server-2014"
 ms.technology: "database-engine"

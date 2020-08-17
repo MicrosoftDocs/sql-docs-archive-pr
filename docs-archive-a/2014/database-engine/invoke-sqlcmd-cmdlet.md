@@ -1,4 +1,5 @@
 ---
+description: "Invoke-Sqlcmd cmdlet"
 title: "Invoke-Sqlcmd cmdlet | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

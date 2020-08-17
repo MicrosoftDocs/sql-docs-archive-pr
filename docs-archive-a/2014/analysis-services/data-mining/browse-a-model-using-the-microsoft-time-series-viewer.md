@@ -1,4 +1,5 @@
 ---
+description: "Browse a Model Using the Microsoft Time Series Viewer"
 title: "Browse a Model Using the Microsoft Time Series Viewer | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

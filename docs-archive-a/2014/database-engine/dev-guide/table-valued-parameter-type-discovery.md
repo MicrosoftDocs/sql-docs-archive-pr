@@ -1,4 +1,5 @@
 ---
+description: "Table-Valued Parameter Type Discovery"
 title: "Table-Valued Parameter Type Discovery | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

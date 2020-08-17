@@ -1,4 +1,5 @@
 ---
+description: "Add a Database Mirroring Witness Using Windows Authentication (Transact-SQL)"
 title: "Add a Database Mirroring Witness Using Windows Authentication (Transact-SQL) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

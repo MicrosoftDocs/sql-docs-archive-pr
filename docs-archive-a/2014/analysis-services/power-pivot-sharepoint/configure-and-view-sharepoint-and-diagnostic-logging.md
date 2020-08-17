@@ -1,4 +1,5 @@
 ---
+description: "Configure and View SharePoint Log Files  and Diagnostic Logging (PowerPivot for SharePoint)"
 title: "Configure and View SharePoint Log Files  and Diagnostic Logging (PowerPivot for SharePoint) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

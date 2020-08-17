@@ -1,4 +1,5 @@
 ---
+description: "Guidelines for Using Indexes on Memory-Optimized Tables"
 title: "Guidelines for Using Indexes on Memory-Optimized Tables | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/08/2017"

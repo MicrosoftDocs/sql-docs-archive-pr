@@ -1,4 +1,5 @@
 ---
+description: "Create a Prediction Query Using the Prediction Query Builder"
 title: "Create a Prediction Query Using the Prediction Query Builder | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

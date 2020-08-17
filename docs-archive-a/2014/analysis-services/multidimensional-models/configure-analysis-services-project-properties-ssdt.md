@@ -1,4 +1,5 @@
 ---
+description: "Configure Analysis Services Project Properties (SSDT)"
 title: "Configure Analysis Services Project Properties (SSDT) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Partitions in Multidimensional Models"
 title: "Partitions in Multidimensional Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

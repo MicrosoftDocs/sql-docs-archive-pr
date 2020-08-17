@@ -1,4 +1,5 @@
 ---
+description: "Specifying Attribute Relationships Between Attributes in a User-Defined Hierarchy"
 title: "Specifying Attribute Relationships Between Attributes in a User-Defined Hierarchy | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

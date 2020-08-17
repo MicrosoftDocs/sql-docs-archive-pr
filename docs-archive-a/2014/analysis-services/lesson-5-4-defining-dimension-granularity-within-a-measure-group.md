@@ -1,4 +1,5 @@
 ---
+description: "Defining Dimension Granularity within a Measure Group"
 title: "Defining Dimension Granularity within a Measure Group | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

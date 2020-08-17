@@ -1,4 +1,5 @@
 ---
+description: "Cleanse Data Using Reference Data (External) Knowledge"
 title: "Cleanse Data Using Reference Data (External) Knowledge | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

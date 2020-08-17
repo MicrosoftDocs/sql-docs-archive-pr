@@ -1,4 +1,5 @@
 ---
+description: "Start the Business Intelligence Wizard in Dimension Designer"
 title: "Start the Business Intelligence Wizard in Dimension Designer | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

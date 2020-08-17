@@ -1,4 +1,5 @@
 ---
+description: "Check Parameters for the System Configuration Checker"
 title: "Check Parameters for the System Configuration Checker | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

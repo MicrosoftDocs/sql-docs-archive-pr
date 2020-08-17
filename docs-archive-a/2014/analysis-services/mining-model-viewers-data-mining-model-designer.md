@@ -1,4 +1,5 @@
 ---
+description: "Mining Model Viewers (Data Mining Model Designer)"
 title: "Mining Model Viewers (Data Mining Model Designer) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

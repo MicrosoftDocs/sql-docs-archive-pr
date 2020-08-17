@@ -1,4 +1,5 @@
 ---
+description: "Connect to an Oracle Database (SSAS)"
 title: "Connect to an Oracle Database (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

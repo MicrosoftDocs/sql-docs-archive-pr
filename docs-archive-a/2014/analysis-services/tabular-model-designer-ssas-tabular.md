@@ -1,4 +1,5 @@
 ---
+description: "Tabular Model Designer (SSAS Tabular)"
 title: "Tabular Model Designer (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

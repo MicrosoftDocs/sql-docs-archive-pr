@@ -1,4 +1,5 @@
 ---
+description: "Power View Reporting Properties (SSAS Tabular)"
 title: "Power View Reporting Properties (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

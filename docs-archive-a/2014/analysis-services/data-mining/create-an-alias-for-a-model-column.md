@@ -1,4 +1,5 @@
 ---
+description: "Create an Alias for a Model Column"
 title: "Create an Alias for a Model Column | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

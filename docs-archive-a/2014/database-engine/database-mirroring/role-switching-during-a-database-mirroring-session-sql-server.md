@@ -1,4 +1,5 @@
 ---
+description: "Role Switching During a Database Mirroring Session (SQL Server)"
 title: "Role Switching During a Database Mirroring Session (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

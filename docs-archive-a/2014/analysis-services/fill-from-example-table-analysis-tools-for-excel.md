@@ -1,4 +1,5 @@
 ---
+description: "Fill From Example (Table Analysis Tools for Excel)"
 title: "Fill From Example (Table Analysis Tools for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

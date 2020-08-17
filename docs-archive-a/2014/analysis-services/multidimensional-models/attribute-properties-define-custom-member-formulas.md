@@ -1,4 +1,5 @@
 ---
+description: "Define Custom Member Formulas"
 title: "Define Custom Member Formulas | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

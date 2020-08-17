@@ -1,4 +1,5 @@
 ---
+description: "Modifying the Date Dimension"
 title: "Modifying the Date Dimension | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

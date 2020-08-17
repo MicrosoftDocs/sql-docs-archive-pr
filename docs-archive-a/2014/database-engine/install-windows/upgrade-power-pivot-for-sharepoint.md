@@ -1,4 +1,5 @@
 ---
+description: "Upgrade PowerPivot for SharePoint"
 title: "Upgrade PowerPivot for SharePoint | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/25/2019"

@@ -1,4 +1,5 @@
 ---
+description: "Change table, column, or row filter mappings (SSAS Tabular)"
 title: "Change table, column, or row filter mappings (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

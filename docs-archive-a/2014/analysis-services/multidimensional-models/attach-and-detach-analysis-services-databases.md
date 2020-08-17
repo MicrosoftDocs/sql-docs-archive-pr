@@ -1,4 +1,5 @@
 ---
+description: "Attach and Detach Analysis Services Databases"
 title: "Attach and Detach Analysis Services Databases | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Client Architecture Requirements for Analysis Services Development"
 title: "Client Architecture Requirements for Analysis Services Development | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Defining Parent Attribute Properties in a Parent-Child Hierarchy"
 title: "Defining Parent Attribute Properties in a Parent-Child Hierarchy | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

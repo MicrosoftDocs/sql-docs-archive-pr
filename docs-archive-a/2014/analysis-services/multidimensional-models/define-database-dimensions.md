@@ -1,4 +1,5 @@
 ---
+description: "Define Database Dimensions"
 title: "Define Database Dimensions | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

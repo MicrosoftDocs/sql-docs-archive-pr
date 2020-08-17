@@ -1,4 +1,5 @@
 ---
+description: "Manually Edit a Prediction Query"
 title: "Manually Edit a Prediction Query | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

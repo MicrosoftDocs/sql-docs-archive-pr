@@ -1,4 +1,5 @@
 ---
+description: "Copy or Export Target Data"
 title: "Copy or Export Target Data | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

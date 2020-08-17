@@ -1,4 +1,5 @@
 ---
+description: "Tabular Modeling (Adventure Works Tutorial)"
 title: "Tabular Modeling (Adventure Works Tutorial) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

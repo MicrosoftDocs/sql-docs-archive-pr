@@ -1,4 +1,5 @@
 ---
+description: "Create an Extended Events Session Using the New Session Dialog"
 title: "Create an Extended Events Session Using the New Session Dialog | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

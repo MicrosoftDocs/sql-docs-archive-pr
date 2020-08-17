@@ -1,4 +1,5 @@
 ---
+description: "Specify a SQL or MDX Query (SSAS)"
 title: "Specify a SQL or MDX Query (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

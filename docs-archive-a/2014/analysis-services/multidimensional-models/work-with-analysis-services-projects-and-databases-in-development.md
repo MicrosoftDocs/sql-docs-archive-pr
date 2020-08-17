@@ -1,4 +1,5 @@
 ---
+description: "Working with Analysis Services Projects and Databases During the Development Phase"
 title: "Working with Analysis Services Projects and Databases During the Development Phase | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

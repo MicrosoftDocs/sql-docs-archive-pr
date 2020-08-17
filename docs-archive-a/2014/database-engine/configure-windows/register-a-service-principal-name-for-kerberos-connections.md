@@ -1,4 +1,5 @@
 ---
+description: "Register a Service Principal Name for Kerberos Connections"
 title: "Register a Service Principal Name for Kerberos Connections | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Analysis Server Properties Dialog Box (Analysis Services)"
 title: "Analysis Server Properties Dialog Box (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

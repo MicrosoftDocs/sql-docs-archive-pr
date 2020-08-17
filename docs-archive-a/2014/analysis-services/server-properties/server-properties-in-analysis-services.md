@@ -1,4 +1,5 @@
 ---
+description: "Configure Server Properties in Analysis Services"
 title: "Configure Server Properties in Analysis Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

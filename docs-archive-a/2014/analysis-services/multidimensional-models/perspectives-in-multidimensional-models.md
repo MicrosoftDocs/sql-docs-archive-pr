@@ -1,4 +1,5 @@
 ---
+description: "Perspectives in Multidimensional Models"
 title: "Perspectives in Multidimensional Models | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Azure Data Lake Store Destination"
 title: "Azure Data Lake Store Destination | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/06/2017"

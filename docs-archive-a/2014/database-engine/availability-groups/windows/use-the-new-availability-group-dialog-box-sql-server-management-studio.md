@@ -1,4 +1,5 @@
 ---
+description: "Use the New Availability Group Dialog Box (SQL Server Management Studio)"
 title: "Use the New Availability Group Dialog Box (SQL Server Management Studio) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/14/2017"

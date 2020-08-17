@@ -1,4 +1,5 @@
 ---
+description: "Understanding Pass Order and Solve Order (MDX)"
 title: "Understanding Pass Order and Solve Order (MDX) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

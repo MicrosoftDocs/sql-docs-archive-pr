@@ -1,4 +1,5 @@
 ---
+description: "Connect to a Report or Data Feed (SSAS)"
 title: "Connect to a Report or Data Feed (SSAS) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

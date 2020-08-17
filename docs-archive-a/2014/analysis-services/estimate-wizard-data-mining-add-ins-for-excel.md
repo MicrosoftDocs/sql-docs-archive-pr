@@ -1,4 +1,5 @@
 ---
+description: "Estimate Wizard (Data Mining Add-ins for Excel)"
 title: "Estimate Wizard (Data Mining Add-ins for Excel) | Microsoft Docs"
 ms.custom: ""
 ms.date: "12/29/2017"

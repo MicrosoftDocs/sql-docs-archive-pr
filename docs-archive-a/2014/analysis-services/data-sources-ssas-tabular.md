@@ -1,4 +1,5 @@
 ---
+description: "Data Sources (SSAS Tabular)"
 title: "Data Sources (SSAS Tabular) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

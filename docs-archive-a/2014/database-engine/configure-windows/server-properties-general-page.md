@@ -1,4 +1,5 @@
 ---
+description: "Server Properties (General Page) - SQL Server Management Studio"
 title: "Server Properties (General Page) - SQL Server Management Studio | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

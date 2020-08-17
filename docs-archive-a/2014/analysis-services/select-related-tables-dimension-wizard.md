@@ -1,4 +1,5 @@
 ---
+description: "Select Related Tables (Dimension Wizard)"
 title: "Select Related Tables (Dimension Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

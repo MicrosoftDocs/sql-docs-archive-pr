@@ -1,4 +1,5 @@
 ---
+description: "Grant permissions on a data source object (Analysis Services)"
 title: "Grant permissions on a data source object (Analysis Services) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

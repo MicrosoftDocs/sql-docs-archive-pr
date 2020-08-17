@@ -1,4 +1,5 @@
 ---
+description: "Microsoft Association Algorithm Technical Reference"
 title: "Microsoft Association Algorithm Technical Reference | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

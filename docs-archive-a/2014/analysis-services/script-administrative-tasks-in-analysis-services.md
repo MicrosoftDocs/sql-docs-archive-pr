@@ -1,4 +1,5 @@
 ---
+description: "Script Administrative Tasks in Analysis Services"
 title: "Script Administrative Tasks in Analysis Services | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "ODBC Table-Valued Parameter Programming Examples"
 title: "ODBC Table-Valued Parameter Programming Examples | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

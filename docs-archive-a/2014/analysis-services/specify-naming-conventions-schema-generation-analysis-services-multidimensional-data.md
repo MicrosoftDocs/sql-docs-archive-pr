@@ -1,4 +1,5 @@
 ---
+description: "Specify Naming Conventions (Schema Generation Wizard) (Analysis Services - Multidimensional Data)"
 title: "Specify Naming Conventions (Schema Generation Wizard) (Analysis Services - Multidimensional Data) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

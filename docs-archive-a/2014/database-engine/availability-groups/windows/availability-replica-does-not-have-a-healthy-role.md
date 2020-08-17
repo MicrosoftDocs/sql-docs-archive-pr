@@ -1,4 +1,5 @@
 ---
+description: "Availability replica does not have a healthy role"
 title: "Availability replica does not have a healthy role | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

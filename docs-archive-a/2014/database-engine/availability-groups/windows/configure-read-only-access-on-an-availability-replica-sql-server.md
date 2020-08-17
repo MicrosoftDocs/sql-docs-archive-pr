@@ -1,4 +1,5 @@
 ---
+description: "Configure Read-Only Access on an Availability Replica (SQL Server)"
 title: "Configure Read-Only Access on an Availability Replica (SQL Server) | Microsoft Docs"
 ms.custom: ""
 ms.date: "10/27/2017"

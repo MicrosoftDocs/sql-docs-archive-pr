@@ -1,4 +1,5 @@
 ---
+description: "Specify Replicas Page (New Availability Group Wizard: Add Replica Wizard)"
 title: "Specify Replicas Page (New Availability Group Wizard: Add Replica Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

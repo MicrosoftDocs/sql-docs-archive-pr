@@ -1,4 +1,5 @@
 ---
+description: "Data Quality Client Home Screen"
 title: "Data Quality Client Home Screen | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

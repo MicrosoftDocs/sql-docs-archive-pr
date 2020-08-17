@@ -1,4 +1,5 @@
 ---
+description: "Install SQL Server 2014 Using a Configuration File"
 title: "Install SQL Server 2014 Using a Configuration File | Microsoft Docs"
 ms.custom: ""
 ms.date: "01/20/2016"

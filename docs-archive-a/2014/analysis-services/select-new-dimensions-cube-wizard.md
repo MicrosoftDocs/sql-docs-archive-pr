@@ -1,4 +1,5 @@
 ---
+description: "Select New Dimensions (Cube Wizard)"
 title: "Select New Dimensions (Cube Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "06/13/2017"

@@ -1,4 +1,5 @@
 ---
+description: "Impersonation Information Dialog Box (Table Import Wizard)"
 title: "Impersonation Information Dialog Box (Table Import Wizard) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"

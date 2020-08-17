@@ -1,4 +1,5 @@
 ---
+description: "Managing Transactions (XMLA)"
 title: "Managing Transactions (XMLA) | Microsoft Docs"
 ms.custom: ""
 ms.date: "03/06/2017"
